@@ -1,0 +1,28 @@
+site_name: fromis DM
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+  features:
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+  
+  font:
+    text: Open Sans
+    code: JetBrains Mono
+markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+#extra_css:
+#  - stylesheets/extra.css
+#extra_javascript:
+#  - javascripts/extra.js
+plugins:
+  - mkdocs-video:
+      is_video: True
+      video_autoplay: False
+  - blog
