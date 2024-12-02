@@ -342,8 +342,8 @@ categories:
 ## Sat, May 18, 2024
 
 **14:49**<br>
-<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200158-thumb.jpg">
-<source src="../media/chaeyoung/weverse__20241201200158.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200158-thumb.jpg">
+<source src="/media/chaeyoung/weverse__20241201200158.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -417,8 +417,8 @@ Your browser does not support the video tag.
 **03:58** 좋은 꿈 꿔요오💝♥️
 
 **21:57**<br>
-<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200200-thumb.jpg">
-<source src="../media/chaeyoung/weverse__20241201200200.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200200-thumb.jpg">
+<source src="/media/chaeyoung/weverse__20241201200200.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -433,8 +433,8 @@ Your browser does not support the video tag.
 **22:00** 지금 1시간 넘게 먹고있는데
 
 **22:00**<br>
-<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200202-thumb.jpg">
-<source src="../media/chaeyoung/weverse__20241201200202.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200202-thumb.jpg">
+<source src="/media/chaeyoung/weverse__20241201200202.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -678,8 +678,8 @@ Your browser does not support the video tag.
 **23:16** ㅋㅋㅋㅋㅋㅋㅋ
 
 **23:19**<br>
-<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200210-thumb.jpg">
-<source src="../media/chaeyoung/weverse__20241201200210.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200210-thumb.jpg">
+<source src="/media/chaeyoung/weverse__20241201200210.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -1349,8 +1349,8 @@ Your browser does not support the video tag.
 **03:26** 다짐을 해도 다져지는 건 이채용
 
 **03:28**<br>
-<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200223-thumb.jpg">
-<source src="../media/chaeyoung/weverse__20241201200223.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200223-thumb.jpg">
+<source src="/media/chaeyoung/weverse__20241201200223.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 

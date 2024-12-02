@@ -39,7 +39,7 @@ def get_parsed_text(row):
     if IMAGE_ID in row:
         image_arr = row[IMAGE_ID].removesuffix('_IMG').split(',')
 
-        links_md = '<br>'.join([f'![]({media_path}/{t})' for t in image_arr])
+        links_md = '<br>'.join([f'![](..{media_path}/{t})' for t in image_arr])
         return \
 f"""
 **{time}**<br>
@@ -151,7 +151,7 @@ if __name__ == '__main__':
 
     tsv_name = f'raw/{member_name}/dm-log.tsv'
 
-    media_path = f'../media/{member_name.lower()}'
+    media_path = f'/media/{member_name.lower()}'
 
     relative_media_path = f'docs/media/{member_name.lower()}'
 
@@ -160,7 +160,7 @@ if __name__ == '__main__':
 
             tsv_name = f'raw/{member_name}/dm-log.tsv'
 
-            media_path = f'../media/{member_name.lower()}'
+            media_path = f'/media/{member_name.lower()}'
 
             relative_media_path = f'docs/media/{member_name.lower()}'
 

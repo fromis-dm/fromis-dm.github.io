@@ -616,8 +616,8 @@ categories:
 **22:17** 9:00
 
 **22:18**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192228-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192228.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192228-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192228.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -844,8 +844,8 @@ Your browser does not support the video tag.
 **21:29** 아웅 영상이라 ㅠㅠㅠㅠ
 
 **21:30**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192249-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192249.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192249-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192249.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -1105,8 +1105,8 @@ Your browser does not support the video tag.
 **09:48** 오케이 슈파소니쿠 큩히 버전도 찍을게에🐱
 
 **09:49**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192256-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192256.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192256-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192256.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -1145,8 +1145,8 @@ Your browser does not support the video tag.
 **10:00** 울산 무대 끝나고 건강하게 샐러드 먹고 과자 어어엄청 먹음!!!!!
 
 **10:01**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192259-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192259.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192259-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192259.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -1433,8 +1433,8 @@ Your browser does not support the video tag.
 **21:47** 투표창 없어????
 
 **21:49**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192318-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192318.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192318-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192318.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -1925,24 +1925,24 @@ Your browser does not support the video tag.
 **10:27** 할 말이 엄청 많은 냐옹이를 만났오
 
 **10:28**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192331-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192331.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192331-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192331.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 **10:29** 이게 첫 눈맞춤
 
 **10:32**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192332-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192332.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192332-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192332.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 **10:32** 아구 이제여 갔다..넘 느려어엉
 
 **10:35**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192333-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192333.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192333-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192333.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -2292,8 +2292,8 @@ Your browser does not support the video tag.
 **01:11** 잘자 라뷰야아♥️🍃
 
 **07:40**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192349-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192349.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192349-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192349.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -2328,8 +2328,8 @@ Your browser does not support the video tag.
 **12:00** ㅎㅎㅎㅎㅎ
 
 **19:10**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192354-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192354.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192354-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192354.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -2365,8 +2365,8 @@ Your browser does not support the video tag.
 **23:12** 똥구래미롬
 
 **23:13**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192357-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192357.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192357-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192357.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -2613,8 +2613,8 @@ Your browser does not support the video tag.
 **20:12** 막내냥이 영상 풀게쑈!!!!!!!!!
 
 **20:12**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192405-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192405.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192405-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192405.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -3060,8 +3060,8 @@ Your browser does not support the video tag.
 **13:10** 햅삐 모교일
 
 **13:10**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192436-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192436.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192436-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192436.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -3380,8 +3380,8 @@ Your browser does not support the video tag.
 **20:44** 그리규 또 있어 선물
 
 **20:48**<br>
-<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192522-thumb.jpg">
-<source src="../media/saerom/weverse__20241201192522.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/saerom/weverse__20241201192522-thumb.jpg">
+<source src="/media/saerom/weverse__20241201192522.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 

@@ -826,14 +826,14 @@ categories:
 **01:45** 있나
 
 **01:46**<br>
-<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184240-thumb.jpg">
-<source src="../media/seoyeon/weverse__20241201184240.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/seoyeon/weverse__20241201184240-thumb.jpg">
+<source src="/media/seoyeon/weverse__20241201184240.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 **01:47**<br>
-<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184245-thumb.jpg">
-<source src="../media/seoyeon/weverse__20241201184245.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/seoyeon/weverse__20241201184245-thumb.jpg">
+<source src="/media/seoyeon/weverse__20241201184245.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -5556,8 +5556,8 @@ Your browser does not support the video tag.
 **00:07** 잘자💚
 
 **22:20**<br>
-<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184502-thumb.jpg">
-<source src="../media/seoyeon/weverse__20241201184502.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/seoyeon/weverse__20241201184502-thumb.jpg">
+<source src="/media/seoyeon/weverse__20241201184502.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -8366,8 +8366,8 @@ Your browser does not support the video tag.
 ## Wed, Jul 10, 2024
 
 **00:36**<br>
-<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184712-thumb.jpg">
-<source src="../media/seoyeon/weverse__20241201184712.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/seoyeon/weverse__20241201184712-thumb.jpg">
+<source src="/media/seoyeon/weverse__20241201184712.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -10348,8 +10348,8 @@ Your browser does not support the video tag.
 ## Sun, Aug 25, 2024
 
 **23:52**<br>
-<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184858-thumb.jpg">
-<source src="../media/seoyeon/weverse__20241201184858.mp4#t=1" type="video/mp4">
+<video controls="controls" preload="none" poster="/media/seoyeon/weverse__20241201184858-thumb.jpg">
+<source src="/media/seoyeon/weverse__20241201184858.mp4#t=1" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
