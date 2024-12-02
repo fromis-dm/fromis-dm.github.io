@@ -341,7 +341,11 @@ categories:
 **21:10** 화티이잉
 ## Sat, May 18, 2024
 
-**14:49** *Media missing weverse__20241201200158.mp4*
+**14:49**<br>
+<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200158-thumb.jpg">
+<source src="../media/chaeyoung/weverse__20241201200158.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **14:50** 꼬슈운 토요일🫶
 
@@ -412,7 +416,11 @@ categories:
 
 **03:58** 좋은 꿈 꿔요오💝♥️
 
-**21:57** *Media missing weverse__20241201200200.mp4*
+**21:57**<br>
+<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200200-thumb.jpg">
+<source src="../media/chaeyoung/weverse__20241201200200.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **21:57** 행복한 일요일 보내쏘???
 
@@ -424,7 +432,11 @@ categories:
 
 **22:00** 지금 1시간 넘게 먹고있는데
 
-**22:00** *Media missing weverse__20241201200202.mp4*
+**22:00**<br>
+<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200202-thumb.jpg">
+<source src="../media/chaeyoung/weverse__20241201200202.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **22:01** 요맨큼 먹어떠
 
@@ -665,7 +677,11 @@ categories:
 
 **23:16** ㅋㅋㅋㅋㅋㅋㅋ
 
-**23:19** *Media missing weverse__20241201200210.mp4*
+**23:19**<br>
+<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200210-thumb.jpg">
+<source src="../media/chaeyoung/weverse__20241201200210.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **23:19** 실시간 잠꼬대 중
 
@@ -1332,7 +1348,11 @@ categories:
 
 **03:26** 다짐을 해도 다져지는 건 이채용
 
-**03:28** *Media missing weverse__20241201200223.mp4*
+**03:28**<br>
+<video controls="controls" preload="none" poster="../media/chaeyoung/weverse__20241201200223-thumb.jpg">
+<source src="../media/chaeyoung/weverse__20241201200223.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **03:28** 내 사딘 대신에
 

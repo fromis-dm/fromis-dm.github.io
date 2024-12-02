@@ -102,17 +102,21 @@ categories:
 
 **01:14** 10년 넘은 시간공유 친구들
 
-**03:04** *Media missing weverse__20241201152222.mp4*
+**03:04**<br>
+<audio controls src="../media/hayoung/weverse__20241201152222.mp4" preload="none"></audio>
 
 **03:06** 🍭🍭🍬
 
 **03:07** 오다주워따
 
-**03:08** *Media missing weverse__20241201152225.mp4*
+**03:08**<br>
+<audio controls src="../media/hayoung/weverse__20241201152225.mp4" preload="none"></audio>
 
-**03:10** *Media missing weverse__20241201152226.mp4*
+**03:10**<br>
+<audio controls src="../media/hayoung/weverse__20241201152226.mp4" preload="none"></audio>
 
-**03:10** *Media missing weverse__20241201152227.mp4*
+**03:10**<br>
+<audio controls src="../media/hayoung/weverse__20241201152227.mp4" preload="none"></audio>
 
 **03:11** flover시
 
@@ -120,21 +124,25 @@ categories:
 
 **03:12** 깼는데 112면 소름 돋았을 거야
 
-**03:16** *Media missing weverse__20241201152228.mp4*
+**03:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201152228.mp4" preload="none"></audio>
 
-**03:18** *Media missing weverse__20241201152229.mp4*
+**03:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201152229.mp4" preload="none"></audio>
 
 **03:18** 🐈‍⬛
 
 **03:18** 뇽
 
-**03:24** *Media missing weverse__20241201152231.mp4*
+**03:24**<br>
+<audio controls src="../media/hayoung/weverse__20241201152231.mp4" preload="none"></audio>
 
 **03:24** 밤편지 짧게💌
 
 **03:29** 또 혹시 듣고 싶은 노래 있어??
 
-**03:42** *Media missing weverse__20241201152232.mp4*
+**03:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201152232.mp4" preload="none"></audio>
 
 **03:42** 우연히 봄🌸
 
@@ -271,7 +279,8 @@ categories:
 
 **01:39** 극장판은 자막 더빙 둘 다 너무 좋아
 
-**01:44** *Media missing weverse__20241201152241.mp4*
+**01:44**<br>
+<audio controls src="../media/hayoung/weverse__20241201152241.mp4" preload="none"></audio>
 
 **01:44** 아 그리구 철수랑 짱아 같은 성우님이셔서 놀랐어
 
@@ -384,9 +393,11 @@ categories:
 
 **03:14** 내가 응원해 줄게 지치지 마☺️
 
-**03:17** *Media missing weverse__20241201152242.mp4*
+**03:17**<br>
+<audio controls src="../media/hayoung/weverse__20241201152242.mp4" preload="none"></audio>
 
-**03:18** *Media missing weverse__20241201152243.mp4*
+**03:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201152243.mp4" preload="none"></audio>
 
 **03:20** 참나 말을 설레게 하시네유?
 
@@ -512,7 +523,8 @@ categories:
 
 **03:11** flover시
 
-**23:40** *Media missing weverse__20241201152251.mp4*
+**23:40**<br>
+<audio controls src="../media/hayoung/weverse__20241201152251.mp4" preload="none"></audio>
 
 **23:41** 모하냐아구그우
 
@@ -757,7 +769,8 @@ categories:
 
 **13:11** flover시
 
-**14:27** *Media missing weverse__20241201152308.mp4*
+**14:27**<br>
+<audio controls src="../media/hayoung/weverse__20241201152308.mp4" preload="none"></audio>
 
 **14:28** 나 오늘 8시간 잤어!!
 
@@ -1017,11 +1030,14 @@ categories:
 
 **16:22** flover시
 
-**16:23** *Media missing weverse__20241201152318.mp4*
+**16:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201152318.mp4" preload="none"></audio>
 
-**16:23** *Media missing weverse__20241201152319.mp4*
+**16:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201152319.mp4" preload="none"></audio>
 
-**16:24** *Media missing weverse__20241201152320.mp4*
+**16:24**<br>
+<audio controls src="../media/hayoung/weverse__20241201152320.mp4" preload="none"></audio>
 
 **16:24** 일요일이자나🌸🌸
 
@@ -1102,7 +1118,11 @@ categories:
 
 **03:34** 플로버도 집 잘 들어갔죠??
 
-**03:39** *Media missing weverse__20241201152332.mp4*
+**03:39**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152332-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152332.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **03:40** 예전에 브이로그 찍다가 진행안항거
 
@@ -1110,7 +1130,11 @@ categories:
 
 **03:40** 자 이제 화장을 지워보도록 하겠슴다~
 
-**03:44** *Media missing weverse__20241201152333.mp4*
+**03:44**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152333-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152333.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **03:45** 냐아
 
@@ -1120,9 +1144,11 @@ categories:
 
 **19:55** flover시
 
-**23:39** *Media missing weverse__20241201152334.mp4*
+**23:39**<br>
+<audio controls src="../media/hayoung/weverse__20241201152334.mp4" preload="none"></audio>
 
-**23:42** *Media missing weverse__20241201152335.mp4*
+**23:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201152335.mp4" preload="none"></audio>
 
 **23:47** 오늘 라디오 드레스코드 뭐더라??
 
@@ -1198,7 +1224,11 @@ categories:
 
 **22:51** 고먐미
 
-**22:52** *Media missing weverse__20241201152336.mp4*
+**22:52**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152336-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152336.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **22:52** 아로😽😽
 
@@ -1845,7 +1875,8 @@ categories:
 
 **02:17** flover 처럼
 
-**02:24** *Media missing weverse__20241201152359.mp4*
+**02:24**<br>
+<audio controls src="../media/hayoung/weverse__20241201152359.mp4" preload="none"></audio>
 
 **02:24** 데뷔시
 
@@ -1950,9 +1981,11 @@ categories:
 
 **12:11** flover시
 
-**18:40** *Media missing weverse__20241201152400.mp4*
+**18:40**<br>
+<audio controls src="../media/hayoung/weverse__20241201152400.mp4" preload="none"></audio>
 
-**18:40** *Media missing weverse__20241201152401.mp4*
+**18:40**<br>
+<audio controls src="../media/hayoung/weverse__20241201152401.mp4" preload="none"></audio>
 
 **18:42** 나는 배고프다아
 
@@ -1968,7 +2001,11 @@ categories:
 
 **22:10** 30번 봐요
 
-**22:22** *Media missing weverse__20241201152402.mp4*
+**22:22**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152402-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152402.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **22:23** 원래 이렇게 찍으려고 했었어
 
@@ -1979,11 +2016,14 @@ categories:
 
 **00:11** flover시
 
-**11:38** *Media missing weverse__20241201152403.mp4*
+**11:38**<br>
+<audio controls src="../media/hayoung/weverse__20241201152403.mp4" preload="none"></audio>
 
-**11:39** *Media missing weverse__20241201152404.mp4*
+**11:39**<br>
+<audio controls src="../media/hayoung/weverse__20241201152404.mp4" preload="none"></audio>
 
-**11:39** *Media missing weverse__20241201152405.mp4*
+**11:39**<br>
+<audio controls src="../media/hayoung/weverse__20241201152405.mp4" preload="none"></audio>
 
 **12:11** flover시
 
@@ -2076,7 +2116,8 @@ categories:
 
 **01:50** 소확행❤️❤️
 
-**01:52** *Media missing weverse__20241201152406.mp4*
+**01:52**<br>
+<audio controls src="../media/hayoung/weverse__20241201152406.mp4" preload="none"></audio>
 
 **01:53** 나에게 너무 소중한 사람 flover
 
@@ -2119,7 +2160,8 @@ categories:
 
 **03:46** 안자는 플로버어
 
-**03:48** *Media missing weverse__20241201152407.mp4*
+**03:48**<br>
+<audio controls src="../media/hayoung/weverse__20241201152407.mp4" preload="none"></audio>
 
 **03:49** 어..
 
@@ -2207,25 +2249,29 @@ categories:
 
 **20:56** 그나저나 밥응 먹었어??
 
-**20:58** *Media missing weverse__20241201152410.mp4*
+**20:58**<br>
+<audio controls src="../media/hayoung/weverse__20241201152410.mp4" preload="none"></audio>
 
 **20:58** 나는 짬뽕순두부 먹었어
 
 **20:59** 무슨 소리인지 맞추기?
 
-**21:00** *Media missing weverse__20241201152411.mp4*
+**21:00**<br>
+<audio controls src="../media/hayoung/weverse__20241201152411.mp4" preload="none"></audio>
 
 **21:00** 이건 진짜 절대 못 맞춘다
 
 **21:00** 헐.. 마이크 한 명 맞췄어
 
-**21:01** *Media missing weverse__20241201152412.mp4*
+**21:01**<br>
+<audio controls src="../media/hayoung/weverse__20241201152412.mp4" preload="none"></audio>
 
 **21:02** 요고는 쉽다
 
 **21:02** 정답 빗
 
-**21:03** *Media missing weverse__20241201152413.mp4*
+**21:03**<br>
+<audio controls src="../media/hayoung/weverse__20241201152413.mp4" preload="none"></audio>
 
 **21:03** 이건 절대 못 맞춘다
 
@@ -2235,7 +2281,8 @@ categories:
 
 **21:03** 와.. 천재야?
 
-**21:05** *Media missing weverse__20241201152414.mp4*
+**21:05**<br>
+<audio controls src="../media/hayoung/weverse__20241201152414.mp4" preload="none"></audio>
 
 **21:05** 난이도 ⭐️⭐️⭐️⭐️⭐️
 
@@ -2249,23 +2296,27 @@ categories:
 
 **21:06** 무슨 일이야??
 
-**21:07** *Media missing weverse__20241201152415.mp4*
+**21:07**<br>
+<audio controls src="../media/hayoung/weverse__20241201152415.mp4" preload="none"></audio>
 
 **21:07** 난이도 ⭐️
 
 **21:08** 키보드 정답
 
-**21:09** *Media missing weverse__20241201152416.mp4*
+**21:09**<br>
+<audio controls src="../media/hayoung/weverse__20241201152416.mp4" preload="none"></audio>
 
 **21:10** 물컵 흔들다 폰에 쏟음
 
-**21:12** *Media missing weverse__20241201152417.mp4*
+**21:12**<br>
+<audio controls src="../media/hayoung/weverse__20241201152417.mp4" preload="none"></audio>
 
 **21:12** 난이도 ⭐️⭐️
 
 **21:12** 책 정답
 
-**21:14** *Media missing weverse__20241201152418.mp4*
+**21:14**<br>
+<audio controls src="../media/hayoung/weverse__20241201152418.mp4" preload="none"></audio>
 
 **21:14** 이건 내가 뭐 따라한지 맞춰바
 
@@ -2474,9 +2525,11 @@ categories:
 
 **10:49** flover 월요팅!!!🩵
 
-**10:50** *Media missing weverse__20241201152436.mp4*
+**10:50**<br>
+<audio controls src="../media/hayoung/weverse__20241201152436.mp4" preload="none"></audio>
 
-**10:53** *Media missing weverse__20241201152437.mp4*
+**10:53**<br>
+<audio controls src="../media/hayoung/weverse__20241201152437.mp4" preload="none"></audio>
 
 **10:54**<br>
 ![](../media/hayoung/weverse__20241201152438.jpg){ loading=lazy }
@@ -2843,7 +2896,8 @@ categories:
 **20:05**<br>
 ![](../media/hayoung/weverse__20241201152517.jpg){ loading=lazy }
 
-**20:07** *Media missing weverse__20241201152519.mp4*
+**20:07**<br>
+<audio controls src="../media/hayoung/weverse__20241201152519.mp4" preload="none"></audio>
 ## Sun, May 12, 2024
 
 **01:10** 플로버어
@@ -2884,7 +2938,8 @@ categories:
 
 **01:18** 💕💕
 
-**01:19** *Media missing weverse__20241201152523.mp4*
+**01:19**<br>
+<audio controls src="../media/hayoung/weverse__20241201152523.mp4" preload="none"></audio>
 
 **01:19** 그냥 부르고 싶었더
 
@@ -2910,7 +2965,11 @@ categories:
 
 **01:27** 진짜 행복했어💕
 
-**11:53** *Media missing weverse__20241201152524.mp4*
+**11:53**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152524-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152524.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **13:11** 냥
 
@@ -2935,16 +2994,19 @@ categories:
 
 **18:56** 다녀왔습니다아
 
-**20:24** *Media missing weverse__20241201152526.mp4*
+**20:24**<br>
+<audio controls src="../media/hayoung/weverse__20241201152526.mp4" preload="none"></audio>
 
 **20:26**<br>
 ![](../media/hayoung/weverse__20241201152528.jpg)<br>![](../media/hayoung/weverse__20241201152531.jpg)<br>![](../media/hayoung/weverse__20241201152533.jpg)<br>![](../media/hayoung/weverse__20241201152535.jpg){ loading=lazy }
 
-**20:27** *Media missing weverse__20241201152536.mp4*
+**20:27**<br>
+<audio controls src="../media/hayoung/weverse__20241201152536.mp4" preload="none"></audio>
 
 **20:27** flover 보여주려구우 찍었자나
 
-**20:32** *Media missing weverse__20241201152537.mp4*
+**20:32**<br>
+<audio controls src="../media/hayoung/weverse__20241201152537.mp4" preload="none"></audio>
 
 **20:32** 벨런스게임하자아
 
@@ -3053,9 +3115,11 @@ categories:
 
 **17:29** ㅋㅋㅋㅋㅋ 꼭꼭 십어먹어!!!!!
 
-**18:26** *Media missing weverse__20241201152541.mp4*
+**18:26**<br>
+<audio controls src="../media/hayoung/weverse__20241201152541.mp4" preload="none"></audio>
 
-**18:28** *Media missing weverse__20241201152542.mp4*
+**18:28**<br>
+<audio controls src="../media/hayoung/weverse__20241201152542.mp4" preload="none"></audio>
 
 **18:29** 무슨버거야
 
@@ -3120,7 +3184,8 @@ categories:
 
 **01:31** 맛있게 잘 묵었다❤️
 
-**01:32** *Media missing weverse__20241201152549.mp4*
+**01:32**<br>
+<audio controls src="../media/hayoung/weverse__20241201152549.mp4" preload="none"></audio>
 
 **01:34** 엽기떡볶이 줄임말은 엽떡 엽기오뎅 줄임말은 뭐냐구??
 
@@ -3128,17 +3193,23 @@ categories:
 
 **01:34** 왱?
 
-**01:35** *Media missing weverse__20241201152550.mp4*
+**01:35**<br>
+<audio controls src="../media/hayoung/weverse__20241201152550.mp4" preload="none"></audio>
 
 **01:35** ㅋㅋㅋㅋㅋㅋㅋㅋ
 
-**01:36** *Media missing weverse__20241201152551.mp4*
+**01:36**<br>
+<audio controls src="../media/hayoung/weverse__20241201152551.mp4" preload="none"></audio>
 
 **01:36** 플로버가 제일 어감이 좋아
 
 **01:36** 달달해
 
-**01:41** *Media missing weverse__20241201152552.mp4*
+**01:41**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152552-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152552.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **01:41** 플로버 이거 들어바
 
@@ -3179,7 +3250,8 @@ categories:
 
 **02:03** 상상만해도 귀여워 어떠케..
 
-**02:04** *Media missing weverse__20241201152555.mp4*
+**02:04**<br>
+<audio controls src="../media/hayoung/weverse__20241201152555.mp4" preload="none"></audio>
 
 **02:05** 일본어 つ(츠) 발음이 진짜 어려운데
 
@@ -3187,9 +3259,11 @@ categories:
 
 **02:05** 츠 발음 진짜 연습 많이 했는데
 
-**02:06** *Media missing weverse__20241201152556.mp4*
+**02:06**<br>
+<audio controls src="../media/hayoung/weverse__20241201152556.mp4" preload="none"></audio>
 
-**02:08** *Media missing weverse__20241201152557.mp4*
+**02:08**<br>
+<audio controls src="../media/hayoung/weverse__20241201152557.mp4" preload="none"></audio>
 
 **02:08** 오늘은 달이 이뿌네요
 
@@ -3217,9 +3291,11 @@ categories:
 
 **16:49** 아점!!!
 
-**16:53** *Media missing weverse__20241201152558.mp4*
+**16:53**<br>
+<audio controls src="../media/hayoung/weverse__20241201152558.mp4" preload="none"></audio>
 
-**16:55** *Media missing weverse__20241201152559.mp4*
+**16:55**<br>
+<audio controls src="../media/hayoung/weverse__20241201152559.mp4" preload="none"></audio>
 
 **16:56** 그런가봐
 
@@ -3235,7 +3311,8 @@ categories:
 
 **17:05** 냥
 
-**17:08** *Media missing weverse__20241201152601.mp4*
+**17:08**<br>
+<audio controls src="../media/hayoung/weverse__20241201152601.mp4" preload="none"></audio>
 
 **17:08** 이 노래 아는 사람
 
@@ -3355,9 +3432,11 @@ categories:
 
 **00:12** 냥
 
-**00:13** *Media missing weverse__20241201152609.mp4*
+**00:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201152609.mp4" preload="none"></audio>
 
-**00:16** *Media missing weverse__20241201152610.mp4*
+**00:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201152610.mp4" preload="none"></audio>
 
 **00:17** 오늘 날씨 좋지!!
 
@@ -3381,7 +3460,8 @@ categories:
 
 **00:22** ㅋㅋㅋㅋ왈루왈루!!
 
-**00:23** *Media missing weverse__20241201152611.mp4*
+**00:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201152611.mp4" preload="none"></audio>
 
 **00:23** 개인기
 
@@ -3389,11 +3469,13 @@ categories:
 
 **00:25** ㅋㅋㅋㅋㅋㅋㅋ 반응이 좋아서 뿌듯한데??
 
-**00:25** *Media missing weverse__20241201152612.mp4*
+**00:25**<br>
+<audio controls src="../media/hayoung/weverse__20241201152612.mp4" preload="none"></audio>
 
 **00:25** 나갈래 고양이
 
-**00:27** *Media missing weverse__20241201152613.mp4*
+**00:27**<br>
+<audio controls src="../media/hayoung/weverse__20241201152613.mp4" preload="none"></audio>
 
 **00:27** 오징어사와 고양이
 
@@ -3403,13 +3485,15 @@ categories:
 
 **00:29** 좋아욥!!
 
-**00:31** *Media missing weverse__20241201152614.mp4*
+**00:31**<br>
+<audio controls src="../media/hayoung/weverse__20241201152614.mp4" preload="none"></audio>
 
 **00:31** 뽈링뽈링
 
 **00:31** 완존 웃으면서 불러야함
 
-**00:34** *Media missing weverse__20241201152615.mp4*
+**00:34**<br>
+<audio controls src="../media/hayoung/weverse__20241201152615.mp4" preload="none"></audio>
 
 **00:34** 요즘 이 노래에 빠졌어
 
@@ -3438,13 +3522,21 @@ categories:
 
 **00:45** 아로 공격력 0%라서 너무 귀여워
 
-**00:48** *Media missing weverse__20241201152618.mp4*
+**00:48**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152618-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152618.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **00:48** 아주 고로롱밖에 못하는 바보 고냥이
 
 **00:50** 귀엽지이
 
-**00:52** *Media missing weverse__20241201152619.mp4*
+**00:52**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152619-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152619.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **00:53** 아로한테 꼬순내 나냐궁?
 
@@ -3468,7 +3560,8 @@ categories:
 
 **00:58** 꼬한테 물어보니까 오늘 목욕강아지래
 
-**00:59** *Media missing weverse__20241201152620.mp4*
+**00:59**<br>
+<audio controls src="../media/hayoung/weverse__20241201152620.mp4" preload="none"></audio>
 
 **00:59** 이렇게 불러줘야 해!!
 
@@ -3667,9 +3760,11 @@ categories:
 **23:57** 감자탕 먹구시퍼..!!
 ## Sat, May 25, 2024
 
-**00:07** *Media missing weverse__20241201152656.mp4*
+**00:07**<br>
+<audio controls src="../media/hayoung/weverse__20241201152656.mp4" preload="none"></audio>
 
-**00:08** *Media missing weverse__20241201152657.mp4*
+**00:08**<br>
+<audio controls src="../media/hayoung/weverse__20241201152657.mp4" preload="none"></audio>
 
 **00:08** 하루에 세번 목풀기!!!!
 
@@ -3681,11 +3776,13 @@ categories:
 
 **00:11** flover시
 
-**00:11** *Media missing weverse__20241201152658.mp4*
+**00:11**<br>
+<audio controls src="../media/hayoung/weverse__20241201152658.mp4" preload="none"></audio>
 
 **00:12** 사람들이 자꾸 무더바~~
 
-**00:13** *Media missing weverse__20241201152700.mp4*
+**00:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201152700.mp4" preload="none"></audio>
 
 **00:14** 나 이 친구 영상보고 살짝 울컥했다
 
@@ -3705,7 +3802,8 @@ categories:
 
 **00:20** 마음이 사르르 녹는 그런 리액션이야
 
-**00:21** *Media missing weverse__20241201152701.mp4*
+**00:21**<br>
+<audio controls src="../media/hayoung/weverse__20241201152701.mp4" preload="none"></audio>
 
 **00:21** 이런 느낌
 
@@ -3904,7 +4002,8 @@ categories:
 
 **00:20** 그래도!! 맛있었어
 
-**19:35** *Media missing weverse__20241201152706.mp4*
+**19:35**<br>
+<audio controls src="../media/hayoung/weverse__20241201152706.mp4" preload="none"></audio>
 
 **19:38** 오늘 저녁밥 부대찌개 어때?
 
@@ -3980,9 +4079,11 @@ categories:
 
 **12:34** 이뻐 정말
 
-**19:47** *Media missing weverse__20241201152717.mp4*
+**19:47**<br>
+<audio controls src="../media/hayoung/weverse__20241201152717.mp4" preload="none"></audio>
 
-**19:49** *Media missing weverse__20241201152718.mp4*
+**19:49**<br>
+<audio controls src="../media/hayoung/weverse__20241201152718.mp4" preload="none"></audio>
 
 **19:52** 쀼
 
@@ -4006,9 +4107,11 @@ categories:
 
 **15:22** flover시
 
-**15:58** *Media missing weverse__20241201152720.mp4*
+**15:58**<br>
+<audio controls src="../media/hayoung/weverse__20241201152720.mp4" preload="none"></audio>
 
-**15:59** *Media missing weverse__20241201152721.mp4*
+**15:59**<br>
+<audio controls src="../media/hayoung/weverse__20241201152721.mp4" preload="none"></audio>
 
 **16:05**<br>
 ![](../media/hayoung/weverse__20241201152722.jpg){ loading=lazy }
@@ -4077,7 +4180,11 @@ categories:
 
 **15:52** flover 나는 이제 준비하러 가볼게🤍
 
-**18:16** *Media missing weverse__20241201152740.mp4*
+**18:16**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152740-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152740.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **18:16** 저번에 라이브 키기 전에 리허설로 키고 노래 연습 한 거 ㅋㅋㅋㅋㅋ
 
@@ -4172,7 +4279,11 @@ categories:
 
 **03:22** flover시
 
-**11:50** *Media missing weverse__20241201152748.mp4*
+**11:50**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201152748-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201152748.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **11:51** 귀여운 멍뭉이 보세요
 
@@ -4334,7 +4445,8 @@ categories:
 
 **01:56** ???
 
-**01:56** *Media missing weverse__20241201152750.mp4*
+**01:56**<br>
+<audio controls src="../media/hayoung/weverse__20241201152750.mp4" preload="none"></audio>
 
 **01:56** 이렇게 말하면 물음표 써져 ㅋㅋㅋ
 
@@ -4471,13 +4583,17 @@ categories:
 
 **01:06** 아로아휴지 보는 것도 나쁘지 않군
 
-**01:07** *Media missing weverse__20241201152805.mp4*
+**01:07**<br>
+<audio controls src="../media/hayoung/weverse__20241201152805.mp4" preload="none"></audio>
 
-**01:08** *Media missing weverse__20241201152806.mp4*
+**01:08**<br>
+<audio controls src="../media/hayoung/weverse__20241201152806.mp4" preload="none"></audio>
 
-**01:08** *Media missing weverse__20241201152807.mp4*
+**01:08**<br>
+<audio controls src="../media/hayoung/weverse__20241201152807.mp4" preload="none"></audio>
 
-**01:09** *Media missing weverse__20241201152808.mp4*
+**01:09**<br>
+<audio controls src="../media/hayoung/weverse__20241201152808.mp4" preload="none"></audio>
 
 **01:09** 아마따송
 
@@ -4491,7 +4607,8 @@ categories:
 
 **01:11** 반응이 뜨겁구만??
 
-**01:13** *Media missing weverse__20241201152809.mp4*
+**01:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201152809.mp4" preload="none"></audio>
 
 **01:14** 🌙
 ## Sat, Jun 8, 2024
@@ -4568,13 +4685,16 @@ categories:
 
 **16:33** flover시
 
-**16:43** *Media missing weverse__20241201152813.mp4*
+**16:43**<br>
+<audio controls src="../media/hayoung/weverse__20241201152813.mp4" preload="none"></audio>
 
-**16:43** *Media missing weverse__20241201152814.mp4*
+**16:43**<br>
+<audio controls src="../media/hayoung/weverse__20241201152814.mp4" preload="none"></audio>
 
 **16:44** 치즈 쫄볶이 맛있겠다
 
-**16:44** *Media missing weverse__20241201152816.mp4*
+**16:44**<br>
+<audio controls src="../media/hayoung/weverse__20241201152816.mp4" preload="none"></audio>
 
 **16:45** 오늘 서브웨이말구 다른 느낌
 
@@ -4590,7 +4710,8 @@ categories:
 
 **16:47** 언젠가 꼭 만들어 보고 싶어
 
-**16:48** *Media missing weverse__20241201152817.mp4*
+**16:48**<br>
+<audio controls src="../media/hayoung/weverse__20241201152817.mp4" preload="none"></audio>
 
 **16:48** 오늘 내가 빵이 땡기나?
 
@@ -4618,7 +4739,8 @@ categories:
 
 **17:00** 나두 첨 들어봐서 검색해봤다!!
 
-**17:06** *Media missing weverse__20241201152818.mp4*
+**17:06**<br>
+<audio controls src="../media/hayoung/weverse__20241201152818.mp4" preload="none"></audio>
 
 **18:55** flover시
 
@@ -4663,7 +4785,8 @@ categories:
 
 **22:53** 네모네모 안경 하나 샀다!!
 
-**23:20** *Media missing weverse__20241201152823.mp4*
+**23:20**<br>
+<audio controls src="../media/hayoung/weverse__20241201152823.mp4" preload="none"></audio>
 
 **23:23** 뭐 먹을까나~~
 ## Wed, Jun 12, 2024
@@ -4705,11 +4828,14 @@ categories:
 
 **15:14** 진짜 날씨 완전 덥습니다
 
-**20:16** *Media missing weverse__20241201152827.mp4*
+**20:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201152827.mp4" preload="none"></audio>
 
-**20:17** *Media missing weverse__20241201152828.mp4*
+**20:17**<br>
+<audio controls src="../media/hayoung/weverse__20241201152828.mp4" preload="none"></audio>
 
-**20:18** *Media missing weverse__20241201152829.mp4*
+**20:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201152829.mp4" preload="none"></audio>
 
 **20:18** 밥은 먹었어??
 
@@ -4740,9 +4866,11 @@ categories:
 
 **16:33** flover시
 
-**16:42** *Media missing weverse__20241201152833.mp4*
+**16:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201152833.mp4" preload="none"></audio>
 
-**16:42** *Media missing weverse__20241201152834.mp4*
+**16:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201152834.mp4" preload="none"></audio>
 
 **16:42** 운동??!!
 
@@ -4758,13 +4886,16 @@ categories:
 
 **16:46** 음성으로 치니까 군고구마가 궁 고구마로 나와
 
-**16:47** *Media missing weverse__20241201152835.mp4*
+**16:47**<br>
+<audio controls src="../media/hayoung/weverse__20241201152835.mp4" preload="none"></audio>
 
-**16:47** *Media missing weverse__20241201152836.mp4*
+**16:47**<br>
+<audio controls src="../media/hayoung/weverse__20241201152836.mp4" preload="none"></audio>
 
 **16:48** 그래!! 군고구마 군!고!구!마!
 
-**16:51** *Media missing weverse__20241201152837.mp4*
+**16:51**<br>
+<audio controls src="../media/hayoung/weverse__20241201152837.mp4" preload="none"></audio>
 
 **16:51** 난 이따 밥 먹으려구우😚
 
@@ -4860,7 +4991,8 @@ categories:
 
 **01:24** 8월까지 설레는 맘으로 기다려줘요
 
-**01:27** *Media missing weverse__20241201152843.mp4*
+**01:27**<br>
+<audio controls src="../media/hayoung/weverse__20241201152843.mp4" preload="none"></audio>
 
 **01:27** 생각나써
 
@@ -4904,7 +5036,8 @@ categories:
 
 **01:34** 미안
 
-**01:34** *Media missing weverse__20241201152844.mp4*
+**01:34**<br>
+<audio controls src="../media/hayoung/weverse__20241201152844.mp4" preload="none"></audio>
 
 **01:35** 오늘 너무 재밌었습니다 그리고 너무 너무 행복했습니다아🩵💕
 
@@ -5134,7 +5267,8 @@ categories:
 
 **23:02** 헿
 
-**23:02** *Media missing weverse__20241201152854.mp4*
+**23:02**<br>
+<audio controls src="../media/hayoung/weverse__20241201152854.mp4" preload="none"></audio>
 ## Thu, Jun 20, 2024
 
 **00:11** flover시
@@ -5174,7 +5308,8 @@ categories:
 
 **02:11** flover시
 
-**19:46** *Media missing weverse__20241201152856.mp4*
+**19:46**<br>
+<audio controls src="../media/hayoung/weverse__20241201152856.mp4" preload="none"></audio>
 
 **19:47** 밥은 먹었어??
 
@@ -5185,7 +5320,8 @@ categories:
 
 **02:11** flover시
 
-**03:12** *Media missing weverse__20241201152857.mp4*
+**03:12**<br>
+<audio controls src="../media/hayoung/weverse__20241201152857.mp4" preload="none"></audio>
 
 **03:13** 아 라이부 중이구나!!!
 
@@ -5193,9 +5329,11 @@ categories:
 
 **03:14** 이따 오께에
 
-**03:22** *Media missing weverse__20241201152858.mp4*
+**03:22**<br>
+<audio controls src="../media/hayoung/weverse__20241201152858.mp4" preload="none"></audio>
 
-**03:23** *Media missing weverse__20241201152859.mp4*
+**03:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201152859.mp4" preload="none"></audio>
 
 **03:25** 하지만 참을거야
 
@@ -5245,7 +5383,8 @@ categories:
 
 **03:40** flover 아무 생각 말고 푹 잤으면 좋겠어
 
-**03:40** *Media missing weverse__20241201152912.mp4*
+**03:40**<br>
+<audio controls src="../media/hayoung/weverse__20241201152912.mp4" preload="none"></audio>
 
 **03:41** 앞에 아로소리 조금 들어갔다
 
@@ -5253,9 +5392,11 @@ categories:
 
 **03:41** 잘 자 내시낑🌙💕
 
-**03:42** *Media missing weverse__20241201152913.mp4*
+**03:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201152913.mp4" preload="none"></audio>
 
-**03:43** *Media missing weverse__20241201152914.mp4*
+**03:43**<br>
+<audio controls src="../media/hayoung/weverse__20241201152914.mp4" preload="none"></audio>
 ## Mon, Jun 24, 2024
 
 **00:16** ㅋㅋㅋ 녹음 하는 거 어떻게 알아떠
@@ -5592,9 +5733,11 @@ categories:
 
 **02:11** flover시
 
-**10:00** *Media missing weverse__20241201152921.mp4*
+**10:00**<br>
+<audio controls src="../media/hayoung/weverse__20241201152921.mp4" preload="none"></audio>
 
-**10:01** *Media missing weverse__20241201152922.mp4*
+**10:01**<br>
+<audio controls src="../media/hayoung/weverse__20241201152922.mp4" preload="none"></audio>
 ## Sat, Jun 29, 2024
 
 **00:11** flover시
@@ -5712,13 +5855,17 @@ categories:
 **18:55** flover시
 ## Mon, Jul 1, 2024
 
-**00:06** *Media missing weverse__20241201152928.mp4*
+**00:06**<br>
+<audio controls src="../media/hayoung/weverse__20241201152928.mp4" preload="none"></audio>
 
-**00:07** *Media missing weverse__20241201152929.mp4*
+**00:07**<br>
+<audio controls src="../media/hayoung/weverse__20241201152929.mp4" preload="none"></audio>
 
-**00:07** *Media missing weverse__20241201152930.mp4*
+**00:07**<br>
+<audio controls src="../media/hayoung/weverse__20241201152930.mp4" preload="none"></audio>
 
-**00:08** *Media missing weverse__20241201152931.mp4*
+**00:08**<br>
+<audio controls src="../media/hayoung/weverse__20241201152931.mp4" preload="none"></audio>
 
 **00:09** 7월도 잘 부탁해요
 
@@ -5734,29 +5881,38 @@ categories:
 
 **00:11** flover시
 
-**00:13** *Media missing weverse__20241201152932.mp4*
+**00:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201152932.mp4" preload="none"></audio>
 
-**00:13** *Media missing weverse__20241201152933.mp4*
+**00:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201152933.mp4" preload="none"></audio>
 
-**00:14** *Media missing weverse__20241201152934.mp4*
+**00:14**<br>
+<audio controls src="../media/hayoung/weverse__20241201152934.mp4" preload="none"></audio>
 
-**00:14** *Media missing weverse__20241201152935.mp4*
+**00:14**<br>
+<audio controls src="../media/hayoung/weverse__20241201152935.mp4" preload="none"></audio>
 
-**02:16** *Media missing weverse__20241201152936.mp4*
+**02:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201152936.mp4" preload="none"></audio>
 
-**02:16** *Media missing weverse__20241201152937.mp4*
+**02:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201152937.mp4" preload="none"></audio>
 
-**02:18** *Media missing weverse__20241201152939.mp4*
+**02:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201152939.mp4" preload="none"></audio>
 
 **02:18** 배고픈 사람~~
 
 **02:19** 저요오오
 
-**02:20** *Media missing weverse__20241201152940.mp4*
+**02:20**<br>
+<audio controls src="../media/hayoung/weverse__20241201152940.mp4" preload="none"></audio>
 
 **02:21** 내일 일어나면 맛있는 거 먹어야지
 
-**02:22** *Media missing weverse__20241201152941.mp4*
+**02:22**<br>
+<audio controls src="../media/hayoung/weverse__20241201152941.mp4" preload="none"></audio>
 
 **02:23** 배고프다
 
@@ -5766,13 +5922,16 @@ categories:
 
 **02:25** 다음에 라면 먹방하쟈아❤️‍🔥
 
-**02:26** *Media missing weverse__20241201152942.mp4*
+**02:26**<br>
+<audio controls src="../media/hayoung/weverse__20241201152942.mp4" preload="none"></audio>
 
 **02:26** 이제 슬슬 자러 가볼까아?
 
-**02:28** *Media missing weverse__20241201152943.mp4*
+**02:28**<br>
+<audio controls src="../media/hayoung/weverse__20241201152943.mp4" preload="none"></audio>
 
-**02:28** *Media missing weverse__20241201152944.mp4*
+**02:28**<br>
+<audio controls src="../media/hayoung/weverse__20241201152944.mp4" preload="none"></audio>
 
 **02:29** 일어나면 연락주세요🌙flover씨😛
 
@@ -5856,13 +6015,16 @@ categories:
 
 **18:41** 너무 신기해
 
-**18:42** *Media missing weverse__20241201152947.mp4*
+**18:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201152947.mp4" preload="none"></audio>
 
 **18:43** 저녁은 뭐 먹으려구??
 
-**18:43** *Media missing weverse__20241201152948.mp4*
+**18:43**<br>
+<audio controls src="../media/hayoung/weverse__20241201152948.mp4" preload="none"></audio>
 
-**18:44** *Media missing weverse__20241201152949.mp4*
+**18:44**<br>
+<audio controls src="../media/hayoung/weverse__20241201152949.mp4" preload="none"></audio>
 
 **18:44** 샐러드 오랜만에 먹었는데 맛있더라??
 
@@ -6049,7 +6211,8 @@ categories:
 
 **21:39** 그런데 빗소리 엄청 좋다
 
-**21:40** *Media missing weverse__20241201152951.mp4*
+**21:40**<br>
+<audio controls src="../media/hayoung/weverse__20241201152951.mp4" preload="none"></audio>
 
 **21:41** 고기굽는 소리라고 생각해봐아
 
@@ -6069,11 +6232,14 @@ categories:
 
 **21:44** 🍿
 
-**21:49** *Media missing weverse__20241201152953.mp4*
+**21:49**<br>
+<audio controls src="../media/hayoung/weverse__20241201152953.mp4" preload="none"></audio>
 
-**21:50** *Media missing weverse__20241201152954.mp4*
+**21:50**<br>
+<audio controls src="../media/hayoung/weverse__20241201152954.mp4" preload="none"></audio>
 
-**22:04** *Media missing weverse__20241201152955.mp4*
+**22:04**<br>
+<audio controls src="../media/hayoung/weverse__20241201152955.mp4" preload="none"></audio>
 
 **22:04** 갑자기 이 노래 생각나서 불러봤어
 
@@ -6135,11 +6301,19 @@ categories:
 
 **20:22** 바로 떡볶이..
 
-**20:40** *Media missing weverse__20241201153000.mp4*
+**20:40**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201153000-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201153000.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **20:43** 귀여운 점박이 고냥이~
 
-**20:49** *Media missing weverse__20241201153001.mp4*
+**20:49**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201153001-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201153001.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **20:49** 지금 점박이고냥이 공격력 0.3% 생겼다
 
@@ -6154,17 +6328,22 @@ categories:
 **22:23** 진짜 노랑즈!!
 ## Mon, Jul 8, 2024
 
-**01:40** *Media missing weverse__20241201153006.mp4*
+**01:40**<br>
+<audio controls src="../media/hayoung/weverse__20241201153006.mp4" preload="none"></audio>
 
-**01:40** *Media missing weverse__20241201153009.mp4*
+**01:40**<br>
+<audio controls src="../media/hayoung/weverse__20241201153009.mp4" preload="none"></audio>
 
 **01:42** 나는 이제 씻고 나와서 일기 쓰려고🥰
 
-**01:44** *Media missing weverse__20241201153012.mp4*
+**01:44**<br>
+<audio controls src="../media/hayoung/weverse__20241201153012.mp4" preload="none"></audio>
 
-**01:45** *Media missing weverse__20241201153013.mp4*
+**01:45**<br>
+<audio controls src="../media/hayoung/weverse__20241201153013.mp4" preload="none"></audio>
 
-**01:46** *Media missing weverse__20241201153014.mp4*
+**01:46**<br>
+<audio controls src="../media/hayoung/weverse__20241201153014.mp4" preload="none"></audio>
 
 **01:48** 워터밤 때 사진을 못 찍었다아…🥺
 
@@ -6228,37 +6407,50 @@ categories:
 
 **02:11** flover시
 
-**02:12** *Media missing weverse__20241201153021.mp4*
+**02:12**<br>
+<audio controls src="../media/hayoung/weverse__20241201153021.mp4" preload="none"></audio>
 
-**02:13** *Media missing weverse__20241201153022.mp4*
+**02:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201153022.mp4" preload="none"></audio>
 
-**02:13** *Media missing weverse__20241201153023.mp4*
+**02:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201153023.mp4" preload="none"></audio>
 
-**02:14** *Media missing weverse__20241201153024.mp4*
+**02:14**<br>
+<audio controls src="../media/hayoung/weverse__20241201153024.mp4" preload="none"></audio>
 
 **02:15** 으응 내일의 나 파이팅~~!!
 
-**02:17** *Media missing weverse__20241201153026.mp4*
+**02:17**<br>
+<audio controls src="../media/hayoung/weverse__20241201153026.mp4" preload="none"></audio>
 
-**02:18** *Media missing weverse__20241201153027.mp4*
+**02:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201153027.mp4" preload="none"></audio>
 
-**02:18** *Media missing weverse__20241201153028.mp4*
+**02:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201153028.mp4" preload="none"></audio>
 
-**02:19** *Media missing weverse__20241201153029.mp4*
+**02:19**<br>
+<audio controls src="../media/hayoung/weverse__20241201153029.mp4" preload="none"></audio>
 
 **02:20** 나 메조 소프라노!!
 
-**02:20** *Media missing weverse__20241201153030.mp4*
+**02:20**<br>
+<audio controls src="../media/hayoung/weverse__20241201153030.mp4" preload="none"></audio>
 
 **02:21** 초등학교 4학년인가 5학년 때 했어
 
-**02:22** *Media missing weverse__20241201153031.mp4*
+**02:22**<br>
+<audio controls src="../media/hayoung/weverse__20241201153031.mp4" preload="none"></audio>
 
-**02:23** *Media missing weverse__20241201153032.mp4*
+**02:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201153032.mp4" preload="none"></audio>
 
-**02:24** *Media missing weverse__20241201153033.mp4*
+**02:24**<br>
+<audio controls src="../media/hayoung/weverse__20241201153033.mp4" preload="none"></audio>
 
-**02:24** *Media missing weverse__20241201153034.mp4*
+**02:24**<br>
+<audio controls src="../media/hayoung/weverse__20241201153034.mp4" preload="none"></audio>
 
 **02:25** 오오 다른 곳도 많이 나왔대
 
@@ -6376,7 +6568,8 @@ categories:
 **22:56** 💕💕
 ## Wed, Jul 10, 2024
 
-**04:32** *Media missing weverse__20241201153044.mp4*
+**04:32**<br>
+<audio controls src="../media/hayoung/weverse__20241201153044.mp4" preload="none"></audio>
 
 **04:33** flover시
 
@@ -6438,23 +6631,32 @@ categories:
 
 **19:46** Great!!
 
-**19:49** *Media missing weverse__20241201153047.mp4*
+**19:49**<br>
+<audio controls src="../media/hayoung/weverse__20241201153047.mp4" preload="none"></audio>
 
-**19:50** *Media missing weverse__20241201153048.mp4*
+**19:50**<br>
+<audio controls src="../media/hayoung/weverse__20241201153048.mp4" preload="none"></audio>
 
-**19:51** *Media missing weverse__20241201153049.mp4*
+**19:51**<br>
+<audio controls src="../media/hayoung/weverse__20241201153049.mp4" preload="none"></audio>
 
-**19:52** *Media missing weverse__20241201153050.mp4*
+**19:52**<br>
+<audio controls src="../media/hayoung/weverse__20241201153050.mp4" preload="none"></audio>
 
-**19:54** *Media missing weverse__20241201153052.mp4*
+**19:54**<br>
+<audio controls src="../media/hayoung/weverse__20241201153052.mp4" preload="none"></audio>
 
-**19:55** *Media missing weverse__20241201153053.mp4*
+**19:55**<br>
+<audio controls src="../media/hayoung/weverse__20241201153053.mp4" preload="none"></audio>
 
-**19:55** *Media missing weverse__20241201153054.mp4*
+**19:55**<br>
+<audio controls src="../media/hayoung/weverse__20241201153054.mp4" preload="none"></audio>
 
-**19:56** *Media missing weverse__20241201153055.mp4*
+**19:56**<br>
+<audio controls src="../media/hayoung/weverse__20241201153055.mp4" preload="none"></audio>
 
-**19:58** *Media missing weverse__20241201153056.mp4*
+**19:58**<br>
+<audio controls src="../media/hayoung/weverse__20241201153056.mp4" preload="none"></audio>
 
 **19:59** 10초 어렵댜…
 
@@ -6757,19 +6959,26 @@ categories:
 
 **04:07** 아라쏘..
 
-**04:09** *Media missing weverse__20241201153123.mp4*
+**04:09**<br>
+<audio controls src="../media/hayoung/weverse__20241201153123.mp4" preload="none"></audio>
 
-**04:10** *Media missing weverse__20241201153124.mp4*
+**04:10**<br>
+<audio controls src="../media/hayoung/weverse__20241201153124.mp4" preload="none"></audio>
 
-**04:10** *Media missing weverse__20241201153125.mp4*
+**04:10**<br>
+<audio controls src="../media/hayoung/weverse__20241201153125.mp4" preload="none"></audio>
 
-**04:12** *Media missing weverse__20241201153126.mp4*
+**04:12**<br>
+<audio controls src="../media/hayoung/weverse__20241201153126.mp4" preload="none"></audio>
 
-**04:14** *Media missing weverse__20241201153127.mp4*
+**04:14**<br>
+<audio controls src="../media/hayoung/weverse__20241201153127.mp4" preload="none"></audio>
 
-**04:15** *Media missing weverse__20241201153128.mp4*
+**04:15**<br>
+<audio controls src="../media/hayoung/weverse__20241201153128.mp4" preload="none"></audio>
 
-**04:18** *Media missing weverse__20241201153130.mp4*
+**04:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201153130.mp4" preload="none"></audio>
 ## Wed, Jul 17, 2024
 
 **03:02** 모하냐아아
@@ -6829,7 +7038,8 @@ categories:
 
 **02:11** flover시
 
-**02:49** *Media missing weverse__20241201153152.mp4*
+**02:49**<br>
+<audio controls src="../media/hayoung/weverse__20241201153152.mp4" preload="none"></audio>
 ## Sat, Jul 20, 2024
 
 **00:11** flover시
@@ -6848,7 +7058,8 @@ categories:
 
 **00:57** 따끈따끈한 사진🍿
 
-**01:00** *Media missing weverse__20241201153201.mp4*
+**01:00**<br>
+<audio controls src="../media/hayoung/weverse__20241201153201.mp4" preload="none"></audio>
 
 **01:00** 목풀어
 
@@ -6887,7 +7098,11 @@ categories:
 
 **02:53** 아로 하악질 하눈 거 한 번도 못 봤어
 
-**02:57** *Media missing weverse__20241201153204.mp4*
+**02:57**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201153204-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201153204.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **02:57** 이런 영상이 있네에
 
@@ -7074,15 +7289,18 @@ categories:
 
 **15:42** 내가 어제 근육을 잘 썼구나 싶어
 
-**15:44** *Media missing weverse__20241201153212.mp4*
+**15:44**<br>
+<audio controls src="../media/hayoung/weverse__20241201153212.mp4" preload="none"></audio>
 
-**15:45** *Media missing weverse__20241201153213.mp4*
+**15:45**<br>
+<audio controls src="../media/hayoung/weverse__20241201153213.mp4" preload="none"></audio>
 
 **15:47** 아보카도 명란밥 맛있겠다!!
 
 **15:48** 밉-밉-
 
-**20:37** *Media missing weverse__20241201153214.mp4*
+**20:37**<br>
+<audio controls src="../media/hayoung/weverse__20241201153214.mp4" preload="none"></audio>
 
 **23:17** 나는 오늘 일정 끝났다아🌙💕
 
@@ -7203,45 +7421,63 @@ categories:
 
 **02:11** flover시
 
-**02:25** *Media missing weverse__20241201153218.mp4*
+**02:25**<br>
+<audio controls src="../media/hayoung/weverse__20241201153218.mp4" preload="none"></audio>
 
-**02:27** *Media missing weverse__20241201153219.mp4*
+**02:27**<br>
+<audio controls src="../media/hayoung/weverse__20241201153219.mp4" preload="none"></audio>
 
 **02:27** 졸려
 
-**02:28** *Media missing weverse__20241201153220.mp4*
+**02:28**<br>
+<audio controls src="../media/hayoung/weverse__20241201153220.mp4" preload="none"></audio>
 
-**02:28** *Media missing weverse__20241201153222.mp4*
+**02:28**<br>
+<audio controls src="../media/hayoung/weverse__20241201153222.mp4" preload="none"></audio>
 
-**02:30** *Media missing weverse__20241201153223.mp4*
+**02:30**<br>
+<audio controls src="../media/hayoung/weverse__20241201153223.mp4" preload="none"></audio>
 
-**02:31** *Media missing weverse__20241201153224.mp4*
+**02:31**<br>
+<audio controls src="../media/hayoung/weverse__20241201153224.mp4" preload="none"></audio>
 
-**02:33** *Media missing weverse__20241201153225.mp4*
+**02:33**<br>
+<audio controls src="../media/hayoung/weverse__20241201153225.mp4" preload="none"></audio>
 
-**02:33** *Media missing weverse__20241201153226.mp4*
+**02:33**<br>
+<audio controls src="../media/hayoung/weverse__20241201153226.mp4" preload="none"></audio>
 
-**02:34** *Media missing weverse__20241201153227.mp4*
+**02:34**<br>
+<audio controls src="../media/hayoung/weverse__20241201153227.mp4" preload="none"></audio>
 
-**02:36** *Media missing weverse__20241201153228.mp4*
+**02:36**<br>
+<audio controls src="../media/hayoung/weverse__20241201153228.mp4" preload="none"></audio>
 
-**02:38** *Media missing weverse__20241201153229.mp4*
+**02:38**<br>
+<audio controls src="../media/hayoung/weverse__20241201153229.mp4" preload="none"></audio>
 
-**02:39** *Media missing weverse__20241201153231.mp4*
+**02:39**<br>
+<audio controls src="../media/hayoung/weverse__20241201153231.mp4" preload="none"></audio>
 
-**02:41** *Media missing weverse__20241201153232.mp4*
+**02:41**<br>
+<audio controls src="../media/hayoung/weverse__20241201153232.mp4" preload="none"></audio>
 
-**02:43** *Media missing weverse__20241201153233.mp4*
+**02:43**<br>
+<audio controls src="../media/hayoung/weverse__20241201153233.mp4" preload="none"></audio>
 
-**02:45** *Media missing weverse__20241201153234.mp4*
+**02:45**<br>
+<audio controls src="../media/hayoung/weverse__20241201153234.mp4" preload="none"></audio>
 
-**02:46** *Media missing weverse__20241201153235.mp4*
+**02:46**<br>
+<audio controls src="../media/hayoung/weverse__20241201153235.mp4" preload="none"></audio>
 
-**02:46** *Media missing weverse__20241201153236.mp4*
+**02:46**<br>
+<audio controls src="../media/hayoung/weverse__20241201153236.mp4" preload="none"></audio>
 
 **02:46** 이정도?
 
-**02:48** *Media missing weverse__20241201153238.mp4*
+**02:48**<br>
+<audio controls src="../media/hayoung/weverse__20241201153238.mp4" preload="none"></audio>
 
 **02:48** 진짜 비밀이다아
 
@@ -7739,7 +7975,8 @@ categories:
 
 **02:35** 헐 생각해보니까 벌써 8월이다!!!
 
-**02:35** *Media missing weverse__20241201153301.mp4*
+**02:35**<br>
+<audio controls src="../media/hayoung/weverse__20241201153301.mp4" preload="none"></audio>
 
 **02:36** 오 맞아!! 광주에서는 시작을 시우시작 이렇게 말해
 
@@ -7747,11 +7984,13 @@ categories:
 
 **02:37** 음도 있어
 
-**02:37** *Media missing weverse__20241201153302.mp4*
+**02:37**<br>
+<audio controls src="../media/hayoung/weverse__20241201153302.mp4" preload="none"></audio>
 
 **02:38** 서울도 음이 있더라
 
-**02:38** *Media missing weverse__20241201153303.mp4*
+**02:38**<br>
+<audio controls src="../media/hayoung/weverse__20241201153303.mp4" preload="none"></audio>
 
 **02:38** 이런 느낌이었는데
 
@@ -7765,7 +8004,8 @@ categories:
 
 **02:40** 광주에서 숫자 세는 법 있어
 
-**02:41** *Media missing weverse__20241201153304.mp4*
+**02:41**<br>
+<audio controls src="../media/hayoung/weverse__20241201153304.mp4" preload="none"></audio>
 
 **02:41** 이거야
 
@@ -7773,7 +8013,8 @@ categories:
 
 **02:43** 서울은 이오십 이렇게 하잖아
 
-**02:45** *Media missing weverse__20241201153305.mp4*
+**02:45**<br>
+<audio controls src="../media/hayoung/weverse__20241201153305.mp4" preload="none"></audio>
 
 **02:45** 나 목소리 녹아있네
 
@@ -8014,7 +8255,8 @@ categories:
 
 **00:00** 나는 씻구 일기쓰고 잘 준비 하려구우
 
-**00:02** *Media missing weverse__20241201153310.mp4*
+**00:02**<br>
+<audio controls src="../media/hayoung/weverse__20241201153310.mp4" preload="none"></audio>
 
 **00:03** 노래연습하다가
 
@@ -8040,17 +8282,22 @@ categories:
 
 **00:09** 부대찌개나 감자탕
 
-**00:09** *Media missing weverse__20241201153311.mp4*
+**00:09**<br>
+<audio controls src="../media/hayoung/weverse__20241201153311.mp4" preload="none"></audio>
 
-**00:10** *Media missing weverse__20241201153312.mp4*
+**00:10**<br>
+<audio controls src="../media/hayoung/weverse__20241201153312.mp4" preload="none"></audio>
 
-**00:11** *Media missing weverse__20241201153313.mp4*
+**00:11**<br>
+<audio controls src="../media/hayoung/weverse__20241201153313.mp4" preload="none"></audio>
 
 **00:11** flover시
 
-**00:12** *Media missing weverse__20241201153315.mp4*
+**00:12**<br>
+<audio controls src="../media/hayoung/weverse__20241201153315.mp4" preload="none"></audio>
 
-**00:17** *Media missing weverse__20241201153316.mp4*
+**00:17**<br>
+<audio controls src="../media/hayoung/weverse__20241201153316.mp4" preload="none"></audio>
 
 **00:18** 대충 이렇게 쓰면 되겠지
 
@@ -8076,7 +8323,8 @@ categories:
 
 **00:23** 내 일기장에
 
-**00:24** *Media missing weverse__20241201153317.mp4*
+**00:24**<br>
+<audio controls src="../media/hayoung/weverse__20241201153317.mp4" preload="none"></audio>
 
 **00:24** 진짜 일기쓰러 갑니다
 
@@ -8093,13 +8341,15 @@ categories:
 
 **01:02** 일기 쓰구 나는 지금 슬슬 자려구우
 
-**01:03** *Media missing weverse__20241201153319.mp4*
+**01:03**<br>
+<audio controls src="../media/hayoung/weverse__20241201153319.mp4" preload="none"></audio>
 
 **01:05** 컴백 우리 카운트다운 세자
 
 **01:05** 벌써 긴장돼
 
-**01:05** *Media missing weverse__20241201153321.mp4*
+**01:05**<br>
+<audio controls src="../media/hayoung/weverse__20241201153321.mp4" preload="none"></audio>
 
 **01:06** D-8
 
@@ -8693,7 +8943,8 @@ categories:
 
 **03:41** 일기두 썼더!!
 
-**03:44** *Media missing weverse__20241201153332.mp4*
+**03:44**<br>
+<audio controls src="../media/hayoung/weverse__20241201153332.mp4" preload="none"></audio>
 
 **03:44** 누구게
 
@@ -8701,7 +8952,8 @@ categories:
 
 **03:45** 점바기고냥이
 
-**03:46** *Media missing weverse__20241201153334.mp4*
+**03:46**<br>
+<audio controls src="../media/hayoung/weverse__20241201153334.mp4" preload="none"></audio>
 
 **03:47** ㅋㅋㅋㅋㅋㅋㅋ
 
@@ -8711,7 +8963,8 @@ categories:
 
 **03:47** ㅋㅌㅌㅋㅋㅋ
 
-**03:49** *Media missing weverse__20241201153335.mp4*
+**03:49**<br>
+<audio controls src="../media/hayoung/weverse__20241201153335.mp4" preload="none"></audio>
 
 **03:49** 아로 보면서 이 소리 내면 대답해줘
 
@@ -8719,9 +8972,11 @@ categories:
 
 **03:49** ㅋㅋㅋㅋㅋㅋㅋㅋ 진짜 귀여워 ㅋㅋㅋㅋ
 
-**03:50** *Media missing weverse__20241201153336.mp4*
+**03:50**<br>
+<audio controls src="../media/hayoung/weverse__20241201153336.mp4" preload="none"></audio>
 
-**03:52** *Media missing weverse__20241201153337.mp4*
+**03:52**<br>
+<audio controls src="../media/hayoung/weverse__20241201153337.mp4" preload="none"></audio>
 
 **03:53** 속이 다 시원하다
 
@@ -8730,9 +8985,11 @@ categories:
 
 **03:55** 선물!!
 
-**03:58** *Media missing weverse__20241201153340.mp4*
+**03:58**<br>
+<audio controls src="../media/hayoung/weverse__20241201153340.mp4" preload="none"></audio>
 
-**03:59** *Media missing weverse__20241201153341.mp4*
+**03:59**<br>
+<audio controls src="../media/hayoung/weverse__20241201153341.mp4" preload="none"></audio>
 
 **04:00**<br>
 ![](../media/hayoung/weverse__20241201153342.jpg){ loading=lazy }
@@ -8902,9 +9159,11 @@ categories:
 
 **23:32** 진짜 맛있어
 
-**23:32** *Media missing weverse__20241201153417.mp4*
+**23:32**<br>
+<audio controls src="../media/hayoung/weverse__20241201153417.mp4" preload="none"></audio>
 
-**23:33** *Media missing weverse__20241201153418.mp4*
+**23:33**<br>
+<audio controls src="../media/hayoung/weverse__20241201153418.mp4" preload="none"></audio>
 
 **23:33** 이 노래야
 
@@ -8912,9 +9171,11 @@ categories:
 
 **23:34** 냐오마랑 이써
 
-**23:36** *Media missing weverse__20241201153420.mp4*
+**23:36**<br>
+<audio controls src="../media/hayoung/weverse__20241201153420.mp4" preload="none"></audio>
 
-**23:36** *Media missing weverse__20241201153421.mp4*
+**23:36**<br>
+<audio controls src="../media/hayoung/weverse__20241201153421.mp4" preload="none"></audio>
 
 **23:37** 어때?
 
@@ -8952,7 +9213,8 @@ categories:
 
 **19:38** 수퍼소닉수퍼소닉오
 
-**20:02** *Media missing weverse__20241201153424.mp4*
+**20:02**<br>
+<audio controls src="../media/hayoung/weverse__20241201153424.mp4" preload="none"></audio>
 
 **20:03** 오늘 고냥이의 날이야??
 
@@ -8977,13 +9239,15 @@ categories:
 
 **21:02** 그걸 운명이라고 하는 거야
 
-**21:03** *Media missing weverse__20241201153435.mp4*
+**21:03**<br>
+<audio controls src="../media/hayoung/weverse__20241201153435.mp4" preload="none"></audio>
 
 **21:03** 너무 배부른데
 
 **21:03** 운동 가야 해
 
-**21:03** *Media missing weverse__20241201153436.mp4*
+**21:03**<br>
+<audio controls src="../media/hayoung/weverse__20241201153436.mp4" preload="none"></audio>
 
 **23:02** 퇴근합니다아🥰
 ## Fri, Aug 9, 2024
@@ -9010,7 +9274,8 @@ categories:
 
 **02:02** 비타민 잘 챙겨먹구
 
-**02:06** *Media missing weverse__20241201153437.mp4*
+**02:06**<br>
+<audio controls src="../media/hayoung/weverse__20241201153437.mp4" preload="none"></audio>
 
 **02:11** flover시
 
@@ -9090,7 +9355,8 @@ categories:
 
 **03:22** 못참찌이
 
-**03:23** *Media missing weverse__20241201153443.mp4*
+**03:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201153443.mp4" preload="none"></audio>
 
 **09:59** 좋은 하루 보내 flover🥰
 
@@ -9176,9 +9442,11 @@ categories:
 
 **02:17** 구ㅏ여운 점바기 고냥이~🎶
 
-**02:18** *Media missing weverse__20241201153448.mp4*
+**02:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201153448.mp4" preload="none"></audio>
 
-**02:19** *Media missing weverse__20241201153450.mp4*
+**02:19**<br>
+<audio controls src="../media/hayoung/weverse__20241201153450.mp4" preload="none"></audio>
 
 **02:22** flover 오늘 너무너무 고생많았구우
 
@@ -9198,7 +9466,8 @@ categories:
 
 **02:30** 날 녹였어 flover가
 
-**02:31** *Media missing weverse__20241201153451.mp4*
+**02:31**<br>
+<audio controls src="../media/hayoung/weverse__20241201153451.mp4" preload="none"></audio>
 
 **02:31** 나 지금 입이 귀에 걸렸더….
 
@@ -9262,13 +9531,15 @@ categories:
 
 **01:23** D-DAY❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥
 
-**01:23** *Media missing weverse__20241201153453.mp4*
+**01:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201153453.mp4" preload="none"></audio>
 
 **01:24** 시간이 진짜 안 가는 것 같았는데
 
 **01:25** 지금 생각해 보면 진짜 빨리 왔다?
 
-**01:26** *Media missing weverse__20241201153454.mp4*
+**01:26**<br>
+<audio controls src="../media/hayoung/weverse__20241201153454.mp4" preload="none"></audio>
 
 **01:27** 뒤에는 flover가 부르면 돼
 
@@ -9282,11 +9553,14 @@ categories:
 
 **01:30** 우아……….. 맞춘 사람 있어
 
-**01:31** *Media missing weverse__20241201153456.mp4*
+**01:31**<br>
+<audio controls src="../media/hayoung/weverse__20241201153456.mp4" preload="none"></audio>
 
-**01:32** *Media missing weverse__20241201153457.mp4*
+**01:32**<br>
+<audio controls src="../media/hayoung/weverse__20241201153457.mp4" preload="none"></audio>
 
-**01:33** *Media missing weverse__20241201153458.mp4*
+**01:33**<br>
+<audio controls src="../media/hayoung/weverse__20241201153458.mp4" preload="none"></audio>
 
 **01:34** 1234
 
@@ -9781,7 +10055,11 @@ categories:
 
 **19:44** ㅋㅋㅋㅋㅋ
 
-**19:48** *Media missing weverse__20241201153527.mp4*
+**19:48**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201153527-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201153527.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **19:49** ㅋㅋㅋㅋ
 
@@ -9966,9 +10244,11 @@ categories:
 
 **08:01** 오늘도 좋은 하루 보내라옹
 
-**08:01** *Media missing weverse__20241201153555.mp4*
+**08:01**<br>
+<audio controls src="../media/hayoung/weverse__20241201153555.mp4" preload="none"></audio>
 
-**08:02** *Media missing weverse__20241201153556.mp4*
+**08:02**<br>
+<audio controls src="../media/hayoung/weverse__20241201153556.mp4" preload="none"></audio>
 
 **10:26**<br>
 ![](../media/hayoung/weverse__20241201153558.jpg)<br>![](../media/hayoung/weverse__20241201153600.jpg){ loading=lazy }
@@ -9986,13 +10266,17 @@ categories:
 **20:29** 함께해줘서 고마워요
 ## Sat, Aug 24, 2024
 
-**02:05** *Media missing weverse__20241201153602.mp4*
+**02:05**<br>
+<audio controls src="../media/hayoung/weverse__20241201153602.mp4" preload="none"></audio>
 
-**02:06** *Media missing weverse__20241201153603.mp4*
+**02:06**<br>
+<audio controls src="../media/hayoung/weverse__20241201153603.mp4" preload="none"></audio>
 
-**02:06** *Media missing weverse__20241201153604.mp4*
+**02:06**<br>
+<audio controls src="../media/hayoung/weverse__20241201153604.mp4" preload="none"></audio>
 
-**02:07** *Media missing weverse__20241201153605.mp4*
+**02:07**<br>
+<audio controls src="../media/hayoung/weverse__20241201153605.mp4" preload="none"></audio>
 
 **11:11** 밥은 먹었나아??
 
@@ -10062,13 +10346,20 @@ categories:
 
 **00:11** flover시
 
-**02:53** *Media missing weverse__20241201153611.mp4*
+**02:53**<br>
+<audio controls src="../media/hayoung/weverse__20241201153611.mp4" preload="none"></audio>
 
-**02:53** *Media missing weverse__20241201153612.mp4*
+**02:53**<br>
+<audio controls src="../media/hayoung/weverse__20241201153612.mp4" preload="none"></audio>
 
-**02:55** *Media missing weverse__20241201153613.mp4*
+**02:55**<br>
+<audio controls src="../media/hayoung/weverse__20241201153613.mp4" preload="none"></audio>
 
-**02:56** *Media missing weverse__20241201153614.mp4*
+**02:56**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201153614-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201153614.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **02:56** 아까 이거 보내주려구 찍었는데 이제야 보낸다아
 
@@ -10097,9 +10388,11 @@ categories:
 
 **03:05** 조명은 빌렸어 네이버 조명 아니야!!!
 
-**03:11** *Media missing weverse__20241201153617.mp4*
+**03:11**<br>
+<audio controls src="../media/hayoung/weverse__20241201153617.mp4" preload="none"></audio>
 
-**03:12** *Media missing weverse__20241201153618.mp4*
+**03:12**<br>
+<audio controls src="../media/hayoung/weverse__20241201153618.mp4" preload="none"></audio>
 
 **03:18** 나는 이제 일기쓰고 자려구🌙
 
@@ -10121,7 +10414,8 @@ categories:
 
 **03:24** ㅋㅋㅋㅋㅋ 진짜아아 잘자미!!!!
 
-**03:26** *Media missing weverse__20241201153619.mp4*
+**03:26**<br>
+<audio controls src="../media/hayoung/weverse__20241201153619.mp4" preload="none"></audio>
 
 **12:11** flover시❤️‍🔥
 
@@ -10137,7 +10431,8 @@ categories:
 
 **00:11** flover시❤️‍🔥❤️‍🔥❤️‍🔥
 
-**01:00** *Media missing weverse__20241201153622.mp4*
+**01:00**<br>
+<audio controls src="../media/hayoung/weverse__20241201153622.mp4" preload="none"></audio>
 
 **01:00** 진짜 많이 많이 고마워
 
@@ -10278,7 +10573,8 @@ categories:
 
 **01:36** 고마워요오 잘자미🌙🌙💕💕
 
-**01:38** *Media missing weverse__20241201153626.mp4*
+**01:38**<br>
+<audio controls src="../media/hayoung/weverse__20241201153626.mp4" preload="none"></audio>
 
 **15:22** flover시
 
@@ -10401,7 +10697,8 @@ categories:
 
 **23:21** 새콤달콤 먹으면 멀미가 없어진다구요??
 
-**23:23** *Media missing weverse__20241201153631.mp4*
+**23:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201153631.mp4" preload="none"></audio>
 
 **23:24** 숙소 오자마자 아로가 고로롱이야
 
@@ -10451,7 +10748,8 @@ categories:
 
 **00:11** flover시
 
-**00:51** *Media missing weverse__20241201153632.mp4*
+**00:51**<br>
+<audio controls src="../media/hayoung/weverse__20241201153632.mp4" preload="none"></audio>
 
 **00:53** 오늘 하루 잘 보냈어??
 
@@ -10472,7 +10770,11 @@ categories:
 
 **00:56** 진짜 대박이네
 
-**01:00** *Media missing weverse__20241201153634.mp4*
+**01:00**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201153634-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201153634.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **01:00** 선물💕💕
 
@@ -10528,7 +10830,8 @@ categories:
 
 **01:16** 기승전 수퍼소닉
 
-**01:17** *Media missing weverse__20241201153635.mp4*
+**01:17**<br>
+<audio controls src="../media/hayoung/weverse__20241201153635.mp4" preload="none"></audio>
 
 **01:17** ㅋㅋㅋㅋ 신라면 블랙 힘도 대단해??
 
@@ -10612,7 +10915,8 @@ categories:
 
 **01:47** 진짜 귀엽네
 
-**01:49** *Media missing weverse__20241201153640.mp4*
+**01:49**<br>
+<audio controls src="../media/hayoung/weverse__20241201153640.mp4" preload="none"></audio>
 
 **01:50** 강아지 빨리 코쿠리코하세요오
 
@@ -10638,7 +10942,8 @@ categories:
 
 **01:53** 너무 맘에들어..
 
-**01:53** *Media missing weverse__20241201153641.mp4*
+**01:53**<br>
+<audio controls src="../media/hayoung/weverse__20241201153641.mp4" preload="none"></audio>
 
 **01:53** 이 느낌이야
 
@@ -10783,9 +11088,11 @@ categories:
 
 **01:25** 모 다양한 모습 보여줄 수 있어서 나름 조하
 
-**01:27** *Media missing weverse__20241201153645.mp4*
+**01:27**<br>
+<audio controls src="../media/hayoung/weverse__20241201153645.mp4" preload="none"></audio>
 
-**01:28** *Media missing weverse__20241201153646.mp4*
+**01:28**<br>
+<audio controls src="../media/hayoung/weverse__20241201153646.mp4" preload="none"></audio>
 
 **01:29** ㅋㅋㅋㅋㅋㅋㅋ
 
@@ -10801,7 +11108,8 @@ categories:
 
 **01:33** 가야하미
 
-**01:34** *Media missing weverse__20241201153647.mp4*
+**01:34**<br>
+<audio controls src="../media/hayoung/weverse__20241201153647.mp4" preload="none"></audio>
 
 **01:34** 1234
 
@@ -10820,9 +11128,11 @@ categories:
 
 **14:06** 9월도 잘 부탁해 ☘️🍀
 
-**23:48** *Media missing weverse__20241201153649.mp4*
+**23:48**<br>
+<audio controls src="../media/hayoung/weverse__20241201153649.mp4" preload="none"></audio>
 
-**23:48** *Media missing weverse__20241201153650.mp4*
+**23:48**<br>
+<audio controls src="../media/hayoung/weverse__20241201153650.mp4" preload="none"></audio>
 
 **23:49**<br>
 ![](../media/hayoung/weverse__20241201153651.jpg){ loading=lazy }
@@ -10840,9 +11150,11 @@ categories:
 
 **23:55** 나 단발 하고 싶어😵‍💫😵‍💫
 
-**23:56** *Media missing weverse__20241201153657.mp4*
+**23:56**<br>
+<audio controls src="../media/hayoung/weverse__20241201153657.mp4" preload="none"></audio>
 
-**23:56** *Media missing weverse__20241201153658.mp4*
+**23:56**<br>
+<audio controls src="../media/hayoung/weverse__20241201153658.mp4" preload="none"></audio>
 
 **23:59** 나 흑발이 좋아 지금이 좋아??
 ## Mon, Sep 2, 2024
@@ -10896,13 +11208,16 @@ categories:
 
 **03:24** 모지
 
-**03:25** *Media missing weverse__20241201153701.mp4*
+**03:25**<br>
+<audio controls src="../media/hayoung/weverse__20241201153701.mp4" preload="none"></audio>
 
-**03:25** *Media missing weverse__20241201153702.mp4*
+**03:25**<br>
+<audio controls src="../media/hayoung/weverse__20241201153702.mp4" preload="none"></audio>
 
 **03:26** 어때 어감 귀엽지
 
-**03:28** *Media missing weverse__20241201153703.mp4*
+**03:28**<br>
+<audio controls src="../media/hayoung/weverse__20241201153703.mp4" preload="none"></audio>
 
 **03:29** 🌙🌙🌙
 
@@ -10923,7 +11238,8 @@ categories:
 
 **23:01** 완존 꿀팁이네
 
-**23:34** *Media missing weverse__20241201153706.mp4*
+**23:34**<br>
+<audio controls src="../media/hayoung/weverse__20241201153706.mp4" preload="none"></audio>
 
 **23:34** 이 노래 갑자기 생각났어
 
@@ -10938,7 +11254,8 @@ categories:
 
 **23:42** 진짜 웃기는 사람이야아
 
-**23:45** *Media missing weverse__20241201153712.mp4*
+**23:45**<br>
+<audio controls src="../media/hayoung/weverse__20241201153712.mp4" preload="none"></audio>
 
 **23:45** 나는 문어 감미롭게 부르기
 
@@ -10952,7 +11269,8 @@ categories:
 
 **23:47** 이게 다 누워 있어서 심심해서 그런 거야아
 
-**23:48** *Media missing weverse__20241201153713.mp4*
+**23:48**<br>
+<audio controls src="../media/hayoung/weverse__20241201153713.mp4" preload="none"></audio>
 
 **23:48** 나는 문어 사투리 버전
 
@@ -10962,19 +11280,22 @@ categories:
 
 **23:50** 다른 버전 뭐가 있을까?
 
-**23:51** *Media missing weverse__20241201153714.mp4*
+**23:51**<br>
+<audio controls src="../media/hayoung/weverse__20241201153714.mp4" preload="none"></audio>
 
 **23:51** 고양이 버전
 
 **23:51** 이건 별로 안 웃기다
 
-**23:52** *Media missing weverse__20241201153716.mp4*
+**23:52**<br>
+<audio controls src="../media/hayoung/weverse__20241201153716.mp4" preload="none"></audio>
 
 **23:56** 이제 저는 씻으러 가보겠습니다
 
 **23:57** 다음에 재밌는 거 또 들고 올게
 
-**23:58** *Media missing weverse__20241201153717.mp4*
+**23:58**<br>
+<audio controls src="../media/hayoung/weverse__20241201153717.mp4" preload="none"></audio>
 ## Tue, Sep 3, 2024
 
 **12:11** flover시
@@ -11060,17 +11381,21 @@ categories:
 
 **02:11** flover시
 
-**02:13** *Media missing weverse__20241201153719.mp4*
+**02:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201153719.mp4" preload="none"></audio>
 
-**02:14** *Media missing weverse__20241201153721.mp4*
+**02:14**<br>
+<audio controls src="../media/hayoung/weverse__20241201153721.mp4" preload="none"></audio>
 
-**02:15** *Media missing weverse__20241201153722.mp4*
+**02:15**<br>
+<audio controls src="../media/hayoung/weverse__20241201153722.mp4" preload="none"></audio>
 
 **02:15** 나 지금 기분 좋은데에
 
 **02:16** 지금 조금 배고파
 
-**02:17** *Media missing weverse__20241201153723.mp4*
+**02:17**<br>
+<audio controls src="../media/hayoung/weverse__20241201153723.mp4" preload="none"></audio>
 
 **02:18** 라면😵‍💫😵‍💫
 
@@ -11130,9 +11455,11 @@ categories:
 
 **02:33** 피자 10조각!!!
 
-**02:33** *Media missing weverse__20241201153724.mp4*
+**02:33**<br>
+<audio controls src="../media/hayoung/weverse__20241201153724.mp4" preload="none"></audio>
 
-**02:34** *Media missing weverse__20241201153725.mp4*
+**02:34**<br>
+<audio controls src="../media/hayoung/weverse__20241201153725.mp4" preload="none"></audio>
 
 **02:35** 아로 문열어달래
 
@@ -11197,7 +11524,11 @@ categories:
 
 **22:05** 나 집와써어~
 
-**22:06** *Media missing weverse__20241201153730.mp4*
+**22:06**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201153730-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201153730.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **22:07** 선물이야🥰🥰
 
@@ -11215,7 +11546,8 @@ categories:
 
 **18:55** flover시
 
-**22:55** *Media missing weverse__20241201153732.mp4*
+**22:55**<br>
+<audio controls src="../media/hayoung/weverse__20241201153732.mp4" preload="none"></audio>
 
 **22:57** 시구 시타 비하인드 봤어요
 
@@ -11223,7 +11555,8 @@ categories:
 
 **22:58** 요즘 비하인드 너무 재밌는 거 같아
 
-**23:00** *Media missing weverse__20241201153734.mp4*
+**23:00**<br>
+<audio controls src="../media/hayoung/weverse__20241201153734.mp4" preload="none"></audio>
 
 **23:01** 맛있었어
 ## Mon, Sep 9, 2024
@@ -11234,17 +11567,20 @@ categories:
 
 **02:38** 2시간 정도 잠이 들어 버렸다
 
-**02:39** *Media missing weverse__20241201153735.mp4*
+**02:39**<br>
+<audio controls src="../media/hayoung/weverse__20241201153735.mp4" preload="none"></audio>
 
 **02:40** 반짜기 고냥이는 이렇게 부르쟈
 
-**02:42** *Media missing weverse__20241201153736.mp4*
+**02:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201153736.mp4" preload="none"></audio>
 
 **02:42** 점바기 고냥이는 이렇게
 
 **02:44** 가사는 항상 달라져
 
-**02:46** *Media missing weverse__20241201153737.mp4*
+**02:46**<br>
+<audio controls src="../media/hayoung/weverse__20241201153737.mp4" preload="none"></audio>
 
 **02:46** 풀송이야
 
@@ -11254,27 +11590,33 @@ categories:
 
 **02:47** 잠을 너무 잘 잤나바
 
-**02:49** *Media missing weverse__20241201153738.mp4*
+**02:49**<br>
+<audio controls src="../media/hayoung/weverse__20241201153738.mp4" preload="none"></audio>
 
 **02:49** 우리 딱 10분만 놀다가 자자
 
 **02:49** 먼저 자야 될 사람은 자도 괜찮아🌙☘️🍀
 
-**02:52** *Media missing weverse__20241201153740.mp4*
+**02:52**<br>
+<audio controls src="../media/hayoung/weverse__20241201153740.mp4" preload="none"></audio>
 
 **02:52** 그래도 나 사랑하지??
 
-**02:55** *Media missing weverse__20241201153741.mp4*
+**02:55**<br>
+<audio controls src="../media/hayoung/weverse__20241201153741.mp4" preload="none"></audio>
 
 **02:55** 이거는 사투리 버전이 잘 안 되네
 
-**02:58** *Media missing weverse__20241201153742.mp4*
+**02:58**<br>
+<audio controls src="../media/hayoung/weverse__20241201153742.mp4" preload="none"></audio>
 
-**02:59** *Media missing weverse__20241201153743.mp4*
+**02:59**<br>
+<audio controls src="../media/hayoung/weverse__20241201153743.mp4" preload="none"></audio>
 
 **03:00** 도요새 버전 빗더힛
 
-**03:02** *Media missing weverse__20241201153745.mp4*
+**03:02**<br>
+<audio controls src="../media/hayoung/weverse__20241201153745.mp4" preload="none"></audio>
 
 **03:02** 히ㅣ..
 
@@ -11337,13 +11679,17 @@ categories:
 
 **03:39** 뭐든 좋아
 
-**03:41** *Media missing weverse__20241201153747.mp4*
+**03:41**<br>
+<audio controls src="../media/hayoung/weverse__20241201153747.mp4" preload="none"></audio>
 
-**03:42** *Media missing weverse__20241201153749.mp4*
+**03:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201153749.mp4" preload="none"></audio>
 
-**03:43** *Media missing weverse__20241201153750.mp4*
+**03:43**<br>
+<audio controls src="../media/hayoung/weverse__20241201153750.mp4" preload="none"></audio>
 
-**03:44** *Media missing weverse__20241201153751.mp4*
+**03:44**<br>
+<audio controls src="../media/hayoung/weverse__20241201153751.mp4" preload="none"></audio>
 
 **03:44** 안농🌙🌙💕💕
 ## Tue, Sep 10, 2024
@@ -11553,9 +11899,11 @@ categories:
 
 **23:41** 맞아 그때 내가 모하는지 맞춰보라구 한 날이야아
 
-**23:42** *Media missing weverse__20241201153754.mp4*
+**23:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201153754.mp4" preload="none"></audio>
 
-**23:43** *Media missing weverse__20241201153755.mp4*
+**23:43**<br>
+<audio controls src="../media/hayoung/weverse__20241201153755.mp4" preload="none"></audio>
 
 **23:44** 나는 이제 슬슬 레슨가볼게🫳🫳
 
@@ -11600,13 +11948,16 @@ categories:
 
 **03:14** 고마워어💕💕
 
-**03:16** *Media missing weverse__20241201153802.mp4*
+**03:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201153802.mp4" preload="none"></audio>
 
-**03:16** *Media missing weverse__20241201153804.mp4*
+**03:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201153804.mp4" preload="none"></audio>
 
 **03:17** 그럼 우리 222까지만 수다떨까??
 
-**03:18** *Media missing weverse__20241201153805.mp4*
+**03:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201153805.mp4" preload="none"></audio>
 
 **03:19** 시간 보면 항상 11:19 막 이랬어
 
@@ -11626,7 +11977,8 @@ categories:
 
 **03:24** 내가 좋아하는 음식 평소에 2+1하다가 가끔 1+1하면 기분 진짜 좋다
 
-**03:25** *Media missing weverse__20241201153806.mp4*
+**03:25**<br>
+<audio controls src="../media/hayoung/weverse__20241201153806.mp4" preload="none"></audio>
 
 **03:26** ㅋㅋㅋㅋ
 
@@ -11636,7 +11988,8 @@ categories:
 
 **03:28** 너만 본다구🥰🥰
 
-**03:31** *Media missing weverse__20241201153807.mp4*
+**03:31**<br>
+<audio controls src="../media/hayoung/weverse__20241201153807.mp4" preload="none"></audio>
 
 **03:31** 잘자미🌙
 
@@ -11752,7 +12105,8 @@ categories:
 
 **00:34** 식곤증 몰려온다
 
-**00:35** *Media missing weverse__20241201153816.mp4*
+**00:35**<br>
+<audio controls src="../media/hayoung/weverse__20241201153816.mp4" preload="none"></audio>
 
 **00:35** 내일은 진짜 일찍 일어나야 해
 
@@ -11894,7 +12248,8 @@ categories:
 
 **12:11** flover시
 
-**13:51** *Media missing weverse__20241201153830.mp4*
+**13:51**<br>
+<audio controls src="../media/hayoung/weverse__20241201153830.mp4" preload="none"></audio>
 
 **13:51** 오늘 점심 뭐 먹을 거야?
 
@@ -12069,7 +12424,8 @@ categories:
 
 **11:54** 오늘 맛있는 거 챙겨먹구 행복한 하루 보내☘️🍀
 
-**11:56** *Media missing weverse__20241201153837.mp4*
+**11:56**<br>
+<audio controls src="../media/hayoung/weverse__20241201153837.mp4" preload="none"></audio>
 
 **11:57** 아꾸 이뽀
 
@@ -12145,9 +12501,11 @@ categories:
 
 **00:11** flover시
 
-**02:05** *Media missing weverse__20241201153841.mp4*
+**02:05**<br>
+<audio controls src="../media/hayoung/weverse__20241201153841.mp4" preload="none"></audio>
 
-**02:06** *Media missing weverse__20241201153842.mp4*
+**02:06**<br>
+<audio controls src="../media/hayoung/weverse__20241201153842.mp4" preload="none"></audio>
 
 **02:06** 맞아, 날씨 진짜 많이 선선해졌어
 
@@ -12169,7 +12527,8 @@ categories:
 
 **02:11** flover시
 
-**02:14** *Media missing weverse__20241201153843.mp4*
+**02:14**<br>
+<audio controls src="../media/hayoung/weverse__20241201153843.mp4" preload="none"></audio>
 
 **02:15** 음성편지!!!!
 
@@ -12263,7 +12622,11 @@ categories:
 
 **00:12** flover시
 
-**00:18** *Media missing weverse__20241201153849.mp4*
+**00:18**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201153849-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201153849.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **00:18** 짠!!
 
@@ -12657,13 +13020,15 @@ categories:
 
 **16:09** 하늘 너무 예뻐
 
-**16:31** *Media missing weverse__20241201153911.mp4*
+**16:31**<br>
+<audio controls src="../media/hayoung/weverse__20241201153911.mp4" preload="none"></audio>
 
 **16:33** 나 요즘 밥 먹고 간식까지 열심히 챙겨 먹었더니 살이 좀 올랐어
 
 **16:34** 요즘 구구콘이 왜 이리 맛있는지 모르겠네
 
-**16:35** *Media missing weverse__20241201153912.mp4*
+**16:35**<br>
+<audio controls src="../media/hayoung/weverse__20241201153912.mp4" preload="none"></audio>
 
 **16:40** 진짜 맛있는 고깃집 추천해 줄까?
 
@@ -12677,7 +13042,8 @@ categories:
 
 **16:44** 다른 거 다 떠나서 정말 ‘고기’가 맛있어!!
 
-**16:46** *Media missing weverse__20241201153914.mp4*
+**16:46**<br>
+<audio controls src="../media/hayoung/weverse__20241201153914.mp4" preload="none"></audio>
 
 **16:48** 노포라이브 내일 공개다
 
@@ -12685,9 +13051,11 @@ categories:
 
 **16:49** 노포라이브 음식점도.. 기가막히게 맛있더라
 
-**16:51** *Media missing weverse__20241201153915.mp4*
+**16:51**<br>
+<audio controls src="../media/hayoung/weverse__20241201153915.mp4" preload="none"></audio>
 
-**16:53** *Media missing weverse__20241201153916.mp4*
+**16:53**<br>
+<audio controls src="../media/hayoung/weverse__20241201153916.mp4" preload="none"></audio>
 
 **16:54** 납짝김밥 알아??
 
@@ -12767,13 +13135,16 @@ categories:
 
 **01:12** 성공이군
 
-**01:13** *Media missing weverse__20241201153922.mp4*
+**01:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201153922.mp4" preload="none"></audio>
 
-**01:15** *Media missing weverse__20241201153923.mp4*
+**01:15**<br>
+<audio controls src="../media/hayoung/weverse__20241201153923.mp4" preload="none"></audio>
 
 **01:15** 그냥 불러봤어
 
-**01:16** *Media missing weverse__20241201153924.mp4*
+**01:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201153924.mp4" preload="none"></audio>
 
 **01:52** 모해?
 
@@ -12781,9 +13152,11 @@ categories:
 
 **01:54** 보고싶어
 
-**01:54** *Media missing weverse__20241201153926.mp4*
+**01:54**<br>
+<audio controls src="../media/hayoung/weverse__20241201153926.mp4" preload="none"></audio>
 
-**01:57** *Media missing weverse__20241201153927.mp4*
+**01:57**<br>
+<audio controls src="../media/hayoung/weverse__20241201153927.mp4" preload="none"></audio>
 
 **01:57** 음성 편지!!
 ## Fri, Oct 11, 2024
@@ -12957,15 +13330,19 @@ categories:
 
 **04:39** 나도 오늘 같이 놀아서 재밌었다아!!
 
-**04:42** *Media missing weverse__20241201153931.mp4*
+**04:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201153931.mp4" preload="none"></audio>
 
-**04:43** *Media missing weverse__20241201153932.mp4*
+**04:43**<br>
+<audio controls src="../media/hayoung/weverse__20241201153932.mp4" preload="none"></audio>
 
-**04:45** *Media missing weverse__20241201153933.mp4*
+**04:45**<br>
+<audio controls src="../media/hayoung/weverse__20241201153933.mp4" preload="none"></audio>
 
 **04:47** 이제 진짜 일기 쓰러 가볼게 나는☺️
 
-**04:50** *Media missing weverse__20241201153935.mp4*
+**04:50**<br>
+<audio controls src="../media/hayoung/weverse__20241201153935.mp4" preload="none"></audio>
 
 **04:50** 음성 편지!!!🥰
 ## Sun, Oct 13, 2024
@@ -12974,13 +13351,15 @@ categories:
 
 **14:34** 1234
 
-**17:17** *Media missing weverse__20241201153936.mp4*
+**17:17**<br>
+<audio controls src="../media/hayoung/weverse__20241201153936.mp4" preload="none"></audio>
 
 **17:19** 여행 다녀오고싶다
 
 **17:21** 어디든 좋아
 
-**17:23** *Media missing weverse__20241201153937.mp4*
+**17:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201153937.mp4" preload="none"></audio>
 
 **17:34** 앵.. 모지 눈 감았는데 잠들었어
 
@@ -13046,7 +13425,8 @@ categories:
 
 **00:46** 쌈바~~ 봤어
 
-**00:47** *Media missing weverse__20241201153938.mp4*
+**00:47**<br>
+<audio controls src="../media/hayoung/weverse__20241201153938.mp4" preload="none"></audio>
 
 **00:48** 나 진짜 밥 먹고 수업 들어 가거나 그러면 항상 너무 졸아서 양해 구하고 일어나서 수업 받고 그랬어
 
@@ -13056,9 +13436,11 @@ categories:
 
 **00:50** 진짜 해봐야겠다
 
-**00:51** *Media missing weverse__20241201153939.mp4*
+**00:51**<br>
+<audio controls src="../media/hayoung/weverse__20241201153939.mp4" preload="none"></audio>
 
-**00:51** *Media missing weverse__20241201153941.mp4*
+**00:51**<br>
+<audio controls src="../media/hayoung/weverse__20241201153941.mp4" preload="none"></audio>
 
 **00:53** 아마져
 
@@ -13068,7 +13450,8 @@ categories:
 
 **00:53** 나 제로 죠스바 먹었는데 맛있더라..?
 
-**00:55** *Media missing weverse__20241201153942.mp4*
+**00:55**<br>
+<audio controls src="../media/hayoung/weverse__20241201153942.mp4" preload="none"></audio>
 
 **00:56** 맛있는데 어떡해
 
@@ -13281,7 +13664,8 @@ categories:
 
 **19:33** 솜사탕 먹구시포
 
-**19:35** *Media missing weverse__20241201154008.mp4*
+**19:35**<br>
+<audio controls src="../media/hayoung/weverse__20241201154008.mp4" preload="none"></audio>
 
 **19:37** 그냥 날씨가 너무 좋아서
 
@@ -13291,7 +13675,8 @@ categories:
 
 **19:39** 디엠 하니까 기분 좋아졌다구우??
 
-**19:40** *Media missing weverse__20241201154009.mp4*
+**19:40**<br>
+<audio controls src="../media/hayoung/weverse__20241201154009.mp4" preload="none"></audio>
 
 **19:41** 오늘 그럼 남은 하루도 잘 보내구 있어🍀☘️💕
 
@@ -13307,7 +13692,8 @@ categories:
 **10:37** 월요팅!!!!
 ## Tue, Oct 22, 2024
 
-**10:46** *Media missing weverse__20241201154011.mp4*
+**10:46**<br>
+<audio controls src="../media/hayoung/weverse__20241201154011.mp4" preload="none"></audio>
 
 **10:51** 이제 일찍 자구 일찍 일어날거야!!
 
@@ -13355,9 +13741,11 @@ categories:
 
 **16:00** 오 고마워😚😚
 
-**16:00** *Media missing weverse__20241201154012.mp4*
+**16:00**<br>
+<audio controls src="../media/hayoung/weverse__20241201154012.mp4" preload="none"></audio>
 
-**16:03** *Media missing weverse__20241201154013.mp4*
+**16:03**<br>
+<audio controls src="../media/hayoung/weverse__20241201154013.mp4" preload="none"></audio>
 
 **16:03** 갑자기 흑발하구 싶다
 
@@ -13404,11 +13792,14 @@ categories:
 **17:56**<br>
 ![](../media/hayoung/weverse__20241201154016.jpg){ loading=lazy }
 
-**21:12** *Media missing weverse__20241201154017.mp4*
+**21:12**<br>
+<audio controls src="../media/hayoung/weverse__20241201154017.mp4" preload="none"></audio>
 
-**21:13** *Media missing weverse__20241201154019.mp4*
+**21:13**<br>
+<audio controls src="../media/hayoung/weverse__20241201154019.mp4" preload="none"></audio>
 
-**21:14** *Media missing weverse__20241201154020.mp4*
+**21:14**<br>
+<audio controls src="../media/hayoung/weverse__20241201154020.mp4" preload="none"></audio>
 
 **21:15**<br>
 ![](../media/hayoung/weverse__20241201154021.jpg){ loading=lazy }
@@ -13421,7 +13812,8 @@ categories:
 
 **21:16** 그냥 예쁘게 입어서 사진 찍으러 간 거야
 
-**21:17** *Media missing weverse__20241201154022.mp4*
+**21:17**<br>
+<audio controls src="../media/hayoung/weverse__20241201154022.mp4" preload="none"></audio>
 
 **21:18**<br>
 ![](../media/hayoung/weverse__20241201154024.jpg){ loading=lazy }
@@ -13432,7 +13824,8 @@ categories:
 
 **21:20** 노들섬이야!!
 
-**21:22** *Media missing weverse__20241201154025.mp4*
+**21:22**<br>
+<audio controls src="../media/hayoung/weverse__20241201154025.mp4" preload="none"></audio>
 
 **21:22** 나는 지금 운동 기다리고 있어😎
 
@@ -13466,9 +13859,14 @@ categories:
 
 **21:28** 오늘의 티엠아이??
 
-**21:30** *Media missing weverse__20241201154026.mp4*
+**21:30**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201154026-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201154026.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-**21:31** *Media missing weverse__20241201154028.mp4*
+**21:31**<br>
+<audio controls src="../media/hayoung/weverse__20241201154028.mp4" preload="none"></audio>
 
 **21:31** 오늘 티엠아이야 ㅋㅋ
 
@@ -13553,7 +13951,8 @@ categories:
 
 **00:55** 오늘 하루 잘 보냈어??
 
-**00:57** *Media missing weverse__20241201154029.mp4*
+**00:57**<br>
+<audio controls src="../media/hayoung/weverse__20241201154029.mp4" preload="none"></audio>
 
 **00:57** 오늘 지선이 플레이리스트 올라온거 들었어??
 
@@ -13614,13 +14013,16 @@ categories:
 
 **03:13** 배고푸다
 
-**03:15** *Media missing weverse__20241201154034.mp4*
+**03:15**<br>
+<audio controls src="../media/hayoung/weverse__20241201154034.mp4" preload="none"></audio>
 
-**03:19** *Media missing weverse__20241201154035.mp4*
+**03:19**<br>
+<audio controls src="../media/hayoung/weverse__20241201154035.mp4" preload="none"></audio>
 
 **03:21** 오늘 진짜아 행복한 하루였어☺️☺️
 
-**03:23** *Media missing weverse__20241201154036.mp4*
+**03:23**<br>
+<audio controls src="../media/hayoung/weverse__20241201154036.mp4" preload="none"></audio>
 ## Mon, Oct 28, 2024
 
 **19:55** flover시
@@ -13667,7 +14069,8 @@ categories:
 
 **20:31** 누가 뭐래도 뭐든 밥심이야!!
 
-**20:31** *Media missing weverse__20241201154037.mp4*
+**20:31**<br>
+<audio controls src="../media/hayoung/weverse__20241201154037.mp4" preload="none"></audio>
 ## Tue, Oct 29, 2024
 
 **01:11** flover시
@@ -13722,11 +14125,14 @@ categories:
 
 **01:11** flover시
 
-**01:56** *Media missing weverse__20241201154040.mp4*
+**01:56**<br>
+<audio controls src="../media/hayoung/weverse__20241201154040.mp4" preload="none"></audio>
 
-**01:57** *Media missing weverse__20241201154041.mp4*
+**01:57**<br>
+<audio controls src="../media/hayoung/weverse__20241201154041.mp4" preload="none"></audio>
 
-**01:57** *Media missing weverse__20241201154043.mp4*
+**01:57**<br>
+<audio controls src="../media/hayoung/weverse__20241201154043.mp4" preload="none"></audio>
 
 **01:58** 오늘 셀카??
 
@@ -13735,9 +14141,11 @@ categories:
 
 **02:00** 아까 찍었어😛
 
-**02:03** *Media missing weverse__20241201154045.mp4*
+**02:03**<br>
+<audio controls src="../media/hayoung/weverse__20241201154045.mp4" preload="none"></audio>
 
-**02:03** *Media missing weverse__20241201154047.mp4*
+**02:03**<br>
+<audio controls src="../media/hayoung/weverse__20241201154047.mp4" preload="none"></audio>
 
 **02:04** 오늘은 남찍사는 없어!!😵‍💫😵‍💫
 
@@ -13787,14 +14195,17 @@ categories:
 
 **19:55** flover시
 
-**23:40** *Media missing weverse__20241201154048.mp4*
+**23:40**<br>
+<audio controls src="../media/hayoung/weverse__20241201154048.mp4" preload="none"></audio>
 
-**23:44** *Media missing weverse__20241201154049.mp4*
+**23:44**<br>
+<audio controls src="../media/hayoung/weverse__20241201154049.mp4" preload="none"></audio>
 
 **23:45** 난 레슨간대
 ## Thu, Oct 31, 2024
 
-**00:53** *Media missing weverse__20241201154050.mp4*
+**00:53**<br>
+<audio controls src="../media/hayoung/weverse__20241201154050.mp4" preload="none"></audio>
 
 **00:54**<br>
 ![](../media/hayoung/weverse__20241201154052.jpg){ loading=lazy }
@@ -13881,9 +14292,11 @@ categories:
 
 **01:14** 기분 좋았어
 
-**01:34** *Media missing weverse__20241201154056.mp4*
+**01:34**<br>
+<audio controls src="../media/hayoung/weverse__20241201154056.mp4" preload="none"></audio>
 
-**01:35** *Media missing weverse__20241201154057.mp4*
+**01:35**<br>
+<audio controls src="../media/hayoung/weverse__20241201154057.mp4" preload="none"></audio>
 
 **01:37** 오늘 하루 어땠어?
 
@@ -13895,9 +14308,11 @@ categories:
 
 **01:40** 플로버도 정말 쉬는 날 꼭 확보해서 쉬어줘야 해 알겠지??
 
-**01:42** *Media missing weverse__20241201154059.mp4*
+**01:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201154059.mp4" preload="none"></audio>
 
-**01:42** *Media missing weverse__20241201154100.mp4*
+**01:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201154100.mp4" preload="none"></audio>
 
 **01:42** 감기 걸렸어??
 
@@ -13905,7 +14320,8 @@ categories:
 
 **01:43** 올해 첫 눈 언제 올까?
 
-**01:43** *Media missing weverse__20241201154101.mp4*
+**01:43**<br>
+<audio controls src="../media/hayoung/weverse__20241201154101.mp4" preload="none"></audio>
 
 **01:44** 그러게 지선이 생일에 첫 눈오면 좋겠다아💕
 
@@ -13919,7 +14335,8 @@ categories:
 
 **01:47** 다들 본인이 직접 보는 게 첫눈으로 하자
 
-**01:50** *Media missing weverse__20241201154103.mp4*
+**01:50**<br>
+<audio controls src="../media/hayoung/weverse__20241201154103.mp4" preload="none"></audio>
 
 **01:51** 갑자기 이 노래가 생각났다
 
@@ -13931,13 +14348,17 @@ categories:
 
 **01:53** 완곡은 없어
 
-**01:56** *Media missing weverse__20241201154104.mp4*
+**01:56**<br>
+<audio controls src="../media/hayoung/weverse__20241201154104.mp4" preload="none"></audio>
 
-**01:59** *Media missing weverse__20241201154105.mp4*
+**01:59**<br>
+<audio controls src="../media/hayoung/weverse__20241201154105.mp4" preload="none"></audio>
 
-**02:00** *Media missing weverse__20241201154106.mp4*
+**02:00**<br>
+<audio controls src="../media/hayoung/weverse__20241201154106.mp4" preload="none"></audio>
 
-**02:01** *Media missing weverse__20241201154107.mp4*
+**02:01**<br>
+<audio controls src="../media/hayoung/weverse__20241201154107.mp4" preload="none"></audio>
 
 **02:03**<br>
 ![](../media/hayoung/weverse__20241201154109.jpg){ loading=lazy }
@@ -14006,13 +14427,16 @@ categories:
 
 **15:24** 124
 
-**15:25** *Media missing weverse__20241201154112.mp4*
+**15:25**<br>
+<audio controls src="../media/hayoung/weverse__20241201154112.mp4" preload="none"></audio>
 
-**15:26** *Media missing weverse__20241201154113.mp4*
+**15:26**<br>
+<audio controls src="../media/hayoung/weverse__20241201154113.mp4" preload="none"></audio>
 
 **15:27** 나만 먹은 거 아니지이?
 
-**15:29** *Media missing weverse__20241201154114.mp4*
+**15:29**<br>
+<audio controls src="../media/hayoung/weverse__20241201154114.mp4" preload="none"></audio>
 
 **22:50**<br>
 ![](../media/hayoung/weverse__20241201154115.jpg){ loading=lazy }
@@ -14199,7 +14623,8 @@ categories:
 **02:41**<br>
 ![](../media/hayoung/weverse__20241201154119.jpg){ loading=lazy }
 
-**02:42** *Media missing weverse__20241201154120.mp4*
+**02:42**<br>
+<audio controls src="../media/hayoung/weverse__20241201154120.mp4" preload="none"></audio>
 
 **02:44** 오늘 하루도 너무 고생 많았구 좋은 꿈꿔 잘자요오💕🌙
 ## Wed, Nov 6, 2024
@@ -14227,24 +14652,29 @@ categories:
 
 **20:12** 모하냐아ㅏ
 
-**20:15** *Media missing weverse__20241201154123.mp4*
+**20:15**<br>
+<audio controls src="../media/hayoung/weverse__20241201154123.mp4" preload="none"></audio>
 
-**20:15** *Media missing weverse__20241201154124.mp4*
+**20:15**<br>
+<audio controls src="../media/hayoung/weverse__20241201154124.mp4" preload="none"></audio>
 
-**20:16** *Media missing weverse__20241201154125.mp4*
+**20:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201154125.mp4" preload="none"></audio>
 
 **20:17** 어떤 돼지 국밥 집에서 반값 할인을 하는 거야 그래서 바로 먹어 줬지
 
 **20:17** 맛도 엄청 맛있었어
 
-**20:18** *Media missing weverse__20241201154127.mp4*
+**20:18**<br>
+<audio controls src="../media/hayoung/weverse__20241201154127.mp4" preload="none"></audio>
 
 **20:21**<br>
 ![](../media/hayoung/weverse__20241201154128.jpg){ loading=lazy }
 
 **20:21** 따듯하게 입어 💕💕
 
-**20:24** *Media missing weverse__20241201154130.mp4*
+**20:24**<br>
+<audio controls src="../media/hayoung/weverse__20241201154130.mp4" preload="none"></audio>
 ## Sat, Nov 9, 2024
 
 **01:11** flover시
@@ -14282,7 +14712,11 @@ categories:
 
 **21:55** 첫 단발 셀카😛
 
-**22:54** *Media missing weverse__20241201154138.mp4*
+**22:54**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201154138-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201154138.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **22:54** 도착😚
 ## Sun, Nov 10, 2024
@@ -14301,7 +14735,8 @@ categories:
 **01:18**<br>
 ![](../media/hayoung/weverse__20241201154141.jpg){ loading=lazy }
 
-**01:19** *Media missing weverse__20241201154142.mp4*
+**01:19**<br>
+<audio controls src="../media/hayoung/weverse__20241201154142.mp4" preload="none"></audio>
 
 **01:20** 보이스 좀만 하까
 
@@ -14375,7 +14810,8 @@ categories:
 
 **01:17** flover 항상 고마워
 
-**02:14** *Media missing weverse__20241201154156.mp4*
+**02:14**<br>
+<audio controls src="../media/hayoung/weverse__20241201154156.mp4" preload="none"></audio>
 
 **02:16** 나는 짐 정리하구 있어
 
@@ -14386,7 +14822,11 @@ categories:
 
 **02:22** 앞 머리 불편해서 가르마 싹 넘겼어
 
-**02:26** *Media missing weverse__20241201154159.mp4*
+**02:26**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201154159-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201154159.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **02:26** 갑자기 시크해보여서
 
@@ -14467,7 +14907,11 @@ categories:
 
 **00:32** 거울셀카 남기고 갑니다아
 
-**00:33** *Media missing weverse__20241201154217.mp4*
+**00:33**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201154217-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201154217.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **00:33** 이것도 남기구 갑니다아
 
@@ -14477,9 +14921,11 @@ categories:
 
 **15:11** flover시
 
-**18:56** *Media missing weverse__20241201154219.mp4*
+**18:56**<br>
+<audio controls src="../media/hayoung/weverse__20241201154219.mp4" preload="none"></audio>
 
-**19:00** *Media missing weverse__20241201154220.mp4*
+**19:00**<br>
+<audio controls src="../media/hayoung/weverse__20241201154220.mp4" preload="none"></audio>
 
 **19:01** 오늘 마트에 연시가 있길래 사왔어
 
@@ -14649,7 +15095,8 @@ categories:
 
 **13:48** 따듯하게 입어!!!
 
-**23:21** *Media missing weverse__20241201154224.mp4*
+**23:21**<br>
+<audio controls src="../media/hayoung/weverse__20241201154224.mp4" preload="none"></audio>
 
 **23:21** 모하구 있어어
 
@@ -14677,7 +15124,8 @@ categories:
 
 **23:29** 😚
 
-**23:31** *Media missing weverse__20241201154226.mp4*
+**23:31**<br>
+<audio controls src="../media/hayoung/weverse__20241201154226.mp4" preload="none"></audio>
 
 **23:35** 피곤하진 않아!!!
 
@@ -14839,7 +15287,8 @@ categories:
 
 **02:30** 오늘도 너무 고생 많았어🌙
 
-**02:33** *Media missing weverse__20241201154227.mp4*
+**02:33**<br>
+<audio controls src="../media/hayoung/weverse__20241201154227.mp4" preload="none"></audio>
 
 **02:34** 1234
 
@@ -14980,7 +15429,8 @@ categories:
 
 **17:21** 하지만 마시고 싶은 거 마시는 게 더 큰 소확행이니까!!
 
-**17:21** *Media missing weverse__20241201154230.mp4*
+**17:21**<br>
+<audio controls src="../media/hayoung/weverse__20241201154230.mp4" preload="none"></audio>
 
 **17:23** 커피에 도넛 맛있겠다
 
@@ -15004,15 +15454,19 @@ categories:
 
 **17:33** 숙소편??
 
-**17:35** *Media missing weverse__20241201154231.mp4*
+**17:35**<br>
+<audio controls src="../media/hayoung/weverse__20241201154231.mp4" preload="none"></audio>
 
-**17:36** *Media missing weverse__20241201154232.mp4*
+**17:36**<br>
+<audio controls src="../media/hayoung/weverse__20241201154232.mp4" preload="none"></audio>
 
-**17:37** *Media missing weverse__20241201154233.mp4*
+**17:37**<br>
+<audio controls src="../media/hayoung/weverse__20241201154233.mp4" preload="none"></audio>
 
 **17:40** 재밌는 편 진짜 많았어
 
-**17:41** *Media missing weverse__20241201154235.mp4*
+**17:41**<br>
+<audio controls src="../media/hayoung/weverse__20241201154235.mp4" preload="none"></audio>
 
 **17:42** 한번 부르고 사라질 노래들이 영상이 남아서 기억하고 있어
 
@@ -15024,7 +15478,8 @@ categories:
 
 **17:44** 쓰레기 버릴 때 한 번씩 불러봐요
 
-**17:45** *Media missing weverse__20241201154236.mp4*
+**17:45**<br>
+<audio controls src="../media/hayoung/weverse__20241201154236.mp4" preload="none"></audio>
 
 **17:45** 이거 아는 사람
 
@@ -15068,7 +15523,8 @@ categories:
 
 **17:58** 연습해야겠다
 
-**18:00** *Media missing weverse__20241201154237.mp4*
+**18:00**<br>
+<audio controls src="../media/hayoung/weverse__20241201154237.mp4" preload="none"></audio>
 
 **18:00** 일어난다
 
@@ -15091,13 +15547,18 @@ categories:
 
 **03:11** flover시
 
-**17:56** *Media missing weverse__20241201154239.mp4*
+**17:56**<br>
+<audio controls src="../media/hayoung/weverse__20241201154239.mp4" preload="none"></audio>
 
 **17:58** 내 생각?!!
 
 **17:59** 😛😛
 
-**18:00** *Media missing weverse__20241201154240.mp4*
+**18:00**<br>
+<video controls="controls" preload="none" poster="../media/hayoung/weverse__20241201154240-thumb.jpg">
+<source src="../media/hayoung/weverse__20241201154240.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **18:02** 요즘 셀카를 많이 안 찍어서
 
@@ -15105,7 +15566,8 @@ categories:
 
 **18:04** flover 너무 보고싶은데
 
-**18:05** *Media missing weverse__20241201154242.mp4*
+**18:05**<br>
+<audio controls src="../media/hayoung/weverse__20241201154242.mp4" preload="none"></audio>
 
 **18:07** 내 목소리 많이 짱구같아??
 
@@ -15113,7 +15575,8 @@ categories:
 
 **18:08** 기분 좋아서 기본 장착이 됐나봐😛
 
-**18:11** *Media missing weverse__20241201154243.mp4*
+**18:11**<br>
+<audio controls src="../media/hayoung/weverse__20241201154243.mp4" preload="none"></audio>
 
 **18:11** 보낼까 말까 고민 7번 정도 하다 보내는 거야
 
@@ -15135,7 +15598,8 @@ categories:
 
 **18:16** 맹구도 잘 할 것 같아
 
-**18:16** *Media missing weverse__20241201154244.mp4*
+**18:16**<br>
+<audio controls src="../media/hayoung/weverse__20241201154244.mp4" preload="none"></audio>
 
 **18:18** 더빙 재밌겠다아
 
@@ -15158,7 +15622,8 @@ categories:
 
 **21:20** 저녁밥 챙겨 먹었어?
 
-**21:22** *Media missing weverse__20241201154245.mp4*
+**21:22**<br>
+<audio controls src="../media/hayoung/weverse__20241201154245.mp4" preload="none"></audio>
 
 **21:22** 내 마음은 아직 여름인데❄️
 
@@ -15170,7 +15635,8 @@ categories:
 
 **21:26** 너무 괜찮다
 
-**21:28** *Media missing weverse__20241201154247.mp4*
+**21:28**<br>
+<audio controls src="../media/hayoung/weverse__20241201154247.mp4" preload="none"></audio>
 
 **21:28** 방금 만들어봤어
 

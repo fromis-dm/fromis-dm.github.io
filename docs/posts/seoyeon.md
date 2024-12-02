@@ -825,9 +825,17 @@ categories:
 
 **01:45** 있나
 
-**01:46** *Media missing weverse__20241201184240.mp4*
+**01:46**<br>
+<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184240-thumb.jpg">
+<source src="../media/seoyeon/weverse__20241201184240.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-**01:47** *Media missing weverse__20241201184245.mp4*
+**01:47**<br>
+<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184245-thumb.jpg">
+<source src="../media/seoyeon/weverse__20241201184245.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **01:47** 요러케밖에없네 갤러리에는
 
@@ -5547,7 +5555,11 @@ categories:
 
 **00:07** 잘자💚
 
-**22:20** *Media missing weverse__20241201184502.mp4*
+**22:20**<br>
+<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184502-thumb.jpg">
+<source src="../media/seoyeon/weverse__20241201184502.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **22:20** 어제 퇴근 영상 ㅎㅋ
 
@@ -8353,7 +8365,11 @@ categories:
 **23:37** 꺄륵
 ## Wed, Jul 10, 2024
 
-**00:36** *Media missing weverse__20241201184712.mp4*
+**00:36**<br>
+<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184712-thumb.jpg">
+<source src="../media/seoyeon/weverse__20241201184712.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **00:36** 수요팅을 위해 선물....⭐️
 
@@ -10331,7 +10347,11 @@ categories:
 **23:59** 빠빠룽
 ## Sun, Aug 25, 2024
 
-**23:52** *Media missing weverse__20241201184858.mp4*
+**23:52**<br>
+<video controls="controls" preload="none" poster="../media/seoyeon/weverse__20241201184858-thumb.jpg">
+<source src="../media/seoyeon/weverse__20241201184858.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **23:52** 아무튼 flover 덕분에 마지막주 인기가요까지
 

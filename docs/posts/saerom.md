@@ -615,7 +615,11 @@ categories:
 
 **22:17** 9:00
 
-**22:18** *Media missing weverse__20241201192228.mp4*
+**22:18**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192228-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192228.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **22:18** 연습하다가..소름 돋아서 달려왔어
 
@@ -839,7 +843,11 @@ categories:
 
 **21:29** 아웅 영상이라 ㅠㅠㅠㅠ
 
-**21:30** *Media missing weverse__20241201192249.mp4*
+**21:30**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192249-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192249.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **21:30** 꺅 드디어
 
@@ -1096,7 +1104,11 @@ categories:
 
 **09:48** 오케이 슈파소니쿠 큩히 버전도 찍을게에🐱
 
-**09:49** *Media missing weverse__20241201192256.mp4*
+**09:49**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192256-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192256.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **09:49** 웃겨어어엌ㅋㅋㅋ
 
@@ -1132,7 +1144,11 @@ categories:
 
 **10:00** 울산 무대 끝나고 건강하게 샐러드 먹고 과자 어어엄청 먹음!!!!!
 
-**10:01** *Media missing weverse__20241201192259.mp4*
+**10:01**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192259-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192259.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **10:02** 저 날에 메이크업 받는데 거울이 없어서 덕분에 계속 창 밖을 보고 있었거든
 
@@ -1416,7 +1432,11 @@ categories:
 
 **21:47** 투표창 없어????
 
-**21:49** *Media missing weverse__20241201192318.mp4*
+**21:49**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192318-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192318.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **21:49** 이것도 같이 올리까 마까!?
 
@@ -1904,15 +1924,27 @@ categories:
 
 **10:27** 할 말이 엄청 많은 냐옹이를 만났오
 
-**10:28** *Media missing weverse__20241201192331.mp4*
+**10:28**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192331-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192331.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **10:29** 이게 첫 눈맞춤
 
-**10:32** *Media missing weverse__20241201192332.mp4*
+**10:32**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192332-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192332.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **10:32** 아구 이제여 갔다..넘 느려어엉
 
-**10:35** *Media missing weverse__20241201192333.mp4*
+**10:35**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192333-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192333.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **10:36** 완젼 애교덩어리야
 
@@ -2259,7 +2291,11 @@ categories:
 
 **01:11** 잘자 라뷰야아♥️🍃
 
-**07:40** *Media missing weverse__20241201192349.mp4*
+**07:40**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192349-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192349.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **09:08** 가족이 많아오..
 
@@ -2291,7 +2327,11 @@ categories:
 
 **12:00** ㅎㅎㅎㅎㅎ
 
-**19:10** *Media missing weverse__20241201192354.mp4*
+**19:10**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192354-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192354.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **19:10** ♥️
 
@@ -2324,7 +2364,11 @@ categories:
 
 **23:12** 똥구래미롬
 
-**23:13** *Media missing weverse__20241201192357.mp4*
+**23:13**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192357-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192357.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **23:15** 셀카 미앙..나 너무 꼬질인 걸
 
@@ -2568,7 +2612,11 @@ categories:
 
 **20:12** 막내냥이 영상 풀게쑈!!!!!!!!!
 
-**20:12** *Media missing weverse__20241201192405.mp4*
+**20:12**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192405-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192405.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **20:13** 하냐옹이 생일 마이 축하해주고와아아
 
@@ -3011,7 +3059,11 @@ categories:
 
 **13:10** 햅삐 모교일
 
-**13:10** *Media missing weverse__20241201192436.mp4*
+**13:10**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192436-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192436.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **13:11** 1111
 
@@ -3327,7 +3379,11 @@ categories:
 
 **20:44** 그리규 또 있어 선물
 
-**20:48** *Media missing weverse__20241201192522.mp4*
+**20:48**<br>
+<video controls="controls" preload="none" poster="../media/saerom/weverse__20241201192522-thumb.jpg">
+<source src="../media/saerom/weverse__20241201192522.mp4#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 **20:48** 🐱💓
 
