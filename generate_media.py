@@ -14,12 +14,12 @@ AUDIO_ID = 'audio'
 
 headers = [DATE_ID, TIME_ID, TEXT_ID, YOUR_TEXT_ID, IMAGE_ID, VIDEO_ID, AUDIO_ID]
 
-member_name = 'hayoung'
+member_name = 'jisun'
 
 source_folder = f'raw/{member_name}'
 output_folder = f'docs/media/{member_name}'
 
-skip_duplicate = False
+skip_duplicate = True
 
 if False:
     source_folder = f'raw/test'
@@ -82,6 +82,13 @@ def encode_video(in_path, out_path):
     print('Encode video', result)
         # 'ffmpeg -i input.avi  scale=720:-1 -c:a copy output.mkv'
 
+def resize_gif(in_path, out_path):
+    cmd = ['ffmpeg', '-y', '-i', in_path, '-vf', 'fps=15,scale=480:-2', out_path]
+    # if not os.path.exists(out_path):
+    # ffmpeg -i input.gif -vf "scale=320:-1" output.gif
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    print('Resize gif', result)
+        # 'ffmpeg -i input.avi  scale=720:-1 -c:a copy output.mkv'
 
 def make_copy(in_path, out_path):
     if not os.path.exists(out_path):
@@ -120,8 +127,9 @@ def main():
             elif f.endswith('.gif'):
                 out_path = f'{output_folder}/{f}'
                 # shutil.copy(in_path, out_path)
-                print('Copy media', in_path)
-                make_copy(in_path, out_path)
+                print('Resize gif', in_path)
+                # make_copy(in_path, out_path)
+                resize_gif(in_path, out_path)
             else:
                 print('SKIP unknown file ', in_path)
 
