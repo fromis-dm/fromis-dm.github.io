@@ -25,14 +25,14 @@ categories:
 **04:44** 그거 말해줄라구☺️
 
 **05:09**<br>
-![](/media/chaeyoung/weverse__20241201200138.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200138.jpg){ loading=lazy }
 
 **05:09** 잘자요☺️♥️
 
 **19:54** 플로버😖<br>플로버랑 이런저런 이야기하다가 나온 말이 누군가에겐 상처가 되고 또 누군가에겐 좋지 않게 들렸을 거라 생각하니 속상하고, 나를 더 걱정해줄 플로버 생각에 맘이 쓰이네요.. <br>앞으로 조금 더 신중하게 대화 나눌게요🙏😖
 
 **19:55**<br>
-![](/media/chaeyoung/weverse__20241201200139.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200139.jpg){ loading=lazy }
 
 **19:56** ♥️♥️
 
@@ -47,7 +47,7 @@ categories:
 **20:05** 핫^^
 
 **20:07**<br>
-![](/media/chaeyoung/weverse__20241201200140.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200140.jpg){ loading=lazy }
 
 **20:07** 그렇다면 한장 더..
 
@@ -55,7 +55,7 @@ categories:
 ## Fri, May 10, 2024
 
 **03:47**<br>
-![](/media/chaeyoung/weverse__20241201200141.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200141.jpg){ loading=lazy }
 
 **03:47** 어린이 날에 나만 사진 안 올린 것 같아서ㅎㅎ☺️
 
@@ -75,7 +75,7 @@ categories:
 **13:39** 으응 다음에 또 와야지이
 
 **13:40**<br>
-![](/media/chaeyoung/weverse__20241201200142.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200142.jpg){ loading=lazy }
 
 **13:40** 오늘 아침에 언니가 휴지 사진을 보내줬는데
 
@@ -84,7 +84,7 @@ categories:
 **13:40** 깜짝 놀라가지구
 
 **13:41**<br>
-![](/media/chaeyoung/weverse__20241201200143.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200143.jpg){ loading=lazy }
 
 **13:41** ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 
@@ -123,7 +123,7 @@ categories:
 **13:45** 빠빠이!! 나 간다아ㅏ
 
 **23:06**<br>
-![](/media/chaeyoung/weverse__20241201200144.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200144.jpg){ loading=lazy }
 
 **23:06** 이틀만에 털쪄서 더 꼬질이가 되어있네ㅋㅋㅋㅋㅋㅋ
 
@@ -160,7 +160,7 @@ categories:
 **23:20** ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 
 **23:20**<br>
-![](/media/chaeyoung/weverse__20241201200145.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200145.jpg){ loading=lazy }
 
 **23:20** 진짜 이쁘거든..??
 
@@ -173,7 +173,7 @@ categories:
 **23:21** 더 난리나
 
 **23:22**<br>
-![](/media/chaeyoung/weverse__20241201200146.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200146.jpg){ loading=lazy }
 
 **23:22** 오늘 아침에 언니가 보내준 사진인데
 
@@ -188,7 +188,7 @@ categories:
 **23:23** 언니가 옷 소매 잘라서 놀아줬다네
 
 **23:25**<br>
-![](/media/chaeyoung/weverse__20241201200147.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200147.jpg){ loading=lazy }
 
 **23:25** 미안 계속 보내서..
 
@@ -222,7 +222,7 @@ categories:
 **02:03** 나두 자려고 누웠어ㅎㅎ
 
 **02:03**<br>
-![](/media/chaeyoung/weverse__20241201200149.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200149.jpg){ loading=lazy }
 
 **02:03** 뉴울곳이
 
@@ -233,7 +233,7 @@ categories:
 **02:04** 침대만 뺏긴게 아니구
 
 **02:04**<br>
-![](/media/chaeyoung/weverse__20241201200150.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200150.jpg){ loading=lazy }
 
 **02:04** 엄마도 누워도 될까…??
 
@@ -242,7 +242,7 @@ categories:
 **02:05** ㅎㅎ…울애기 편하게 자…
 
 **02:06**<br>
-![](/media/chaeyoung/weverse__20241201200151.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200151.jpg){ loading=lazy }
 
 **02:06** 엄만 편해
 
@@ -286,7 +286,7 @@ categories:
 **17:18** 이따 만나댜ㅎㅎ
 
 **17:35**<br>
-![](/media/chaeyoung/weverse__20241201200152.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200152.jpg){ loading=lazy }
 
 **17:35** 3번만에 이채영 생일 프레임으로 찍기 성공😖
 
@@ -295,7 +295,7 @@ categories:
 **17:36** 아니 대체…!! 뭘 눌러야 이 프레임으로 나오능건데!!!
 
 **17:36**<br>
-![](/media/chaeyoung/weverse__20241201200153.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200153.jpg){ loading=lazy }
 
 **17:36** 덕분에 추억 쌓았다
 
@@ -310,10 +310,8 @@ categories:
 
 **00:52** 플로버어ㅎㅎ 오늘도 별 것 없는 날이었지만 별 거 있게 아주 특별하게 만들어줘서 감사합니다🌼♥️<br>오늘 받은 사랑으로 더 더 에너지 얻어서 살아갈 것 같아요 <br>사랑합니다아ㅏㅏ💕💕💕💕
 
-**00:53** ❤️ 💙 💜 💖 💗 🎂
-
 **00:53**<br>
-![](/media/chaeyoung/weverse__20241201200155.jpg)<br>![](/media/chaeyoung/weverse__20241201200157.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200155.jpg)<br>![](../media/chaeyoung/weverse__20241201200157.jpg){ loading=lazy }
 
 **00:53** 마무리는 모자 조금 작은데 낑겨넣은 휴지
 
@@ -343,11 +341,7 @@ categories:
 **21:10** 화티이잉
 ## Sat, May 18, 2024
 
-**14:49**<br>
-<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200158-thumb.jpg">
-  <source src="/media/chaeyoung/weverse__20241201200158.mp4#t=1" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**14:49** *Media missing weverse__20241201200158.mp4*
 
 **14:50** 꼬슈운 토요일🫶
 
@@ -418,11 +412,7 @@ categories:
 
 **03:58** 좋은 꿈 꿔요오💝♥️
 
-**21:57**<br>
-<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200200-thumb.jpg">
-  <source src="/media/chaeyoung/weverse__20241201200200.mp4#t=1" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**21:57** *Media missing weverse__20241201200200.mp4*
 
 **21:57** 행복한 일요일 보내쏘???
 
@@ -434,11 +424,7 @@ categories:
 
 **22:00** 지금 1시간 넘게 먹고있는데
 
-**22:00**<br>
-<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200202-thumb.jpg">
-  <source src="/media/chaeyoung/weverse__20241201200202.mp4#t=1" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**22:00** *Media missing weverse__20241201200202.mp4*
 
 **22:01** 요맨큼 먹어떠
 
@@ -457,7 +443,7 @@ categories:
 **22:03** 주인한테!!!!
 
 **22:04**<br>
-![](/media/chaeyoung/weverse__20241201200207.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200207.jpg){ loading=lazy }
 
 **22:04** 급지침
 
@@ -568,12 +554,12 @@ categories:
 **22:28** 아휴 선택 못하는데
 
 **22:31**<br>
-![](/media/chaeyoung/weverse__20241201200208.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200208.jpg){ loading=lazy }
 
 **22:31** 이게 더 말이 되는 느낌
 
 **22:32**<br>
-![](/media/chaeyoung/weverse__20241201200209.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200209.jpg){ loading=lazy }
 
 **22:33** 사진이 이상하게 잘리네
 
@@ -679,11 +665,7 @@ categories:
 
 **23:16** ㅋㅋㅋㅋㅋㅋㅋ
 
-**23:19**<br>
-<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200210-thumb.jpg">
-  <source src="/media/chaeyoung/weverse__20241201200210.mp4#t=1" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**23:19** *Media missing weverse__20241201200210.mp4*
 
 **23:19** 실시간 잠꼬대 중
 
@@ -781,7 +763,7 @@ categories:
 **19:40** 말티슈랑 휴먼
 
 **19:41**<br>
-![](/media/chaeyoung/weverse__20241201200211.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200211.jpg){ loading=lazy }
 
 **19:42** 네일 보여달래서
 
@@ -825,7 +807,7 @@ categories:
 **02:25** 휴지는 자용ㅎㅎㅎ
 
 **02:25**<br>
-![](/media/chaeyoung/weverse__20241201200213.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200213.jpg){ loading=lazy }
 
 **02:25** 물론 내 자리에서
 
@@ -910,27 +892,27 @@ categories:
 **22:11** 난 안 지웠오
 
 **22:13**<br>
-![](/media/chaeyoung/weverse__20241201200214.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200214.jpg){ loading=lazy }
 
 **22:14**<br>
-![](/media/chaeyoung/weverse__20241201200215.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200215.jpg){ loading=lazy }
 
 **22:14** 하냥 스타일
 
 **22:14** 셀카
 
 **22:15**<br>
-![](/media/chaeyoung/weverse__20241201200216.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200216.jpg){ loading=lazy }
 
 **22:16** 메건스타일
 
 **22:17**<br>
-![](/media/chaeyoung/weverse__20241201200217.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200217.jpg){ loading=lazy }
 
 **22:17** 지선스타일
 
 **22:20**<br>
-![](/media/chaeyoung/weverse__20241201200218.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200218.jpg){ loading=lazy }
 
 **22:20** 나경
 
@@ -945,7 +927,7 @@ categories:
 **22:21** 불가능
 
 **22:22**<br>
-![](/media/chaeyoung/weverse__20241201200219.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200219.jpg){ loading=lazy }
 
 **22:22** 새롬
 
@@ -1044,7 +1026,7 @@ categories:
 **00:32** 마쟈 응원법도 최고여써☺️🫶
 
 **00:33**<br>
-![](/media/chaeyoung/weverse__20241201200220.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200220.jpg){ loading=lazy }
 
 **00:33** 매니저언니 어머니가 빵 사주셔서
 
@@ -1111,7 +1093,7 @@ categories:
 **01:12** 잠깐만
 
 **01:49**<br>
-![](/media/chaeyoung/weverse__20241201200221.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200221.jpg){ loading=lazy }
 
 **01:49** 꺄아악!!!
 
@@ -1124,7 +1106,7 @@ categories:
 **05:02** 👋👋
 
 **21:18**<br>
-![](/media/chaeyoung/weverse__20241201200222.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200222.jpg){ loading=lazy }
 
 **21:18** 내 인스타 피드
 
@@ -1350,11 +1332,7 @@ categories:
 
 **03:26** 다짐을 해도 다져지는 건 이채용
 
-**03:28**<br>
-<video controls="controls" preload="none" poster="/media/chaeyoung/weverse__20241201200223-thumb.jpg">
-  <source src="/media/chaeyoung/weverse__20241201200223.mp4#t=1" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**03:28** *Media missing weverse__20241201200223.mp4*
 
 **03:28** 내 사딘 대신에
 
@@ -1363,7 +1341,7 @@ categories:
 **03:32** ㅎㅎㅎㅎ내 사진두 빠른 시일내에 보낼게
 
 **03:35**<br>
-![](/media/chaeyoung/weverse__20241201200224.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200224.jpg){ loading=lazy }
 
 **03:36** 지금은 이정도만..🫶
 
@@ -1391,7 +1369,7 @@ categories:
 **17:11** 휴지릉 만난 이유로 걷기가 늘었어ㅎㅎ
 
 **17:12**<br>
-![](/media/chaeyoung/weverse__20241201200227.jpg)<br>![](/media/chaeyoung/weverse__20241201200229.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200227.jpg)<br>![](../media/chaeyoung/weverse__20241201200229.jpg){ loading=lazy }
 
 **17:12** 아직은 차 안이야아ㅎㅎ
 
@@ -1456,7 +1434,7 @@ categories:
 **17:22** 텐텐 못 참지
 
 **17:23**<br>
-![](/media/chaeyoung/weverse__20241201200230.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200230.jpg){ loading=lazy }
 
 **17:23** 텐텐이 뭐가 어때서
 
@@ -1496,7 +1474,7 @@ categories:
 **12:54** 원래 옆에서 자다가 다리쪽에서 자는데
 
 **12:55**<br>
-![](/media/chaeyoung/weverse__20241201200231.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200231.jpg){ loading=lazy }
 
 **12:55** 진짜 편했어 나는
 
@@ -1505,7 +1483,7 @@ categories:
 **12:56** ㅎㅎㅎ효견..
 
 **12:56**<br>
-![](/media/chaeyoung/weverse__20241201200232.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200232.jpg){ loading=lazy }
 
 **12:56** 옆쪽 눌린 거 보이지
 
@@ -1661,7 +1639,7 @@ categories:
 **17:37** 엄마의 사랑을 느꼈나봐
 
 **17:38**<br>
-![](/media/chaeyoung/weverse__20241201200233.jpg){ loading=lazy }
+![](../media/chaeyoung/weverse__20241201200233.jpg){ loading=lazy }
 
 **17:38** 나중에 휴지랑 플로버 만나고 싶다
 
@@ -1710,8 +1688,6 @@ categories:
 **17:45** 괜히 뿌듯
 
 **17:45** 우리 애가 징차 이쁜가…🤭
-
-**17:45** Is hugerang friends with aro?
 
 **17:45** 아무래두… 너무 이쁘긴 해….🤭🤭🤭
 
@@ -1954,9 +1930,6 @@ categories:
 **21:41** 고생했오 오늘두🫶
 
 **21:41** 👋👋
-## Fri, Nov 29, 2024
-
-**21:39** fromis flover forever ☘️💚
 ## Sat, Nov 30, 2024
 
 **14:19** 오늘도 엄청 춥다 그치이ㅣㅣ
