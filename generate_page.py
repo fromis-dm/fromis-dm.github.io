@@ -1,12 +1,6 @@
 import csv
 import os
 
-member_name = 'Chaeyoung'
-
-tsv_name = f'raw/{member_name}/dm-log.tsv'
-
-media_path = f'../media/{member_name.lower()}'
-
 DATE_ID = 'date'
 TIME_ID = 'time'
 TEXT_ID = 'text'
@@ -29,7 +23,8 @@ def check_row(row):
     return None
 
 def check_file(f):
-    if not os.path.exists(f'{media_path}/{f}'):
+    if not os.path.exists(f'{relative_media_path}/{f}'):
+        print(f'Media missing {f}')
         return f'*Media missing {f}*'
 
     return None
@@ -148,4 +143,27 @@ categories:
 
 
 if __name__ == '__main__':
-    main()
+    do_batch_run = False
+
+    batch_run = ['Hayoung', 'Seoyeon', 'Jisun', 'Chaeyoung', 'Saerom']
+
+    member_name = 'Hayoung'
+
+    tsv_name = f'raw/{member_name}/dm-log.tsv'
+
+    media_path = f'../media/{member_name.lower()}'
+
+    relative_media_path = f'docs/media/{member_name.lower()}'
+
+    if do_batch_run:
+        for member_name in batch_run:
+
+            tsv_name = f'raw/{member_name}/dm-log.tsv'
+
+            media_path = f'../media/{member_name.lower()}'
+
+            relative_media_path = f'docs/media/{member_name.lower()}'
+
+            main()
+    else:
+        main()
