@@ -8,8 +8,6 @@ out_data = []
 
 day = ''
 
-should_scroll_top = false
-
 skip_media = false
 
 async function wait_for_next_second()
@@ -52,11 +50,6 @@ function get_msg_text(e)
 
 async function download_msgs()
 {
-	if (should_scroll_top)
-	{
-		await scroll_top();
-	}
-
 	msg_area = document.getElementsByClassName('DirectMessageRoomView_message_area__Ky585')[0]
 	for (msg of msg_area.children)
 	{

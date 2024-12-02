@@ -1,10 +1,11 @@
 import csv
+import os
 
-member_name = 'hayoung'
+member_name = 'Chaeyoung'
 
 tsv_name = f'raw/{member_name}/dm-log.tsv'
 
-media_path = f'/media/{member_name.lower()}'
+media_path = f'../media/{member_name.lower()}'
 
 DATE_ID = 'date'
 TIME_ID = 'time'
@@ -18,8 +19,28 @@ skip_your_msgs = True
 
 headers = [DATE_ID, TIME_ID, TEXT_ID, YOUR_TEXT_ID, IMAGE_ID, VIDEO_ID, AUDIO_ID]
 
+def check_row(row):
+    if VIDEO_ID in row:
+        return check_file(row[VIDEO_ID])
+
+    if AUDIO_ID in row:
+        return check_file(row[AUDIO_ID])
+
+    return None
+
+def check_file(f):
+    if not os.path.exists(f'{media_path}/{f}'):
+        return f'*Media missing {f}*'
+
+    return None
+
 def get_parsed_text(row):
     time = row[TIME_ID]
+
+    error = check_row(row)
+    if error:
+        return f'\n**{time}** {error}\n'
+
     if IMAGE_ID in row:
         image_arr = row[IMAGE_ID].removesuffix('_IMG').split(',')
 
@@ -121,7 +142,7 @@ categories:
     # """
     # print(time, text)
 
-    out_name = f'docs/posts/{member_name}.md'
+    out_name = f'docs/posts/{member_name.lower()}.md'
     with open(out_name, mode='w', encoding='utf-8') as txt:
         txt.writelines(out_file)
 
