@@ -25,4 +25,3 @@ plugins:
   - mkdocs-video:
       is_video: True
       video_autoplay: False
-  - blog
