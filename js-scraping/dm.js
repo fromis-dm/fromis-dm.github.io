@@ -1,14 +1,8 @@
-var msgs = document.getElementsByClassName("DirectMessageItemView_container__wB4Dy")
-
-console.log('Found ' + msgs.length + ' msgs')
-
 skip_user_msgs = false
-
-out_data = []
+skip_media = false
 
 day = ''
-
-skip_media = false
+out_data = []
 
 async function wait_for_next_second()
 {
@@ -53,20 +47,39 @@ async function download_msgs()
 	msg_area = document.getElementsByClassName('DirectMessageRoomView_message_area__Ky585')[0]
 	for (msg of msg_area.children)
 	{
-		await process_msg(msg);
+		more_btn = get_first_class(msg, 'DirectMessageBodyTextView_more_button__yiw2o')
+		if (more_btn)
+		{
+			msg.scrollIntoView();
+			await new Promise(resolve => setTimeout(resolve, 100));
+			more_btn.click();
+			await new Promise(resolve => setTimeout(resolve, 100));
+		}
 	}
 
-	for (r of out_data)
+	let total_num = msg_area.children.length
+	let msg_index = 0;
+	for (msg of msg_area.children)
 	{
-		console.log(r)
+		console.log(`${msg_index}/${msg_area.children.length}`)
+		await process_msg(msg);
+		msg_index += 1
 	}
+
+	// for (r of out_data)
+	// {
+	// 	console.log(r)
+	// }
 
 	export_tsv('out.tsv', out_data)
 	alert('🍀 fromis_9 🍀 flover 🍀 forever 🍀')
 }
 
-function process_msg(msg)
+async function process_msg(msg)
 {
+	msg.scrollIntoView();
+	await new Promise(resolve => setTimeout(resolve, 50));
+
 	// read day
 	if (msg.classList.contains("DirectMessageLineDivderView_divider_text_wrap__ua6da"))
 	{
@@ -95,15 +108,15 @@ function process_msg(msg)
 
 	if (img_btn)
 	{
-		return skip_media ? Promise.resolve("skip") : down_img(img_btn, day, time)
+		 return skip_media ? Promise.resolve("skip") : await down_img(img_btn, day, time)
 	}
 	else if (audio_btn)
 	{
-		return skip_media ? Promise.resolve("skip") : down_audio(audio_btn, day, time)
+		 return skip_media ? Promise.resolve("skip") : await down_audio(audio_btn, day, time)
 	}
 	else if (video_btn)
 	{
-		return skip_media ? Promise.resolve("skip") : down_video(video_btn, day, time)
+		 return skip_media ? Promise.resolve("skip") : await down_video(video_btn, day, time)
 	}
 	else
 	{
@@ -119,9 +132,10 @@ function process_msg(msg)
 
 // flicking-arrow-next
 
-function down_img(btn, day, time)
+async function down_img(btn, day, time)
 {
 	btn.click();
+	await new Promise(resolve => setTimeout(resolve, 100));
 
     return new Promise(resolve =>
 	{
@@ -201,7 +215,7 @@ function down_img(btn, day, time)
 	// return new Promise(resolve => setTimeout(resolve("Testing", 100))
 }
 
-function down_audio(btn, day, time)
+async function down_audio(btn, day, time)
 {
 	btn.click();
 
@@ -222,12 +236,11 @@ function down_audio(btn, day, time)
 		    let close_btn = get_first_class(document,"ImageViewerView_close_button__9LG7D")
 		    close_btn.click()
 			resolve("Testing")
-		}, 1000)
+		}, 2000)
 	})
-
 }
 
-function down_video(btn, day, time)
+async function down_video(btn, day, time)
 {
 	btn.click();
 
@@ -249,7 +262,7 @@ function down_video(btn, day, time)
 		    let close_btn = get_first_class(document,"ImageViewerView_close_button__9LG7D")
 		    close_btn.click()
 			resolve("Testing")
-		}, 1000)
+		}, 2000)
 	})
 }
 
@@ -356,5 +369,4 @@ function export_tsv(filename, rows)
 	save_to_file('dm-log.txt', simple_file);
 }
 
-download_msgs()
-
+await download_msgs()
