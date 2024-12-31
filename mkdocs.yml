@@ -1,27 +1,34 @@
 site_name: fromis DM
+hooks:
+  - overrides/.hooks/sort_posts_latest.py
 theme:
   name: material
   palette:
     scheme: slate
-    primary: indigo
+    primary: deep purple
   features:
     - navigation.tracking
     - navigation.sections
     - navigation.indexes
-  
+    - navigation.footer
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
   font:
     text: Open Sans
     code: JetBrains Mono
+  favicon: assets/fromis-logo-white.svg
+  logo: assets/fromis-logo-white.svg
 markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - attr_list
   - md_in_html
-#extra_css:
-#  - stylesheets/extra.css
-#extra_javascript:
-#  - javascripts/extra.js
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
 plugins:
-  - mkdocs-video:
-      is_video: True
-      video_autoplay: False
+  - mkdocs-nav-weight
+  - site-urls

@@ -78,7 +78,7 @@ async function download_msgs()
 async function process_msg(msg)
 {
 	msg.scrollIntoView();
-	await new Promise(resolve => setTimeout(resolve, 50));
+	await new Promise(resolve => setTimeout(resolve, 20));
 
 	// read day
 	if (msg.classList.contains("DirectMessageLineDivderView_divider_text_wrap__ua6da"))
@@ -135,7 +135,7 @@ async function process_msg(msg)
 async function down_img(btn, day, time)
 {
 	btn.click();
-	await new Promise(resolve => setTimeout(resolve, 100));
+	await new Promise(resolve => setTimeout(resolve, 750));
 
     return new Promise(resolve =>
 	{

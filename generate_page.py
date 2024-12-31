@@ -1,128 +1,215 @@
 import csv
+import json
+import math
 import os
+import re
+import textwrap
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
-DATE_ID = 'date'
-TIME_ID = 'time'
-TEXT_ID = 'text'
-YOUR_TEXT_ID = 'your_text'
-IMAGE_ID = 'image'
-VIDEO_ID = 'video'
-AUDIO_ID = 'audio'
+def get_snippet_url(body):
+    pattern = r'linkUrl="(.*?)"'
+    return re.search(pattern, body).group(1)
 
-skip_your_msgs = True
+def make_video_md(video_id):
+    media_path = f'/assets/videos/{video_id}.mp4'
+    if not os.path.exists(f'docs/{media_path}'):
+        print('MISSING ', media_path)
 
-headers = [DATE_ID, TIME_ID, TEXT_ID, YOUR_TEXT_ID, IMAGE_ID, VIDEO_ID, AUDIO_ID]
+    thumb_path = f'/assets/videos/{video_id}-thumb.jpg'
+    return \
+f"""<figure markdown="1">
+<video controls="controls" preload="none" poster="{thumb_path}">
+<source src="{media_path}#t=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</figure>"""
 
-def check_row(row):
-    if VIDEO_ID in row:
-        return check_file(row[VIDEO_ID])
+def make_image_md(url, caption='', zoom_click=True, figure=True):
+    if caption:
+        caption = f'<figcaption>{caption}</figcaption>'
 
-    if AUDIO_ID in row:
-        return check_file(row[AUDIO_ID])
+    zoom_md = 'onclick="openFullscreen(this)' if zoom_click else ''
 
-    return None
+    if figure:
+        return textwrap.dedent(f"""\
+                            <figure markdown="1">
+                            ![]({url+'?type=e1920'}){{ loading=lazy {zoom_md}"}}{caption}
+                            </figure>""")
+    else:
+        return textwrap.dedent(f'![]({url+'?type=e1920'}){{ loading=lazy {zoom_md}"}}{caption}')
 
-def check_file(f):
-    if not os.path.exists(f'{relative_media_path}/{f}'):
+def get_datetime(data):
+    time = int(data['createDate']) / 1000
+    return datetime.fromtimestamp(time, tz=ZoneInfo("Asia/Seoul"))
+
+def check_file(media_path, f):
+    if not os.path.exists(f'{media_path}/{f}'):
         print(f'Media missing {f}')
         return f'*Media missing {f}*'
 
     return None
 
-def get_parsed_text(row):
-    time = row[TIME_ID]
+def load_json(file_name):
+    if os.path.exists(file_name):
+        with open(file_name, 'r', encoding='utf-8') as file:
+            json_data = json.load(file)
+            return json_data
+            # return list(reversed(json_data))
+    else:
+        print('failed to find', file_name)
+    return []
 
-    error = check_row(row)
-    if error:
-        return f'\n**{time}** {error}\n'
+def get_photo_url(body):
+    pattern = r'imageUrl="(.*?)"'
+    return re.search(pattern, body).group(1)
 
-    if IMAGE_ID in row:
-        image_arr = row[IMAGE_ID].removesuffix('_IMG').split(',')
+def get_video_id(body):
+    pattern = r'videoId="(.*?)"'
+    video_id = re.search(pattern, body).group(1)
+    return video_id
 
-        links_md = '<br>'.join([f'![](..{media_path}/{t})' for t in image_arr])
+
+def make_snippet_md(snippet_url):
+    return f'<a href="{snippet_url}">{snippet_url}</a>'
+    # return f'![{snippet_url}]({snippet_url})'
+
+
+def wrap_links(text):
+    # Regex pattern to match URLs
+    url_pattern = r"(https?://[^\s]+)"
+
+    # Replacement string to wrap the URL in an anchor tag
+    replacement = r'<a href="\1">\1</a>'
+
+    # Using re.sub to perform the replacement
+    return re.sub(url_pattern, replacement, text)
+
+
+def process_body(data):
+    date = get_datetime(data)
+    msg_date_str = date.strftime("%H:%M")
+
+    body = data['body']
+    out_md = []
+
+    has_snippet = False
+    for b in body:
+        if 'dm:snippet' in b['value']:
+            has_snippet = True
+            break
+
+    for b in body:
+        value = b['value'].replace('\n', '<br>').replace('#', '\\#')
+        pattern = r'(<dm:.*?\/>)'
+        matches = re.findall(pattern, value)
+
+        if has_snippet:
+            value = wrap_links(value)
+
+        if len(matches):
+            for m in matches:
+                type = m.split(' ')[0].removeprefix('<dm:')
+                if type == 'photo':
+                    photo_url = get_photo_url(m)
+                    out_md.append(make_image_md(photo_url))
+                if type == 'video' or type == 'audio':
+                    video_id = get_video_id(m)
+                    out_md.append(make_video_md(video_id))
+                if type == 'snippet':
+                    print(m)
+                #     snippet_url = get_snippet_url(m)
+                #     out_md.append(make_snippet_md(snippet_url))
+        else:
+            out_md.append(value)
+
+    if len(out_md) == 1:
         return \
-f"""
-**{time}**<br>
-{links_md}{{ loading=lazy }}
-"""
+f"""<div class="message" markdown="1">
+<div class="message-date" markdown="1">
+<small>{msg_date_str}</small>
+</div>
+<div markdown="1">
+{'<br>'.join(out_md)}
+</div>
+</div>"""
 
-    # ![type:video]({member_name}/{row[VIDEO_ID]})
-
-    mp4_name = ''
-
-    if VIDEO_ID in row:
-        mp4_name = row[VIDEO_ID]
-        thumb_name = f"{mp4_name.removesuffix('.mp4')}-thumb.jpg"
-        return \
-f"""
-**{time}**<br>
-<video controls="controls" preload="none" poster="{media_path}/{thumb_name}">
-<source src="{media_path}/{mp4_name}#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-"""
-
-    if AUDIO_ID in row:
-        return \
-f"""
-**{time}**<br>
-<audio controls src="{media_path}/{row[AUDIO_ID]}" preload="none"></audio>
-"""
-
-    if TEXT_ID in row:
-        return \
-f"""
-**{time}** {row[TEXT_ID].replace('\n', '<br>')}
-"""
-
-    if YOUR_TEXT_ID in row:
-        return \
-f"""
-**{time}** {row[YOUR_TEXT_ID].replace('\n', '<br>')}
-"""
-
-    return ''
-
-def main():
-    out_file = \
-f"""---
-draft: true 
-date: 2024-01-31 
-categories:
-  - Hello
-  - World
----
-
-# {member_name}
-"""
-
-    main_dict = dict()
-
-    with open(tsv_name, encoding='utf-8') as fd:
-        rd = csv.reader(fd, delimiter="\t", quotechar='\v')
-        for line in rd:
-            # print(line)
-            row = dict()
-            for i, elem in enumerate(line):
-                # print(i, elem)
-                if len(elem):
-                    # print(f'Set {h} to {elem[i]}')
-                    row[headers[i]] = elem
-                # print(row[TIME_ID])
-
-            if skip_your_msgs and YOUR_TEXT_ID in row:
-                continue
-
-            date_list = main_dict.setdefault(row[DATE_ID], [])
-            date_list.append(row)
-            print(row)
+    else:
+        media_md = \
+f"""<div class="message" markdown="1">
+<div class="message-date" markdown="1">
+<small>{msg_date_str}</small>
+</div>
+<div class="no-flex" markdown="1">
+{'<br>'.join(out_md)}
+</div>
+</div>"""
+        return media_md
 
 
-    for date, elems in main_dict.items():
-        out_file += f'## {date}\n'
-        for row in elems:
-            parsed_text = get_parsed_text(row)
-            out_file += parsed_text
+def process_msg(data):
+    date = get_datetime(data)
+    # day_text = date.strftime("%y%m%d")
+    msg_date_str = date.strftime("%H:%M")
+
+    text = \
+f"""{process_body(data)}"""
+
+    return text
+
+def process_day(day, msgs):
+    day_text = day.strftime("%b %d %Y")
+
+    all_msgs = []
+    for m in msgs:
+        all_msgs.append(process_msg(m))
+
+    msgs = '\n'.join(all_msgs)
+
+
+    out = \
+f"""## {day_text}
+
+{msgs}"""
+    return out
+
+
+def make_page(member_name, json_data, page_index):
+    # all_msgs = []
+
+    msgs_by_day = dict()
+
+    first_day = None
+
+    for data in json_data:
+        date = get_datetime(data)
+        day = date.replace(hour=0, minute=0, second=0, microsecond=0)
+        if not first_day:
+            first_day = day
+
+        # day = date.strftime("%y%m%d")
+        msgs_by_day.setdefault(day, []).append(data)
+
+    all_days = []
+    days = sorted(msgs_by_day.keys())
+    for d in days:
+        all_days.append(process_day(d, msgs_by_day[d]))
+    # print(days)
+
+    # all_msgs.append(process_msg(data))
+
+    # msgs = '\n'.join(all_msgs)
+
+        # print(data)
+        # print('num msgs', len(json_data))
+
+    # main_dict = dict()
+    #
+    # for date, elems in main_dict.items():
+    #     out_file += f'## {date}\n'
+    #     for row in elems:
+    #         parsed_text = get_parsed_text(row)
+    #         out_file += parsed_text
 
     #             out_file += \
     # f"""
@@ -136,34 +223,47 @@ categories:
     # **{time}** {parsed_text}
     # """
     # print(time, text)
+    out_file = \
+f"""---
+date: {first_day}
+weight: {page_index}
+---
 
-    out_name = f'docs/posts/{member_name.lower()}.md'
-    with open(out_name, mode='w', encoding='utf-8') as txt:
+# Page {page_index}
+
+{'\n'.join(all_days)}
+"""
+
+    md_dir = f'docs/{member_name.lower()}'
+    if not os.path.exists(md_dir):
+        os.mkdir(md_dir)
+
+    md_path = f'{md_dir}/{member_name.lower()}-{page_index}.md'
+    with open(md_path, mode='w', encoding='utf-8') as txt:
+        print('wrote to ', md_path)
         txt.writelines(out_file)
 
+def process_json(member_name):
+    tsv_name = f'raw/{member_name}/dm-log.tsv'
+    json_name = f'raw-data/{member_name.lower()}.json'
+    json_data = list(reversed(load_json(json_name)))
+    json_data = [d for d in json_data if d['userType'] == 'ARTIST']
+    media_path = f'docs/media/{member_name.lower()}'
+
+    num_msgs_per_page = 500
+
+    for i in range(0, len(json_data), num_msgs_per_page):
+        data_slice = json_data[i:i+num_msgs_per_page]
+        page_index = math.floor(i / num_msgs_per_page) + 1
+        make_page(member_name, data_slice, page_index)
+
+def main():
+    members = ['Saerom', 'Hayoung', 'Jiwon', 'Jisun', 'Seoyeon', 'Chaeyoung', 'Nagyung', 'Jiheon']
+    # members = ['Nagyung', 'Saerom', 'Jisun']
+    # members = ['Jisun']
+
+    for member_name in members:
+        process_json(member_name)
 
 if __name__ == '__main__':
-    do_batch_run = False
-
-    batch_run = ['Hayoung', 'Seoyeon', 'Jisun', 'Chaeyoung', 'Saerom']
-
-    member_name = 'Hayoung'
-
-    tsv_name = f'raw/{member_name}/dm-log.tsv'
-
-    media_path = f'/media/{member_name.lower()}'
-
-    relative_media_path = f'docs/media/{member_name.lower()}'
-
-    if do_batch_run:
-        for member_name in batch_run:
-
-            tsv_name = f'raw/{member_name}/dm-log.tsv'
-
-            media_path = f'/media/{member_name.lower()}'
-
-            relative_media_path = f'docs/media/{member_name.lower()}'
-
-            main()
-    else:
-        main()
+    main()
