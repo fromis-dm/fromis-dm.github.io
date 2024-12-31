@@ -20,7 +20,7 @@ def make_video_md(video_id):
     return \
 f"""<figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="{thumb_path}">
-<source src="{media_path}#t=1" type="video/mp4">
+<source src="{media_path}" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>"""

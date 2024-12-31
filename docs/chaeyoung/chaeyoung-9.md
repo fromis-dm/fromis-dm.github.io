@@ -2554,7 +2554,7 @@ flover야 살랑한다♥️
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/57C39941B0F5C6112A42260DBFE307118BA5-thumb.jpg">
-<source src="/assets/videos/57C39941B0F5C6112A42260DBFE307118BA5.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/57C39941B0F5C6112A42260DBFE307118BA5.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

@@ -3778,7 +3778,7 @@ weight: 3
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/88802EB2E86787669BE5DA0B300A64198F86-thumb.jpg">
-<source src="/assets/videos/88802EB2E86787669BE5DA0B300A64198F86.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/88802EB2E86787669BE5DA0B300A64198F86.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

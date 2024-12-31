@@ -3470,7 +3470,7 @@ flover 자니..??
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/082D386EF6E886DD16A8A004AAEA76FC54F4-thumb.jpg">
-<source src="/assets/videos/082D386EF6E886DD16A8A004AAEA76FC54F4.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/082D386EF6E886DD16A8A004AAEA76FC54F4.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3757,7 +3757,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/8CACA45018302B76B7B29FBAC37C07F8CBB8-thumb.jpg">
-<source src="/assets/videos/8CACA45018302B76B7B29FBAC37C07F8CBB8.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/8CACA45018302B76B7B29FBAC37C07F8CBB8.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3810,7 +3810,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/D39837E9388057D759D70A6DD4AD13278429-thumb.jpg">
-<source src="/assets/videos/D39837E9388057D759D70A6DD4AD13278429.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/D39837E9388057D759D70A6DD4AD13278429.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -4773,7 +4773,7 @@ tissuerang
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/168965F34912EEB293929D6A553FBF3DD2BF-thumb.jpg">
-<source src="/assets/videos/168965F34912EEB293929D6A553FBF3DD2BF.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/168965F34912EEB293929D6A553FBF3DD2BF.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

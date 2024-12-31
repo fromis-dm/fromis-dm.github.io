@@ -2454,7 +2454,7 @@ flover 도 나랑 우리 멤버들 청춘 함께 해주기로 약속☺️
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/DB0D47E25F6FFE66DDBBA4ACA69DFCEB28CB-thumb.jpg">
-<source src="/assets/videos/DB0D47E25F6FFE66DDBBA4ACA69DFCEB28CB.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/DB0D47E25F6FFE66DDBBA4ACA69DFCEB28CB.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2607,7 +2607,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/12AF12FF28F4798C7F27F85F5DA177373136-thumb.jpg">
-<source src="/assets/videos/12AF12FF28F4798C7F27F85F5DA177373136.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/12AF12FF28F4798C7F27F85F5DA177373136.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2660,7 +2660,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/75D98390286421DD94335D368FBA50CAFD1D-thumb.jpg">
-<source src="/assets/videos/75D98390286421DD94335D368FBA50CAFD1D.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/75D98390286421DD94335D368FBA50CAFD1D.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

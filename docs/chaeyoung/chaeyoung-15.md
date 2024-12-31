@@ -2690,7 +2690,7 @@ flover 체고💙
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/DCF37913F109220CC61FD329A5C8A2D97549-thumb.jpg">
-<source src="/assets/videos/DCF37913F109220CC61FD329A5C8A2D97549.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/DCF37913F109220CC61FD329A5C8A2D97549.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

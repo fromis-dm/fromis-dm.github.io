@@ -1600,7 +1600,7 @@ E호소인ㅋㅋㅋㅋㅋㅋ
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/EE94E0609BC85CDB609E198B8C5F07A0D6FB-thumb.jpg">
-<source src="/assets/videos/EE94E0609BC85CDB609E198B8C5F07A0D6FB.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/EE94E0609BC85CDB609E198B8C5F07A0D6FB.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1685,7 +1685,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/5FAF85956EE406C52C73F85F5DA177373136-thumb.jpg">
-<source src="/assets/videos/5FAF85956EE406C52C73F85F5DA177373136.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/5FAF85956EE406C52C73F85F5DA177373136.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

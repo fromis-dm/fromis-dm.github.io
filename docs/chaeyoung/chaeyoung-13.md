@@ -176,7 +176,7 @@ weight: 13
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/84FF139407555B34B88FA7AC3ABC4645C00A-thumb.jpg">
-<source src="/assets/videos/84FF139407555B34B88FA7AC3ABC4645C00A.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/84FF139407555B34B88FA7AC3ABC4645C00A.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2091,7 +2091,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/AC174379A7475C97831BFC00F15DF45674A3-thumb.jpg">
-<source src="/assets/videos/AC174379A7475C97831BFC00F15DF45674A3.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/AC174379A7475C97831BFC00F15DF45674A3.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3982,7 +3982,7 @@ flover도 1등 축하해🥰♥️
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/C950BD1A7396699C73D93209348DED024AC5-thumb.jpg">
-<source src="/assets/videos/C950BD1A7396699C73D93209348DED024AC5.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/C950BD1A7396699C73D93209348DED024AC5.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

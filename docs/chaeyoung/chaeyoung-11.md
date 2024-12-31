@@ -14,7 +14,7 @@ weight: 11
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/C6DFFEA3CC82B47C5FBB9B5051667AA86F18-thumb.jpg">
-<source src="/assets/videos/C6DFFEA3CC82B47C5FBB9B5051667AA86F18.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/C6DFFEA3CC82B47C5FBB9B5051667AA86F18.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -51,7 +51,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/F9D1EA70ED36A97DC3BD3149A59FB1DE8BF4-thumb.jpg">
-<source src="/assets/videos/F9D1EA70ED36A97DC3BD3149A59FB1DE8BF4.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/F9D1EA70ED36A97DC3BD3149A59FB1DE8BF4.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

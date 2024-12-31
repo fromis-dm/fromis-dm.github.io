@@ -448,7 +448,7 @@ weight: 16
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/8967587A1B4E3B449322A0C234A5CD2D9B76-thumb.jpg">
-<source src="/assets/videos/8967587A1B4E3B449322A0C234A5CD2D9B76.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/8967587A1B4E3B449322A0C234A5CD2D9B76.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -461,7 +461,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/7DDA794D0D8D7016E682E8166021C74E26A8-thumb.jpg">
-<source src="/assets/videos/7DDA794D0D8D7016E682E8166021C74E26A8.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/7DDA794D0D8D7016E682E8166021C74E26A8.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -490,7 +490,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/37A93D438E4A6396137CBA6B3D1A47100729-thumb.jpg">
-<source src="/assets/videos/37A93D438E4A6396137CBA6B3D1A47100729.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/37A93D438E4A6396137CBA6B3D1A47100729.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -575,7 +575,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/0ECF89A2A9D230099A6B693FC12A4E395EB3-thumb.jpg">
-<source src="/assets/videos/0ECF89A2A9D230099A6B693FC12A4E395EB3.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/0ECF89A2A9D230099A6B693FC12A4E395EB3.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -628,7 +628,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/B6E99008C72C91CB20B862EE1B296CDDB4EC-thumb.jpg">
-<source src="/assets/videos/B6E99008C72C91CB20B862EE1B296CDDB4EC.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/B6E99008C72C91CB20B862EE1B296CDDB4EC.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2979,7 +2979,7 @@ ai아닙니다
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/919A9031A86C28F7D5FD788E63201F8D332E-thumb.jpg">
-<source src="/assets/videos/919A9031A86C28F7D5FD788E63201F8D332E.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/919A9031A86C28F7D5FD788E63201F8D332E.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

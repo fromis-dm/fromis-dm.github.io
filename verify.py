@@ -148,7 +148,7 @@ def download_file(file_url, file_path, skip_exists, timeout):
             retries += 1
 
 def load_json(name):
-    file_name = f'raw-data/{name}.json'
+    file_name = f'raw-data/{name}-clean.json'
     if os.path.exists(file_name):
         with open(file_name, 'r', encoding='utf-8') as file:
             json_data = json.load(file)
@@ -220,7 +220,7 @@ def get_type(m):
     pattern = r'(<dm:(.*?)\s)'
     return re.search(pattern, m).group(1)
 
-def get_all_media(json_data):
+def get_all_media(member, json_data):
     media = {
         'video': [],
         'audio': [],
@@ -278,10 +278,11 @@ def get_all_media(json_data):
     # print(media)
     total_media = 0
     for k, v in media.items():
-        print('\t', k, len(v))
+        # print('\t', k, len(v))
         total_media += len(v)
-    print('\t total media', total_media)
-    print('\t msgs', total_msgs)
+    # print('\t total media', total_media)
+    # print('\t msgs', total_msgs)
+    print(f'| {member} | {len(media['photo'])} | {len(media['audio'])} | {len(media['video'])} | {total_media} | {total_msgs}')
 
 
     return media
@@ -418,8 +419,8 @@ def main():
         #             count += value.count('dm:audio')
         # print(member, count)
 
-        print(member)
-        media = get_all_media(json_data)
+        # print(member)
+        media = get_all_media(member, json_data)
         # download_media(media, member)
 
         # tsv_data = list(reversed(load_tsv(member)))

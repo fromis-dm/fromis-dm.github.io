@@ -670,7 +670,7 @@ flover도 따따하게 입구
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/D77FB622D0267377382077408C684F84598E-thumb.jpg">
-<source src="/assets/videos/D77FB622D0267377382077408C684F84598E.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/D77FB622D0267377382077408C684F84598E.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
