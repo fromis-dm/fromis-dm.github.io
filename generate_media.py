@@ -17,7 +17,7 @@ skip_duplicate = True
 skip_images = True
 
 copy_image = False
-copy_video = True
+copy_video = False
 
 source_folder = ''
 output_folder = ''
