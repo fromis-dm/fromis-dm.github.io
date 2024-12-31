@@ -36,8 +36,8 @@
 <div markdown="1">
 <a class="home-link" href="https://fromis-wv.github.io/" markdown="1">
 <figure markdown="1">
-![Posts](assets/wv.jpg)
-<figcaption>Posts</figcaption>
+![Weverse](assets/wv.jpg)
+<figcaption>Weverse</figcaption>
 </figure>
 </a>
 </div>

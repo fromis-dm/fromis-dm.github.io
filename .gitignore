@@ -3,5 +3,6 @@ site/
 raw/
 venv/
 yt-dlp/
-docs/assets/videos
-raw-data
+docs/assets/videos/
+raw-data/
+filedate/

@@ -55,6 +55,21 @@
     margin-right: 8px;
 }
 
+.message-date p
+{
+    margin-block-end: 0;
+    margin-block-start: 2px;
+}
+
+.msg-media
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 2px;
+    margin-block-end: 8px !important;
+    margin-block-start: 8px !important;
+}
+
 .artist
 {
     /*border-radius: 8px;*/

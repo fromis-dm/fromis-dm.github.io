@@ -18,7 +18,7 @@ def make_video_md(video_id):
 
     thumb_path = f'/assets/videos/{video_id}-thumb.jpg'
     return \
-f"""<figure markdown="1">
+f"""<figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="{thumb_path}">
 <source src="{media_path}#t=1" type="video/mp4">
 Your browser does not support the video tag.
@@ -33,7 +33,7 @@ def make_image_md(url, caption='', zoom_click=True, figure=True):
 
     if figure:
         return textwrap.dedent(f"""\
-                            <figure markdown="1">
+                            <figure class="msg-media" markdown="1">
                             ![]({url+'?type=e1920'}){{ loading=lazy {zoom_md}"}}{caption}
                             </figure>""")
     else:
@@ -85,6 +85,11 @@ def wrap_links(text):
     # Using re.sub to perform the replacement
     return re.sub(url_pattern, replacement, text)
 
+def fix_body_text(text):
+    pattern = r'(\d+)\.'
+    replacement = r'\1\\.'
+    text = re.sub(pattern, replacement, text)
+    return text.replace('\n', '<br>').replace('#', '\\#')
 
 def process_body(data):
     date = get_datetime(data)
@@ -100,7 +105,7 @@ def process_body(data):
             break
 
     for b in body:
-        value = b['value'].replace('\n', '<br>').replace('#', '\\#')
+        value = fix_body_text(b['value'])
         pattern = r'(<dm:.*?\/>)'
         matches = re.findall(pattern, value)
 
@@ -130,7 +135,7 @@ f"""<div class="message" markdown="1">
 <small>{msg_date_str}</small>
 </div>
 <div markdown="1">
-{'<br>'.join(out_md)}
+{out_md[0]}
 </div>
 </div>"""
 
@@ -141,7 +146,7 @@ f"""<div class="message" markdown="1">
 <small>{msg_date_str}</small>
 </div>
 <div class="no-flex" markdown="1">
-{'<br>'.join(out_md)}
+{''.join(out_md)}
 </div>
 </div>"""
         return media_md
@@ -250,12 +255,40 @@ def process_json(member_name):
     json_data = [d for d in json_data if d['userType'] == 'ARTIST']
     media_path = f'docs/media/{member_name.lower()}'
 
+    msgs_by_day = dict()
+
+    first_day = None
+
+    for data in json_data:
+        date = get_datetime(data)
+        day = date.replace(hour=0, minute=0, second=0, microsecond=0)
+        if not first_day:
+            first_day = day
+
+        # day = date.strftime("%y%m%d")
+        msgs_by_day.setdefault(day, []).append(data)
+
     num_msgs_per_page = 500
 
-    for i in range(0, len(json_data), num_msgs_per_page):
-        data_slice = json_data[i:i+num_msgs_per_page]
-        page_index = math.floor(i / num_msgs_per_page) + 1
-        make_page(member_name, data_slice, page_index)
+    all_days = []
+    days = sorted(msgs_by_day.keys())
+    page_data = []
+    page_index = 1
+
+    for i, d in enumerate(days):
+        is_last_page = i == len(days) - 1
+        page_data += msgs_by_day[d]
+
+        if len(page_data) >= num_msgs_per_page or is_last_page:
+            make_page(member_name, page_data, page_index)
+            page_data = []
+            page_index += 1
+
+
+    # for i in range(0, len(json_data), num_msgs_per_page):
+    #     data_slice = json_data[i:i+num_msgs_per_page]
+    #     page_index = math.floor(i / num_msgs_per_page) + 1
+    #     make_page(member_name, data_slice, page_index)
 
 def main():
     members = ['Saerom', 'Hayoung', 'Jiwon', 'Jisun', 'Seoyeon', 'Chaeyoung', 'Nagyung', 'Jiheon']

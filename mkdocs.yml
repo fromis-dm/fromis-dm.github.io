@@ -32,3 +32,4 @@ extra_javascript:
 plugins:
   - mkdocs-nav-weight
   - site-urls
+  - search
