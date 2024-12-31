@@ -1,0 +1,285 @@
+{
+    "pollingSec": 5,
+    "rooms": [
+        {
+            "roomId": 414361,
+            "userType": "NORMAL",
+            "status": "NORMAL",
+            "subscriptionStatus": "IN_USE",
+            "saleStatus": "SERVICE_STOP",
+            "newCount": 0,
+            "nickname": "flover",
+            "wdmId": "WDM4BFA7A6",
+            "communityId": 36,
+            "communityName": "fromis_9",
+            "communityAlias": "fromis_9",
+            "dmProfileImageUrl": "https://phinf.wevpstatic.net/MjAyMzA2MjZfMTQw/MDAxNjg3NzQ3NzE2NzE3.sTjhSGjoy3v4YWgOusaUyTJCAiIDDI34b7SBTjVAeUIg.TVETBI6wZ_tQjmoAsCS6Vr6bBETPlgMZy-YwTa6Gs0wg.JPEG/image.jpg",
+            "dmProfileName": "지헌",
+            "dmStatusEmoji": "\uD83E\uDE75",
+            "dmOfficialImageUrl": "https://phinf.wevpstatic.net/MjAyNDA4MDFfNjgg/MDAxNzIyNTE1MjE3ODUw.Xzw3BazeNu9K7Ihzm7F9X0Q1rMiSzS_0JrOBZP578Zgg.PDQuLhyLB3NhLUORkSzYfr7R8XjWYBXgUULuSnzajgAg.JPEG/2c7b82f1-731e-4898-8610-36a4b0f80879.jpeg",
+            "dmOfficialName": "BAEK JI HEON",
+            "dmEnOfficialName": "BAEK JI HEON",
+            "fixedTop": false,
+            "latestMessage": {
+                "messageId": 1913175539888989490,
+                "userId": 26017364,
+                "createDate": 1735635671397,
+                "body": [
+                    {
+                        "value": "we will wait an eternity \uD83C\uDF40",
+                        "translatedValues": {}
+                    }
+                ],
+                "gift": false
+            },
+            "pushEnabled": true,
+            "existMyMessage": true
+        },
+        {
+            "roomId": 321529,
+            "userType": "NORMAL",
+            "status": "NORMAL",
+            "subscriptionStatus": "IN_USE",
+            "saleStatus": "SERVICE_STOP",
+            "newCount": 0,
+            "nickname": "flover",
+            "wdmId": "WDM49ED7A6",
+            "communityId": 36,
+            "communityName": "fromis_9",
+            "communityAlias": "fromis_9",
+            "dmProfileImageUrl": "https://phinf.wevpstatic.net/MjAyMzExMjNfNDgg/MDAxNzAwNzQ4NTAxODc0.2EGtaLlh1-57cxxdkbxuPZerV329IZ1e5jfx-PEESOsg.D0140OYrn2gf5AidV-JLPeSUqIK9mFmUGEsyPVSrjPcg.JPEG/image.jpg",
+            "dmProfileName": "가로새롬",
+            "dmStatusEmoji": "\uD83D\uDC8C",
+            "dmOfficialImageUrl": "https://phinf.wevpstatic.net/MjAyNDA4MDFfODQg/MDAxNzIyNTE0NDQ3MDQ3.jd8yLmvexdRXlwRBhZBoW5v3XgKgA3ilOhglifEW-0Eg.gdKTGmOlcsShILD35eY6Hbth7Ji9NeCwexY0unn5maog.JPEG/87dfb166-b56a-4167-aecc-d657305e5413.jpeg",
+            "dmOfficialName": "LEE SAE ROM",
+            "dmEnOfficialName": "LEE SAE ROM",
+            "fixedTop": false,
+            "latestMessage": {
+                "messageId": 1913169143608758258,
+                "userId": 26017364,
+                "createDate": 1735635552254,
+                "body": [
+                    {
+                        "value": "the sweetest captain cat!!  가로새롬!! I will miss these small conversations \uD83D\uDE2D",
+                        "translatedValues": {}
+                    }
+                ],
+                "gift": false
+            },
+            "pushEnabled": true,
+            "existMyMessage": true
+        },
+        {
+            "roomId": 297243,
+            "userType": "NORMAL",
+            "status": "NORMAL",
+            "subscriptionStatus": "IN_USE",
+            "saleStatus": "SERVICE_STOP",
+            "newCount": 0,
+            "nickname": "flover",
+            "wdmId": "WDM4A4C7A6",
+            "communityId": 36,
+            "communityName": "fromis_9",
+            "communityAlias": "fromis_9",
+            "dmProfileImageUrl": "https://phinf.wevpstatic.net/MjAyMzExMjFfMjUz/MDAxNzAwNTQzODEzNjM0.dsABDAwBLvb_CmKv53nAMh0x44CV1NvJRUsHloAtzVEg.spqUAHYle7q_biNAdzoaGZ4l5soReNS5ww6awFUlCa0g.JPEG/image.jpg",
+            "dmProfileName": "하영",
+            "dmStatusEmoji": "\uD83C\uDF3B",
+            "dmOfficialImageUrl": "https://phinf.wevpstatic.net/MjAyNDA4MDFfMjU4/MDAxNzIyNTE0OTQzMDUy.2UqWq7q3PzG0g3zXOXM49NWYLQziGx5I5IElkxTy0F4g.ITj4gwg8cOnawN-tLAFGilaurlN-_Fk_Y3-DAutQ6Yog.PNG/4f24108d-9672-432b-bf73-2d284ff35dee.png",
+            "dmOfficialName": "SONG HA YOUNG",
+            "dmEnOfficialName": "SONG HA YOUNG",
+            "fixedTop": false,
+            "latestMessage": {
+                "messageId": 1913157117163409974,
+                "userId": 26017364,
+                "createDate": 1735635328246,
+                "body": [
+                    {
+                        "value": "555",
+                        "translatedValues": {}
+                    }
+                ],
+                "gift": false
+            },
+            "pushEnabled": true,
+            "existMyMessage": true
+        },
+        {
+            "roomId": 221087,
+            "userType": "NORMAL",
+            "status": "NORMAL",
+            "subscriptionStatus": "IN_USE",
+            "saleStatus": "SERVICE_STOP",
+            "newCount": 0,
+            "nickname": "flover",
+            "profileImageUrl": "https://phinf.wevpstatic.net/MjAyMzEyMjlfMjE1/MDAxNzAzODU1NTMwNjE4.5CkvcDqBV7o3HEjXT1NJtWASbzSv3pxLuex4mfse-d8g.qfc1SgKhXQNCDpokui0bL0EqgkALR-9-EwTRA9LC1fIg.JPEG/Weverse_17b61.jpg",
+            "wdmId": "WDM4AE77A6",
+            "communityId": 36,
+            "communityName": "fromis_9",
+            "communityAlias": "fromis_9",
+            "dmProfileImageUrl": "https://phinf.wevpstatic.net/MjAyNDEyMTlfMTE5/MDAxNzM0NTgzMjY0NDEy.08FClE9gxLY-99LscoMUgQbKnrVicLFFWSqmAi3eGLEg.hXV0n-tPyoIqjwYMPRrQ8Zn9aHvy3-B2llL4LWAZ_bEg.JPEG/image.jpg",
+            "dmProfileName": "지선",
+            "dmStatusEmoji": "\uD83D\uDC8C",
+            "dmOfficialImageUrl": "https://phinf.wevpstatic.net/MjAyNDA4MDFfODAg/MDAxNzIyNTE0OTc2MDQw.3dqX05FXhdG2vsdebJIrMrLKz-_VUbr0jlWzrjh2WGkg.zc-1Hg9KPBdOT3wCctWXenD0YxpuWdOPZr_0npwFFtwg.PNG/4a8a9e5a-8327-4276-8fe2-5c9b1b733c93.png",
+            "dmOfficialName": "ROH JI SUN",
+            "dmEnOfficialName": "ROH JI SUN",
+            "fixedTop": false,
+            "latestMessage": {
+                "messageId": 1913058857975201598,
+                "userId": 26017364,
+                "createDate": 1735633498028,
+                "body": [
+                    {
+                        "value": "in 30 minutes flover will be homeless... but we will always support you no matter what!! \uD83C\uDF40\uD83C\uDF40\uD83C\uDF40",
+                        "translatedValues": {}
+                    }
+                ],
+                "gift": false
+            },
+            "pushEnabled": true,
+            "existMyMessage": true
+        },
+        {
+            "roomId": 229217,
+            "userType": "NORMAL",
+            "status": "NORMAL",
+            "subscriptionStatus": "IN_USE",
+            "saleStatus": "SERVICE_STOP",
+            "newCount": 0,
+            "nickname": "flover",
+            "wdmId": "WDM4B237A6",
+            "communityId": 36,
+            "communityName": "fromis_9",
+            "communityAlias": "fromis_9",
+            "dmProfileImageUrl": "https://phinf.wevpstatic.net/MjAyNDEyMjNfMTcz/MDAxNzM0OTI4NTM2NTY0.5O-4-XiItPyP-eEgEo1ybPb3RdXmvZQLUGVC6UPs4MEg.Bj3K1kw7D2TM7xusDjzTsonDqyeighYb5cuBIM_ibrYg.JPEG/image.jpg",
+            "dmProfileName": "더여니",
+            "dmStatusEmoji": "\uD83C\uDF40",
+            "dmOfficialImageUrl": "https://phinf.wevpstatic.net/MjAyNDA4MDFfMzAg/MDAxNzIyNTE0OTg5MjM1.CzJPFkaasJxJzPImXD-Ryhjiyt0qIISezjqrt1ahmNEg.NTcJf3sqvSeaRpL-PdgLqfSesgjL_lzl1tuKrChNJwQg.PNG/0be083e7-cafa-4b3f-8cf1-dc29f46d65de.png",
+            "dmOfficialName": "LEE SEO YEON",
+            "dmEnOfficialName": "LEE SEO YEON",
+            "fixedTop": false,
+            "latestMessage": {
+                "messageId": 1913026461036904130,
+                "userId": 26017364,
+                "createDate": 1735632894589,
+                "body": [
+                    {
+                        "value": "더여니 오늘하루 고생많았오 \uD83C\uDF40 ☘️ \uD83C\uDF40 ☘️",
+                        "translatedValues": {}
+                    }
+                ],
+                "gift": false
+            },
+            "pushEnabled": true,
+            "existMyMessage": true
+        },
+        {
+            "roomId": 464268,
+            "userType": "NORMAL",
+            "status": "NORMAL",
+            "subscriptionStatus": "IN_USE",
+            "saleStatus": "SERVICE_STOP",
+            "newCount": 0,
+            "nickname": "flover",
+            "wdmId": "WDM4A9C7A6",
+            "communityId": 36,
+            "communityName": "fromis_9",
+            "communityAlias": "fromis_9",
+            "dmProfileImageUrl": "https://phinf.wevpstatic.net/MjAyMzA2MjVfMzMg/MDAxNjg3NjU0MTExOTU5.7GFeCpkRW4jdCPevFi1sgeF7S4XyLHRSJr1VOBRp7gEg.mY0LxqknzXmYC4oZ6TpxCmdSnAbldBctUiaEHQVjHkgg.JPEG/image.jpg",
+            "dmProfileName": "지원",
+            "dmStatusEmoji": "☃️",
+            "dmOfficialImageUrl": "https://phinf.wevpstatic.net/MjAyNDA4MDFfMjIw/MDAxNzIyNTE0OTU5NzMz.ebzevxV8RTQCqx6KekXDbdkkMsWl5Ksaq9XteP7K9U0g.h3jdYjvkk994SS2ZaSj3VneWpT1kLny8U6BIEwfvVXUg.JPEG/a4d8d5df-fefa-4104-818a-bbc39024370d.jpeg",
+            "dmOfficialName": "PARK JI WON",
+            "dmEnOfficialName": "PARK JI WON",
+            "fixedTop": false,
+            "latestMessage": {
+                "messageId": 1902381799058061559,
+                "userId": 25667715,
+                "createDate": 1735434622303,
+                "body": [
+                    {
+                        "value": "나 이제 갈끼이잉~~",
+                        "translatedValues": {
+                            "en": "I'm going to get brown now"
+                        }
+                    }
+                ],
+                "gift": false
+            },
+            "pushEnabled": true,
+            "existMyMessage": true
+        },
+        {
+            "roomId": 329164,
+            "userType": "NORMAL",
+            "status": "NORMAL",
+            "subscriptionStatus": "IN_USE",
+            "saleStatus": "SERVICE_STOP",
+            "newCount": 0,
+            "nickname": "flover",
+            "wdmId": "WDM4B6E7A6",
+            "communityId": 36,
+            "communityName": "fromis_9",
+            "communityAlias": "fromis_9",
+            "dmProfileImageUrl": "https://phinf.wevpstatic.net/MjAyNDExMjNfMTM1/MDAxNzMyMzUyOTg3NzQw.0-1kBK7h97cjuA6OF3UdGN3rVOdUNEpwj77IqOPB6i4g.vliiUmBtDpMvuwKKLiINsS6K5Bkw-MVA48Em7A6-7v4g.JPEG/image.jpg",
+            "dmProfileName": "이채영",
+            "dmStatusEmoji": "❤️‍\uD83D\uDD25",
+            "dmOfficialImageUrl": "https://phinf.wevpstatic.net/MjAyNDA4MDFfMTIx/MDAxNzIyNTE1MTk1NzQ4.EzOd1iwUCLzRnqIRJGxcFkZ_wDcxZ2vg-ZK826Cd5lwg.R95G3-ib2Cg4qJecU9rMIZz3HIDM4P4VUDZM3_lKs_kg.PNG/aca8c3a3-8838-48bb-9f0e-d3aea5aa2355.png",
+            "dmOfficialName": "LEE CHAE YOUNG",
+            "dmEnOfficialName": "LEE CHAE YOUNG",
+            "fixedTop": false,
+            "latestMessage": {
+                "messageId": 1901218324092959081,
+                "userId": 25667757,
+                "createDate": 1735412950890,
+                "body": [
+                    {
+                        "value": "\uD83E\uDE77\uD83E\uDE77\uD83E\uDE77\uD83E\uDE77\uD83E\uDE77",
+                        "translatedValues": {
+                            "en": "\uD83E\uDE77\uD83E\uDE77\uD83E\uDE77\uD83E\uDE77\uD83E\uDE77"
+                        }
+                    }
+                ],
+                "gift": false
+            },
+            "pushEnabled": true,
+            "existMyMessage": true
+        },
+        {
+            "roomId": 233441,
+            "userType": "NORMAL",
+            "status": "NORMAL",
+            "subscriptionStatus": "IN_USE",
+            "saleStatus": "SERVICE_STOP",
+            "newCount": 0,
+            "nickname": "flover",
+            "wdmId": "WDM4BBE7A6",
+            "communityId": 36,
+            "communityName": "fromis_9",
+            "communityAlias": "fromis_9",
+            "dmProfileImageUrl": "https://phinf.wevpstatic.net/MjAyMzExMjJfMTcx/MDAxNzAwNTkzOTUxMDUz.kPVdbE4-BDWIagT2MNZcxooYI_huZ50yapHJhsyCrcAg.Cl_ez-H514Lw3V0XeY7tptSJfbz9X_Y7O7RrxNSdpXsg.JPEG/image.jpg",
+            "dmProfileName": "이나경",
+            "dmStatusEmoji": "\uD83E\uDDC0",
+            "dmOfficialImageUrl": "https://phinf.wevpstatic.net/MjAyNDA4MDFfOTAg/MDAxNzIyNTE1MjA2NTU0.KePihlvCMB29eHgNatl4xlg0GfWXzlVdJUQCBzm-NM0g.xPqOTcggXIt0k2WYRoJzpXbG5ucriZplzNAGnYfDsB0g.PNG/4020abf8-67b0-4dcc-b610-3b64877f4fbe.png",
+            "dmOfficialName": "LEE NA GYUNG",
+            "dmEnOfficialName": "LEE NA GYUNG",
+            "fixedTop": false,
+            "latestMessage": {
+                "messageId": 1889887281243109775,
+                "userId": 25667773,
+                "createDate": 1735201893771,
+                "body": [
+                    {
+                        "value": "☺️",
+                        "translatedValues": {
+                            "en": "☺️"
+                        }
+                    }
+                ],
+                "gift": false
+            },
+            "pushEnabled": true,
+            "existMyMessage": true
+        }
+    ],
+    "newCount": 0
+}

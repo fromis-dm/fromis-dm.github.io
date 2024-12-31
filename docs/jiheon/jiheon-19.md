@@ -121,3 +121,21 @@ weight: 19
 잘자라아💕💕💕
 </div>
 </div>
+## Dec 31 2024
+
+<div class="message" markdown="1">
+<div class="message-date" markdown="1">
+<small>17:55</small>
+</div>
+<div markdown="1">
+flover! 아마 이 디엠이 마지막이겠지? <br>그동안 나눈 얘기들을 다시 돌아봤더니 우리 여기에 참 많은 추억을 담아놨었구나싶어<br>매순간을 내 최선을 다했는데 그럼에도 아쉬움이 남는 걸 보니 지난 7년을 내가 많이 사랑했구나라는 생각을 해 봐 매번 flover에게 건낸 내 다짐을 올해도 다시 지켜질 수 있게 기도해 flover랑 연락하는 시간들이 소중하고 행복했어<br>너무 오래 기다리게 하진 않을게 <br>flover~ 그동안 나랑 놀아주느라 고생많았어, 고마워-
+</div>
+</div>
+<div class="message" markdown="1">
+<div class="message-date" markdown="1">
+<small>17:55</small>
+</div>
+<div markdown="1">
+고마웠어
+</div>
+</div>

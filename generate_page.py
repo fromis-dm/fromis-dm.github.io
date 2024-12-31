@@ -250,7 +250,7 @@ weight: {page_index}
 
 def process_json(member_name):
     tsv_name = f'raw/{member_name}/dm-log.tsv'
-    json_name = f'raw-data/{member_name.lower()}.json'
+    json_name = f'raw-data/{member_name.lower()}-clean.json'
     json_data = list(reversed(load_json(json_name)))
     json_data = [d for d in json_data if d['userType'] == 'ARTIST']
     media_path = f'docs/media/{member_name.lower()}'

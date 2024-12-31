@@ -4041,3 +4041,21 @@ flover☘️💚
 🥲☘️
 </div>
 </div>
+## Dec 31 2024
+
+<div class="message" markdown="1">
+<div class="message-date" markdown="1">
+<small>17:08</small>
+</div>
+<div markdown="1">
+플로버~ 18시에 위버스 디엠 서비스가 끝난다는 것 같아서 미리 새해 인사를 남기는 게 좋을 것 같아 조심스래 연락을 하게 되었어요. 2024년도 플로버 덕분에 더 자신을 가지고 힘낼 수 있는 한 해였습니다. 2025년도에도 플로버에게 더욱 더 자랑스러운 가수가 될 수 있도록 노력하는 이서연이 될테니 앞으로도 지금처럼만 지켜봐준다면 너무 고마울 것 같아요. 그러니 플로버도 부디 새해에는 복 많이 받고, 함께 새로운 시간과 다양한 추억을 쌓아가줘요. 또, 울고 웃으며 무던하게 그러려니-하고 세월을 보내보자고요! 평안하게 건강하게 함께해요 우리. 새해 복 많이 받아요 플로버. 늘 고맙습니다
+</div>
+</div>
+<div class="message" markdown="1">
+<div class="message-date" markdown="1">
+<small>17:09</small>
+</div>
+<div markdown="1">
+고마워요 flover☘️
+</div>
+</div>

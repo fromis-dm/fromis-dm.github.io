@@ -3,13 +3,13 @@ import json
 import os
 import re
 import time
-from cgi import print_directory
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
 import yt_dlp
 import requests
 import tzdata
+import filedate
 
 from yt_dlp.extractor.weverse import WeverseIE
 
@@ -31,6 +31,14 @@ params = {
 }
 
 uniq_files = set()
+
+def edit_creation_date(file_path, new_date):
+    # print(file_path, new_date)
+    # file = filedate.File(file_path)
+    # file.created = new_date
+    # file.modified = new_date
+    # file.accessed = new_date
+    pass
 
 def get_video_url(video_id, msg_id, room_id):
     req = f'/dm/v1.0/video/{video_id}/playInfo?messageId={msg_id}&roomId={room_id}'
@@ -208,12 +216,18 @@ def get_datetime(timestamp):
     time = int(timestamp) / 1000
     return datetime.fromtimestamp(time, tz=ZoneInfo("Asia/Seoul"))
 
+def get_type(m):
+    pattern = r'(<dm:(.*?)\s)'
+    return re.search(pattern, m).group(1)
+
 def get_all_media(json_data):
     media = {
         'video': [],
         'audio': [],
         'photo': []
     }
+
+    total_msgs = 0
 
     for data in json_data:
         body = data['body']
@@ -222,9 +236,11 @@ def get_all_media(json_data):
         date = get_datetime(int(data['createDate']))
         formatted_date = date.strftime("%y%m%d-%H%M")
 
+        total_msgs += 1
 
         for b in body:
             value = b['value']
+            # print('VALUE', value)
             matches = re.findall(pattern, value)
             number_of_matches = len(matches)
 
@@ -234,34 +250,39 @@ def get_all_media(json_data):
                 type = m.split(' ')[0].removeprefix('<dm:')
                 if type == 'photo':
                     photo_url = get_photo_url(m)
-                    pattern = r'/.*?/(.*?)/'
+                    my_pattern = r'/.*?/(.*?)/'
                     # print(photo_url)
-                    photo_id = re.search(pattern, photo_url.removeprefix('https://')).group(1)
+                    photo_id = re.search(my_pattern, photo_url.removeprefix('https://')).group(1)
                     photo_id = ''.join(photo_id.split('.')[0:-1])
                     # photo_id = test2[-2] + '.' + test2[-1]
 
                     # print(photo_id, photo_url)
 
-                    media[type].append((photo_url, photo_id))
+                    media[type].append((photo_url, photo_id, date))
                     if photo_id in uniq_files:
                         print(photo_id)
                         breakpoint()
                     uniq_files.add(photo_id)
-
-                if type == 'video' or type == 'audio':
+                elif type == 'video' or type == 'audio':
                     id = get_video_id(m)
-                    media[type].append((id, msg_id))
+                    media[type].append((id, msg_id, date))
                     if id in uniq_files:
                         print(id)
                         breakpoint()
                     uniq_files.add(id)
+                # else:
+                #     print('WEIRD TYPE:', type, m)
+                #     print('FULL', value)
+                #     print('MATCH', m)
 
     # print(media)
     total_media = 0
     for k, v in media.items():
         print('\t', k, len(v))
         total_media += len(v)
-    print('\t total', total_media)
+    print('\t total media', total_media)
+    print('\t msgs', total_msgs)
+
 
     return media
 
@@ -274,10 +295,10 @@ def download_media(media, member):
 
     images_by_time = dict()
     for media_type, items in media.items():
-        print('DOWNLOADING', media_type, len(items))
+        # print('DOWNLOADING', media_type, len(items))
         if (media_type == 'video' or media_type == 'audio') and True:
-            for video_id, msg_id in items:
-                print('Parsing video', video_id, msg_id)
+            for video_id, msg_id, file_date in items:
+                # print('Parsing video', video_id, msg_id)
                 expected_file_path = f'{root_folder}/{video_id}.mp4'
 
                 if expected_file_path in uniq_files:
@@ -286,7 +307,8 @@ def download_media(media, member):
                 uniq_files.add(expected_file_path)
 
                 if os.path.exists(expected_file_path):
-                    print('\tSkip')
+                    edit_creation_date(expected_file_path, file_date)
+                    # print('\tSkip')
                     continue
 
                 if video_id == '191A25538114D39BB6EA5508428F425CE66C':
@@ -300,11 +322,12 @@ def download_media(media, member):
                     time.sleep(2)
 
         if media_type == 'photo' and True:
-            for image_url, photo_id in items:
+            for image_url, photo_id, file_date in items:
                 ext = image_url.split('.')[-1]
                 # print(image_url)
                 filepath = f'{root_folder}/{photo_id}.{ext}'
                 if os.path.exists(filepath):
+                    edit_creation_date(filepath, file_date)
                     continue
 
                 print('download ', filepath)
@@ -380,13 +403,24 @@ def download_missing():
 def main():
     members = ['saerom', 'hayoung', 'jiwon', 'jisun', 'seoyeon', 'chaeyoung', 'nagyung', 'jiheon']
     # members = ['saerom', 'hayoung', 'jiwon', 'jisun', 'chaeyoung', 'nagyung', 'jiheon']
-    # members = ['chaeyoung']
+    # members = ['jisun']
     for member in members:
         json_data = load_json(member)
 
+        # count = 0
+        # for data in json_data:
+        #     body = data['body']
+        #     for b in body:
+        #         value = b['value']
+        #         if 'dm:' in value:
+        #             count += value.count('dm:photo')
+        #             count += value.count('dm:video')
+        #             count += value.count('dm:audio')
+        # print(member, count)
+
         print(member)
         media = get_all_media(json_data)
-        download_media(media, member)
+        # download_media(media, member)
 
         # tsv_data = list(reversed(load_tsv(member)))
         #
