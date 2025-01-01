@@ -101,6 +101,8 @@
 
 .home-grid
 {
+    max-width: 900px; /* max-width of the layout */
+    margin: 0 auto; /* center in the viewport */
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Create 3 equal-width columns */
     grid-auto-rows: auto; /* Set sensible default row height */
