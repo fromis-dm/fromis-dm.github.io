@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Home
 
 <div class="home-grid" markdown="1">
