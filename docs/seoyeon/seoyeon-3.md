@@ -170,7 +170,7 @@ flover도 밥먹어
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/F6BF3093AA48A64E39C259498E28E4722CA9-thumb.jpg">
-<source src="/assets/videos/F6BF3093AA48A64E39C259498E28E4722CA9.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/F6BF3093AA48A64E39C259498E28E4722CA9.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

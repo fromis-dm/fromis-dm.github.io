@@ -242,12 +242,7 @@ flover 나 친척분이 사과 농장 하시는데 지이이인짜 맛있어!! �
 <small>09:59</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/7AE6A26C6AB5A5F655FD343B1734C0A7D68A-thumb.jpg">
-<source src="/assets/videos/7AE6A26C6AB5A5F655FD343B1734C0A7D68A.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/7AE6A26C6AB5A5F655FD343B1734C0A7D68A.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -889,7 +884,7 @@ flover모해야
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/9B56C75084735B7174F5C8084A5B7E288B0E-thumb.jpg">
-<source src="/assets/videos/9B56C75084735B7174F5C8084A5B7E288B0E.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/9B56C75084735B7174F5C8084A5B7E288B0E.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -4274,12 +4269,7 @@ flover 하루 마무리 중이려나..? 고생 많았다!!!! 오늘도 잘 살�
 <small>08:55</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/0DD640D21AFBFEE7B79676DB48DBF3234FA2-thumb.jpg">
-<source src="/assets/videos/0DD640D21AFBFEE7B79676DB48DBF3234FA2.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/0DD640D21AFBFEE7B79676DB48DBF3234FA2.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

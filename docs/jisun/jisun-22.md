@@ -2580,7 +2580,7 @@ mom: 너 같은 애 처음본다!<br>me: 나 같은 애는 처음이지!
 <div class="no-flex" markdown="1">
 근데 또 마침<figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/68581DD1FA8FD587F8E7961BF0E0C0F0F94D-thumb.jpg">
-<source src="/assets/videos/68581DD1FA8FD587F8E7961BF0E0C0F0F94D.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/68581DD1FA8FD587F8E7961BF0E0C0F0F94D.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

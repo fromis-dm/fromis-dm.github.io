@@ -3336,7 +3336,7 @@ J는 못 참아
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/FF57FFA6C6C4306C6CC8B915120ECAA4C9CF-thumb.jpg">
-<source src="/assets/videos/FF57FFA6C6C4306C6CC8B915120ECAA4C9CF.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/FF57FFA6C6C4306C6CC8B915120ECAA4C9CF.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

@@ -138,7 +138,7 @@ weight: 14
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/5730CE9970843D8A0C00B9822D7AE024021C-thumb.jpg">
-<source src="/assets/videos/5730CE9970843D8A0C00B9822D7AE024021C.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/5730CE9970843D8A0C00B9822D7AE024021C.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1715,12 +1715,7 @@ Your browser does not support the video tag.
 <small>03:07</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/9F3856325D3E5C2F3DD509A50CB4C302D8F9-thumb.jpg">
-<source src="/assets/videos/9F3856325D3E5C2F3DD509A50CB4C302D8F9.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/9F3856325D3E5C2F3DD509A50CB4C302D8F9.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -2632,7 +2627,7 @@ flover는 재밌을 수도 있을 것 같아
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/3ECE103E0A11B8CED2375B6D9C178BE30775-thumb.jpg">
-<source src="/assets/videos/3ECE103E0A11B8CED2375B6D9C178BE30775.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/3ECE103E0A11B8CED2375B6D9C178BE30775.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

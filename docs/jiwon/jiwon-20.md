@@ -5322,7 +5322,7 @@ Mn에서 계약하고 그 담에 공유 만나서 결혼함
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/B4F6E05D7CAAAEE4F7ABAE30066604556BCD-thumb.jpg">
-<source src="/assets/videos/B4F6E05D7CAAAEE4F7ABAE30066604556BCD.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/B4F6E05D7CAAAEE4F7ABAE30066604556BCD.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

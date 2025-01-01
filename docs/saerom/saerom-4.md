@@ -30,7 +30,7 @@ weight: 4
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/7CB589D96FB2346930D11D496879EB567A69-thumb.jpg">
-<source src="/assets/videos/7CB589D96FB2346930D11D496879EB567A69.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/7CB589D96FB2346930D11D496879EB567A69.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -867,12 +867,7 @@ Your browser does not support the video tag.
 <small>02:28</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/B5C63C453B369511CC79B6BD309BF5724F48-thumb.jpg">
-<source src="/assets/videos/B5C63C453B369511CC79B6BD309BF5724F48.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/B5C63C453B369511CC79B6BD309BF5724F48.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -2318,12 +2313,7 @@ t,f의 전쟁은 언제 끝날까..
 <small>10:52</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/56E01F79FE171BE2BE01BBC72B7A66561CB9-thumb.jpg">
-<source src="/assets/videos/56E01F79FE171BE2BE01BBC72B7A66561CB9.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/56E01F79FE171BE2BE01BBC72B7A66561CB9.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -2339,12 +2329,7 @@ Your browser does not support the video tag.
 <small>10:56</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/7EFC8478CE727D28E2C656C6A3282113CD28-thumb.jpg">
-<source src="/assets/videos/7EFC8478CE727D28E2C656C6A3282113CD28.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/7EFC8478CE727D28E2C656C6A3282113CD28.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -2832,7 +2817,7 @@ flover두 고생많았어ㅠㅠㅠㅠ
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/E74EFB31CD1B3EF58940285572F2E8ADBC70-thumb.jpg">
-<source src="/assets/videos/E74EFB31CD1B3EF58940285572F2E8ADBC70.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/E74EFB31CD1B3EF58940285572F2E8ADBC70.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3069,7 +3054,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/1CE89C6A1F2E053C8DBDA00F7A590E4B3BC1-thumb.jpg">
-<source src="/assets/videos/1CE89C6A1F2E053C8DBDA00F7A590E4B3BC1.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/1CE89C6A1F2E053C8DBDA00F7A590E4B3BC1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

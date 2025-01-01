@@ -594,7 +594,7 @@ weight: 17
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/F1F2816F687448E8F254909DE1F3D56A1DE7-thumb.jpg">
-<source src="/assets/videos/F1F2816F687448E8F254909DE1F3D56A1DE7.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/F1F2816F687448E8F254909DE1F3D56A1DE7.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2067,7 +2067,7 @@ flover진짜 고마워
 <div class="no-flex" markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/A174C3AA62AE4491D72C255BDCC4549196FA-thumb.jpg">
-<source src="/assets/videos/A174C3AA62AE4491D72C255BDCC4549196FA.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/A174C3AA62AE4491D72C255BDCC4549196FA.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure><figure class="msg-media" markdown="1">
@@ -3780,7 +3780,7 @@ Ssg
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/5D267C2E494C79BFC1BB1D9E7376FE939051-thumb.jpg">
-<source src="/assets/videos/5D267C2E494C79BFC1BB1D9E7376FE939051.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/5D267C2E494C79BFC1BB1D9E7376FE939051.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3793,7 +3793,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/647994883AE4D233E3080911B1A8BFA391D4-thumb.jpg">
-<source src="/assets/videos/647994883AE4D233E3080911B1A8BFA391D4.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/647994883AE4D233E3080911B1A8BFA391D4.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3806,7 +3806,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/20397A1D4CFCB0D8E7CE0B008585188255CB-thumb.jpg">
-<source src="/assets/videos/20397A1D4CFCB0D8E7CE0B008585188255CB.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/20397A1D4CFCB0D8E7CE0B008585188255CB.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

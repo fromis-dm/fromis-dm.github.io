@@ -174,12 +174,7 @@ weight: 13
 <small>22:57</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/84FF139407555B34B88FA7AC3ABC4645C00A-thumb.jpg">
-<source src="/assets/videos/84FF139407555B34B88FA7AC3ABC4645C00A.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/84FF139407555B34B88FA7AC3ABC4645C00A.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

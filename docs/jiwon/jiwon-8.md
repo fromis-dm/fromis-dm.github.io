@@ -1244,12 +1244,7 @@ flover ~~~
 <small>01:00</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/8C53F424FD5E510C01F01A4A6BB47A7CF772-thumb.jpg">
-<source src="/assets/videos/8C53F424FD5E510C01F01A4A6BB47A7CF772.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/8C53F424FD5E510C01F01A4A6BB47A7CF772.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -1257,12 +1252,7 @@ Your browser does not support the video tag.
 <small>01:00</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/D4C8D74C83AF69C622540AF7884589909A7F-thumb.jpg">
-<source src="/assets/videos/D4C8D74C83AF69C622540AF7884589909A7F.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/D4C8D74C83AF69C622540AF7884589909A7F.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -1310,12 +1300,7 @@ Your browser does not support the video tag.
 <small>01:03</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/FF2E4F4BF09611BE6B133EA5219F49BE72B9-thumb.jpg">
-<source src="/assets/videos/FF2E4F4BF09611BE6B133EA5219F49BE72B9.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/FF2E4F4BF09611BE6B133EA5219F49BE72B9.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

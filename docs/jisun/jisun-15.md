@@ -2712,7 +2712,7 @@ flover
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/D7237479C14F9346350A5D241B37B14007B5-thumb.jpg">
-<source src="/assets/videos/D7237479C14F9346350A5D241B37B14007B5.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/D7237479C14F9346350A5D241B37B14007B5.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

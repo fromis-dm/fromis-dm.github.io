@@ -2946,7 +2946,7 @@ flover 덕분에 특별해졌나봐
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/B83278C3DC46357116B7AE5A131DF9290E10-thumb.jpg">
-<source src="/assets/videos/B83278C3DC46357116B7AE5A131DF9290E10.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/B83278C3DC46357116B7AE5A131DF9290E10.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

@@ -1454,7 +1454,7 @@ flover즐겁고 뜨거운 밤 되세여
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/6968FE9F90B37F4FDA2074AC6E6D63859980-thumb.jpg">
-<source src="/assets/videos/6968FE9F90B37F4FDA2074AC6E6D63859980.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/6968FE9F90B37F4FDA2074AC6E6D63859980.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3241,7 +3241,7 @@ f같잖아요 저 ^^
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/DE7CF824F9ECA71CE40E757BD6F9E80411AA-thumb.jpg">
-<source src="/assets/videos/DE7CF824F9ECA71CE40E757BD6F9E80411AA.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/DE7CF824F9ECA71CE40E757BD6F9E80411AA.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

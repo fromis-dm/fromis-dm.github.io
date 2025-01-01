@@ -14,7 +14,7 @@ weight: 5
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/60153AF5C0A92F1655360E9D799BA935E1F1-thumb.jpg">
-<source src="/assets/videos/60153AF5C0A92F1655360E9D799BA935E1F1.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/60153AF5C0A92F1655360E9D799BA935E1F1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -4203,11 +4203,6 @@ flover 잘잤뉴우우우
 <small>01:34</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/ED608A9A3DC9E62334FEC18585411F6D1778-thumb.jpg">
-<source src="/assets/videos/ED608A9A3DC9E62334FEC18585411F6D1778.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/ED608A9A3DC9E62334FEC18585411F6D1778.mp4" preload="none"></audio>
 </div>
 </div>

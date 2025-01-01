@@ -11,6 +11,13 @@ def get_snippet_url(body):
     pattern = r'linkUrl="(.*?)"'
     return re.search(pattern, body).group(1)
 
+def make_audio_md(audio_id):
+    media_path = f'/assets/videos/{audio_id}.mp4'
+    if not os.path.exists(f'docs/{media_path}'):
+        print('MISSING ', media_path)
+
+    return f'<audio controls src="{media_path}" preload="none"></audio>'
+
 def make_video_md(video_id):
     media_path = f'/assets/videos/{video_id}.mp4'
     if not os.path.exists(f'docs/{media_path}'):
@@ -118,9 +125,12 @@ def process_body(data):
                 if type == 'photo':
                     photo_url = get_photo_url(m)
                     out_md.append(make_image_md(photo_url))
-                if type == 'video' or type == 'audio':
+                if type == 'video':
                     video_id = get_video_id(m)
                     out_md.append(make_video_md(video_id))
+                if type == 'audio':
+                    audio_id = get_video_id(m)
+                    out_md.append(make_audio_md(audio_id))
                 if type == 'snippet':
                     print(m)
                 #     snippet_url = get_snippet_url(m)

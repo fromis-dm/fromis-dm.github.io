@@ -858,7 +858,7 @@ weight: 4
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/ABAB479869F4CDD13F42A27738FBFB89D853-thumb.jpg">
-<source src="/assets/videos/ABAB479869F4CDD13F42A27738FBFB89D853.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/ABAB479869F4CDD13F42A27738FBFB89D853.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2037,7 +2037,7 @@ flover 밥 먹었지 ?
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/386E59581D83E7D98B80A54DEB96062D7C3B-thumb.jpg">
-<source src="/assets/videos/386E59581D83E7D98B80A54DEB96062D7C3B.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/386E59581D83E7D98B80A54DEB96062D7C3B.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2896,7 +2896,7 @@ BHC 후라이드 콤보
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/484D847AB3F928C357B2C5D869239339340F-thumb.jpg">
-<source src="/assets/videos/484D847AB3F928C357B2C5D869239339340F.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/484D847AB3F928C357B2C5D869239339340F.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3005,7 +3005,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/9FCB38E15D96FF59D01E030C8509311A514B-thumb.jpg">
-<source src="/assets/videos/9FCB38E15D96FF59D01E030C8509311A514B.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/9FCB38E15D96FF59D01E030C8509311A514B.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3864,7 +3864,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/27E31DCF8A8269856AC564038139B1DA06D8-thumb.jpg">
-<source src="/assets/videos/27E31DCF8A8269856AC564038139B1DA06D8.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/27E31DCF8A8269856AC564038139B1DA06D8.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -4089,7 +4089,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/191A25538114D39BB6EA5508428F425CE66C-thumb.jpg">
-<source src="/assets/videos/191A25538114D39BB6EA5508428F425CE66C.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/191A25538114D39BB6EA5508428F425CE66C.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

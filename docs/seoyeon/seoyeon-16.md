@@ -1858,7 +1858,7 @@ flover도 일요팅이다
 <div class="no-flex" markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/6C925EDA78F499C089BDE536168E417B6826-thumb.jpg">
-<source src="/assets/videos/6C925EDA78F499C089BDE536168E417B6826.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/6C925EDA78F499C089BDE536168E417B6826.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>공교롭게도 오늘 셀카가 없네....카메라리허설끝나고 더워주글라하는 이서연 영상만 있음....

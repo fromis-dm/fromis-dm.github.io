@@ -78,12 +78,7 @@ weight: 23
 <small>16:04</small>
 </div>
 <div class="no-flex" markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/3119E62C9AEDFB3B9C3DF9D37289474B4F81-thumb.jpg">
-<source src="/assets/videos/3119E62C9AEDFB3B9C3DF9D37289474B4F81.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>택시라 좀 웃겨
+<audio controls src="/assets/videos/3119E62C9AEDFB3B9C3DF9D37289474B4F81.mp4" preload="none"></audio>택시라 좀 웃겨
 </div>
 </div>
 <div class="message" markdown="1">
@@ -3957,7 +3952,7 @@ flover라도 잘자,,,,,...,,,,
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/FBB1AB8B77BD01F2E26924A6C9925EDC437B-thumb.jpg">
-<source src="/assets/videos/FBB1AB8B77BD01F2E26924A6C9925EDC437B.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/FBB1AB8B77BD01F2E26924A6C9925EDC437B.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

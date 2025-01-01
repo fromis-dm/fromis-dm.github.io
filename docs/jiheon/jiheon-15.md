@@ -2054,7 +2054,7 @@ When i love u는 알앤제이라는 연극 마지막 커튼콜 때 나오는 엔
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/F6F9F2FFC55D559DFABD699DAD271D3498AF-thumb.jpg">
-<source src="/assets/videos/F6F9F2FFC55D559DFABD699DAD271D3498AF.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/F6F9F2FFC55D559DFABD699DAD271D3498AF.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2133,7 +2133,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/2ADDBCD7D7A8D379289CA0268B79F95DF61B-thumb.jpg">
-<source src="/assets/videos/2ADDBCD7D7A8D379289CA0268B79F95DF61B.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/2ADDBCD7D7A8D379289CA0268B79F95DF61B.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2464,7 +2464,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/4990FC3537AAC60B49CBF45AFC606B91F7E2-thumb.jpg">
-<source src="/assets/videos/4990FC3537AAC60B49CBF45AFC606B91F7E2.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/4990FC3537AAC60B49CBF45AFC606B91F7E2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -4075,7 +4075,7 @@ flover의 생각은..?
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/1DC50406DBB9266A40F7094D0787416655BF-thumb.jpg">
-<source src="/assets/videos/1DC50406DBB9266A40F7094D0787416655BF.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/1DC50406DBB9266A40F7094D0787416655BF.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

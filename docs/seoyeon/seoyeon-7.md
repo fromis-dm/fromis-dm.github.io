@@ -2620,7 +2620,7 @@ flover 일 할 때 쉬는 거 짜릿해-⭐️
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/D04173012FEA785D671908BA95D58F5A04AF-thumb.jpg">
-<source src="/assets/videos/D04173012FEA785D671908BA95D58F5A04AF.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/D04173012FEA785D671908BA95D58F5A04AF.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2633,7 +2633,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/271F5E15DFE031AF39541AEC7FC67DCED3E8-thumb.jpg">
-<source src="/assets/videos/271F5E15DFE031AF39541AEC7FC67DCED3E8.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/271F5E15DFE031AF39541AEC7FC67DCED3E8.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

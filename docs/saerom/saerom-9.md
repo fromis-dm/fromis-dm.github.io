@@ -1312,7 +1312,7 @@ flover 데리고 오고 싶댜아
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/A57F5A7F457E9CBB9F57F14A3F666D0565AD-thumb.jpg">
-<source src="/assets/videos/A57F5A7F457E9CBB9F57F14A3F666D0565AD.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/A57F5A7F457E9CBB9F57F14A3F666D0565AD.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1437,7 +1437,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/77FD34FCDCAE3C3B0BECA138C997517B84EE-thumb.jpg">
-<source src="/assets/videos/77FD34FCDCAE3C3B0BECA138C997517B84EE.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/77FD34FCDCAE3C3B0BECA138C997517B84EE.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1572,7 +1572,7 @@ flover 기분 죠아져라아아아😉💓
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/E66F94377A7F29C53F74E94DDAB49D8CC59A-thumb.jpg">
-<source src="/assets/videos/E66F94377A7F29C53F74E94DDAB49D8CC59A.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/E66F94377A7F29C53F74E94DDAB49D8CC59A.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2527,7 +2527,7 @@ flover 덕분이야
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/1A12368C1EB94B5B87BA8E65AB951190DECC-thumb.jpg">
-<source src="/assets/videos/1A12368C1EB94B5B87BA8E65AB951190DECC.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/1A12368C1EB94B5B87BA8E65AB951190DECC.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

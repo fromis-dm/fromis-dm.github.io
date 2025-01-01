@@ -938,7 +938,7 @@ flover는 바보~
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/167CBF21CC0D96DE2352757BD6F9E80411AA-thumb.jpg">
-<source src="/assets/videos/167CBF21CC0D96DE2352757BD6F9E80411AA.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/167CBF21CC0D96DE2352757BD6F9E80411AA.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3123,7 +3123,7 @@ flover가 전혀 몰랐다니 뿌듯하네~~~~
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/C86F8E4B8CF5F81FA0264D9E98F9976431FE-thumb.jpg">
-<source src="/assets/videos/C86F8E4B8CF5F81FA0264D9E98F9976431FE.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/C86F8E4B8CF5F81FA0264D9E98F9976431FE.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

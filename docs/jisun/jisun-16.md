@@ -1288,7 +1288,7 @@ flover도 날 좋은 날
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/D4A0933DFBBFD1999E66C6C8BCBD22996D1D-thumb.jpg">
-<source src="/assets/videos/D4A0933DFBBFD1999E66C6C8BCBD22996D1D.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/D4A0933DFBBFD1999E66C6C8BCBD22996D1D.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

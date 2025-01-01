@@ -30,7 +30,7 @@ weight: 7
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/577EE6A1E400589E79DCB7DFC6F3C5EE2780-thumb.jpg">
-<source src="/assets/videos/577EE6A1E400589E79DCB7DFC6F3C5EE2780.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/577EE6A1E400589E79DCB7DFC6F3C5EE2780.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -43,7 +43,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/2EF51BC144B37C01ECF58880C6DFA2B1982A-thumb.jpg">
-<source src="/assets/videos/2EF51BC144B37C01ECF58880C6DFA2B1982A.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/2EF51BC144B37C01ECF58880C6DFA2B1982A.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -72,7 +72,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/0DA24FE680BC10AA4AE04304CA058CC3AD52-thumb.jpg">
-<source src="/assets/videos/0DA24FE680BC10AA4AE04304CA058CC3AD52.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/0DA24FE680BC10AA4AE04304CA058CC3AD52.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2357,7 +2357,7 @@ flover도 늦은시간까지 응원하느라
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/C1468375914674C67D6DE77B8BF50C066627-thumb.jpg">
-<source src="/assets/videos/C1468375914674C67D6DE77B8BF50C066627.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/C1468375914674C67D6DE77B8BF50C066627.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

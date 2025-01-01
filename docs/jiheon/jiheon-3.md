@@ -4360,7 +4360,7 @@ flover 수요팅-
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/C845D383120580C5BC0D6E555E5A539BF8A9-thumb.jpg">
-<source src="/assets/videos/C845D383120580C5BC0D6E555E5A539BF8A9.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/C845D383120580C5BC0D6E555E5A539BF8A9.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

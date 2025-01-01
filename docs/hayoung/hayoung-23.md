@@ -1172,7 +1172,7 @@ flover시
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/61BCB6ECE1EB0A6369E063E459A1A1A2F09D-thumb.jpg">
-<source src="/assets/videos/61BCB6ECE1EB0A6369E063E459A1A1A2F09D.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/61BCB6ECE1EB0A6369E063E459A1A1A2F09D.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1239,12 +1239,7 @@ Your browser does not support the video tag.
 <small>01:41</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/7B336AD0E0313136D2DD0C6D1B1808F8CCED-thumb.jpg">
-<source src="/assets/videos/7B336AD0E0313136D2DD0C6D1B1808F8CCED.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/7B336AD0E0313136D2DD0C6D1B1808F8CCED.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -1252,12 +1247,7 @@ Your browser does not support the video tag.
 <small>01:44</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/AB133D45500BEEE1327190AA625537D9628F-thumb.jpg">
-<source src="/assets/videos/AB133D45500BEEE1327190AA625537D9628F.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/AB133D45500BEEE1327190AA625537D9628F.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -1275,7 +1265,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/938B63A55D2CE8B1E45072C520010AFFCC01-thumb.jpg">
-<source src="/assets/videos/938B63A55D2CE8B1E45072C520010AFFCC01.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/938B63A55D2CE8B1E45072C520010AFFCC01.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

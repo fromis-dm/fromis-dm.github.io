@@ -886,7 +886,7 @@ flover 에베베베벱베ㅔㅈ
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/9EA68FF3978168B0EF2C7E788E22A210D8B9-thumb.jpg">
-<source src="/assets/videos/9EA68FF3978168B0EF2C7E788E22A210D8B9.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/9EA68FF3978168B0EF2C7E788E22A210D8B9.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1027,12 +1027,7 @@ flover
 <small>23:22</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/D6140426F95E6534CA7FD847DA642E737C0A-thumb.jpg">
-<source src="/assets/videos/D6140426F95E6534CA7FD847DA642E737C0A.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/D6140426F95E6534CA7FD847DA642E737C0A.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

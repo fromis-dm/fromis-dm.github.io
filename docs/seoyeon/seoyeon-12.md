@@ -758,7 +758,7 @@ flover도 오늘 고생했어
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/A57FCECF445FC16553EEF14A3F666D0565AD-thumb.jpg">
-<source src="/assets/videos/A57FCECF445FC16553EEF14A3F666D0565AD.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/A57FCECF445FC16553EEF14A3F666D0565AD.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

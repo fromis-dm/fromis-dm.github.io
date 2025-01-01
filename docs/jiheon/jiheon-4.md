@@ -1130,7 +1130,7 @@ What are we?
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/55A3CB4B55B4997C011984E49B65315D787C-thumb.jpg">
-<source src="/assets/videos/55A3CB4B55B4997C011984E49B65315D787C.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/55A3CB4B55B4997C011984E49B65315D787C.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3263,12 +3263,7 @@ Ourtea
 <small>00:01</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/3B917B05B5C001BA494420D7D30B15428276-thumb.jpg">
-<source src="/assets/videos/3B917B05B5C001BA494420D7D30B15428276.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/3B917B05B5C001BA494420D7D30B15428276.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

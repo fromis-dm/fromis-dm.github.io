@@ -2418,7 +2418,7 @@ flover도 나도
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/EBD609ABDB4AF2BF58BB76E924B6CDF10E0E-thumb.jpg">
-<source src="/assets/videos/EBD609ABDB4AF2BF58BB76E924B6CDF10E0E.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/EBD609ABDB4AF2BF58BB76E924B6CDF10E0E.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

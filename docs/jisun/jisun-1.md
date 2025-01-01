@@ -1508,7 +1508,7 @@ flover계피향 솔솔 나는 당케에 커피 한모금 하면.. 여기가 미�
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/4035AC566A2A5EB76EED2110A47682ED43D4-thumb.jpg">
-<source src="/assets/videos/4035AC566A2A5EB76EED2110A47682ED43D4.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/4035AC566A2A5EB76EED2110A47682ED43D4.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

@@ -398,12 +398,7 @@ flover시
 <small>01:17</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/A300824A413352C7367DDEE11D67F75BD088-thumb.jpg">
-<source src="/assets/videos/A300824A413352C7367DDEE11D67F75BD088.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/A300824A413352C7367DDEE11D67F75BD088.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -411,12 +406,7 @@ Your browser does not support the video tag.
 <small>01:18</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/18D61A393828427F273B21266462F43F7AF0-thumb.jpg">
-<source src="/assets/videos/18D61A393828427F273B21266462F43F7AF0.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/18D61A393828427F273B21266462F43F7AF0.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -906,12 +896,7 @@ flover시
 <small>21:40</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/78ED22C7D328F2A2749A5A2E83DF42A56436-thumb.jpg">
-<source src="/assets/videos/78ED22C7D328F2A2749A5A2E83DF42A56436.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/78ED22C7D328F2A2749A5A2E83DF42A56436.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -1891,12 +1876,7 @@ flover시
 <small>12:27</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/65ED94E6B3AEB96698963AC49253B00455B7-thumb.jpg">
-<source src="/assets/videos/65ED94E6B3AEB96698963AC49253B00455B7.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/65ED94E6B3AEB96698963AC49253B00455B7.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -2920,12 +2900,7 @@ flover시
 <small>14:23</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/DD4794A9AF4190A70458021DC9E8493B2099-thumb.jpg">
-<source src="/assets/videos/DD4794A9AF4190A70458021DC9E8493B2099.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/DD4794A9AF4190A70458021DC9E8493B2099.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -2933,12 +2908,7 @@ Your browser does not support the video tag.
 <small>14:23</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/06843A5CF6AB19A6C2FAD9AD0E1276E3D5D2-thumb.jpg">
-<source src="/assets/videos/06843A5CF6AB19A6C2FAD9AD0E1276E3D5D2.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/06843A5CF6AB19A6C2FAD9AD0E1276E3D5D2.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -2946,12 +2916,7 @@ Your browser does not support the video tag.
 <small>14:24</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/7E556E6E743D8D14BE84BD6FE98C1C39D6D1-thumb.jpg">
-<source src="/assets/videos/7E556E6E743D8D14BE84BD6FE98C1C39D6D1.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/7E556E6E743D8D14BE84BD6FE98C1C39D6D1.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -3271,7 +3236,7 @@ flover시
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/0B67C12547FE3720ADD2C257B81E04E09B09-thumb.jpg">
-<source src="/assets/videos/0B67C12547FE3720ADD2C257B81E04E09B09.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/0B67C12547FE3720ADD2C257B81E04E09B09.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3308,7 +3273,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/063CEBDFBA61FA970EE46AC265F0176E6ECC-thumb.jpg">
-<source src="/assets/videos/063CEBDFBA61FA970EE46AC265F0176E6ECC.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/063CEBDFBA61FA970EE46AC265F0176E6ECC.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3351,12 +3316,7 @@ flover시
 <small>21:39</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/3F347413BB6AAB41B8465CAA732847BA922E-thumb.jpg">
-<source src="/assets/videos/3F347413BB6AAB41B8465CAA732847BA922E.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/3F347413BB6AAB41B8465CAA732847BA922E.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -3364,12 +3324,7 @@ Your browser does not support the video tag.
 <small>21:42</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/486AA6B7BA2F0D4DA75E6B8C45B2157BF845-thumb.jpg">
-<source src="/assets/videos/486AA6B7BA2F0D4DA75E6B8C45B2157BF845.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/486AA6B7BA2F0D4DA75E6B8C45B2157BF845.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -3671,7 +3626,7 @@ flover시
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/E35F73177E2C2D82749B5196E3EDB2229B02-thumb.jpg">
-<source src="/assets/videos/E35F73177E2C2D82749B5196E3EDB2229B02.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/E35F73177E2C2D82749B5196E3EDB2229B02.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

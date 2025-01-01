@@ -3506,7 +3506,7 @@ flover 모행?
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/83FB8628790B78548F270DFA6DEBDBCA80B1-thumb.jpg">
-<source src="/assets/videos/83FB8628790B78548F270DFA6DEBDBCA80B1.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/83FB8628790B78548F270DFA6DEBDBCA80B1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

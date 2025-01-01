@@ -2654,7 +2654,7 @@ flover 도 그랬어면 죠케타⭐️🍯☺️🐥☀️💛
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/A280AD9486C7604AB977DA0B300A64198F86-thumb.jpg">
-<source src="/assets/videos/A280AD9486C7604AB977DA0B300A64198F86.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/A280AD9486C7604AB977DA0B300A64198F86.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2725,7 +2725,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/BC94D336EBDEA8ECE49A198B8C5F07A0D6FB-thumb.jpg">
-<source src="/assets/videos/BC94D336EBDEA8ECE49A198B8C5F07A0D6FB.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/BC94D336EBDEA8ECE49A198B8C5F07A0D6FB.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

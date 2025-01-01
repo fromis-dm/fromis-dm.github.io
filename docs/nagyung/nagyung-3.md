@@ -284,7 +284,7 @@ B컷 모니터 사진이 이런거밖에 없네 ..
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/FB7B7A064612EC2C397EEB899E36ECF70BFA-thumb.jpg">
-<source src="/assets/videos/FB7B7A064612EC2C397EEB899E36ECF70BFA.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/FB7B7A064612EC2C397EEB899E36ECF70BFA.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -305,7 +305,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/A85098C9FDAAA84C1A0BE1986D33EB706480-thumb.jpg">
-<source src="/assets/videos/A85098C9FDAAA84C1A0BE1986D33EB706480.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/A85098C9FDAAA84C1A0BE1986D33EB706480.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1100,7 +1100,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/3BA9D10B2DC912B9415EBA6B3D1A47100729-thumb.jpg">
-<source src="/assets/videos/3BA9D10B2DC912B9415EBA6B3D1A47100729.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/3BA9D10B2DC912B9415EBA6B3D1A47100729.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1855,7 +1855,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/BC2BC8DC1EEE5282188D328A24EF3FEA15A5-thumb.jpg">
-<source src="/assets/videos/BC2BC8DC1EEE5282188D328A24EF3FEA15A5.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/BC2BC8DC1EEE5282188D328A24EF3FEA15A5.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

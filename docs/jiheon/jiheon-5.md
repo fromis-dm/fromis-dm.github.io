@@ -798,7 +798,7 @@ flover 새 해 복 많이 받아!!!
 <div class="no-flex" markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/E7DDF3B3814077F73080143702B8D90F2A97-thumb.jpg">
-<source src="/assets/videos/E7DDF3B3814077F73080143702B8D90F2A97.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/E7DDF3B3814077F73080143702B8D90F2A97.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure><figure class="msg-media" markdown="1">
@@ -831,7 +831,7 @@ Your browser does not support the video tag.
 <div class="no-flex" markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/D088D948737AD97CF6A460E44035DBE92F77-thumb.jpg">
-<source src="/assets/videos/D088D948737AD97CF6A460E44035DBE92F77.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/D088D948737AD97CF6A460E44035DBE92F77.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure><figure class="msg-media" markdown="1">
@@ -892,7 +892,7 @@ Your browser does not support the video tag.
 <div class="no-flex" markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/F2B6809C2643ED7E85A41D89FC9D9F142D41-thumb.jpg">
-<source src="/assets/videos/F2B6809C2643ED7E85A41D89FC9D9F142D41.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/F2B6809C2643ED7E85A41D89FC9D9F142D41.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure><figure class="msg-media" markdown="1">
@@ -919,7 +919,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/FAFA67B0AFDA51F3655555BD3CFCE2298663-thumb.jpg">
-<source src="/assets/videos/FAFA67B0AFDA51F3655555BD3CFCE2298663.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/FAFA67B0AFDA51F3655555BD3CFCE2298663.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -932,7 +932,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/87C82979BFB2177F8F950AF7884589909A7F-thumb.jpg">
-<source src="/assets/videos/87C82979BFB2177F8F950AF7884589909A7F.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/87C82979BFB2177F8F950AF7884589909A7F.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3585,7 +3585,7 @@ flover도 좋아해줬으면 좋겠군요~
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/12B921953E0A13289F30FA4146136EE82971-thumb.jpg">
-<source src="/assets/videos/12B921953E0A13289F30FA4146136EE82971.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/12B921953E0A13289F30FA4146136EE82971.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

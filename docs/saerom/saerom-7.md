@@ -3574,7 +3574,7 @@ flover 오늘 하루도 고생했뇽⭐️♥️
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/DDA05BB4CA8ABE842F3CC6C8BCBD22996D1D-thumb.jpg">
-<source src="/assets/videos/DDA05BB4CA8ABE842F3CC6C8BCBD22996D1D.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/DDA05BB4CA8ABE842F3CC6C8BCBD22996D1D.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -4457,7 +4457,7 @@ bgm도 내가 골라찌이
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/3D915B40546039F6229220D7D30B15428276-thumb.jpg">
-<source src="/assets/videos/3D915B40546039F6229220D7D30B15428276.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/3D915B40546039F6229220D7D30B15428276.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

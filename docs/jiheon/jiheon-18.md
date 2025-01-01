@@ -400,7 +400,7 @@ flover 따뜻한 거 먹어~
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/5CAD63A93AB14E2B3F58E11AA25B1BF3DA3F-thumb.jpg">
-<source src="/assets/videos/5CAD63A93AB14E2B3F58E11AA25B1BF3DA3F.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/5CAD63A93AB14E2B3F58E11AA25B1BF3DA3F.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -421,7 +421,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/A01D2C44DC2FA85D593A216FDDAA4E7CE478-thumb.jpg">
-<source src="/assets/videos/A01D2C44DC2FA85D593A216FDDAA4E7CE478.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/A01D2C44DC2FA85D593A216FDDAA4E7CE478.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2882,7 +2882,7 @@ flover는 얼죽코야 아님 패딩이야?
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/F012EAD5196AE662C0572FDA3588B4452FBA-thumb.jpg">
-<source src="/assets/videos/F012EAD5196AE662C0572FDA3588B4452FBA.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/F012EAD5196AE662C0572FDA3588B4452FBA.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

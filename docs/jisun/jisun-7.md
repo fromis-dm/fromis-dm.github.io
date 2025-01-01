@@ -606,12 +606,7 @@ flover도 피곤하겄어
 <small>03:45</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/60467EFA8679144BB5F7E77B8BF50C066627-thumb.jpg">
-<source src="/assets/videos/60467EFA8679144BB5F7E77B8BF50C066627.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/60467EFA8679144BB5F7E77B8BF50C066627.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -619,12 +614,7 @@ Your browser does not support the video tag.
 <small>03:45</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/E0C1F19D0F6184BFC8A83E18CECAAE499F65-thumb.jpg">
-<source src="/assets/videos/E0C1F19D0F6184BFC8A83E18CECAAE499F65.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/E0C1F19D0F6184BFC8A83E18CECAAE499F65.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

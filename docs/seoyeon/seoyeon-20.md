@@ -388,7 +388,7 @@ flover만 볼 수 있는 비니~~
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/40A254031E968E9AF5B94304CA058CC3AD52-thumb.jpg">
-<source src="/assets/videos/40A254031E968E9AF5B94304CA058CC3AD52.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/40A254031E968E9AF5B94304CA058CC3AD52.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -833,7 +833,7 @@ flover💚
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/8D94DE77996FDA04E10C198B8C5F07A0D6FB-thumb.jpg">
-<source src="/assets/videos/8D94DE77996FDA04E10C198B8C5F07A0D6FB.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/8D94DE77996FDA04E10C198B8C5F07A0D6FB.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

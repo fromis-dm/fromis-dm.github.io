@@ -1230,7 +1230,7 @@ weight: 16
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/8353412C972B4F60F225B7D8FFC42A598006-thumb.jpg">
-<source src="/assets/videos/8353412C972B4F60F225B7D8FFC42A598006.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/8353412C972B4F60F225B7D8FFC42A598006.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1253,7 +1253,7 @@ flover 선물
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/D6C97853BEF94D17F9774AAAC45AA20D9C99-thumb.jpg">
-<source src="/assets/videos/D6C97853BEF94D17F9774AAAC45AA20D9C99.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/D6C97853BEF94D17F9774AAAC45AA20D9C99.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1266,7 +1266,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/A6A0A6ED69B901451850C6C8BCBD22996D1D-thumb.jpg">
-<source src="/assets/videos/A6A0A6ED69B901451850C6C8BCBD22996D1D.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/A6A0A6ED69B901451850C6C8BCBD22996D1D.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1279,7 +1279,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/AB0B660C4D3BA8D333BDF6CFF91B91F7AAEC-thumb.jpg">
-<source src="/assets/videos/AB0B660C4D3BA8D333BDF6CFF91B91F7AAEC.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/AB0B660C4D3BA8D333BDF6CFF91B91F7AAEC.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1292,7 +1292,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/AA5B853133327EFA605C57707F7CE007402B-thumb.jpg">
-<source src="/assets/videos/AA5B853133327EFA605C57707F7CE007402B.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/AA5B853133327EFA605C57707F7CE007402B.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

@@ -414,7 +414,7 @@ led랑 색 잘 맞겠다
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/B1938A3D31DC71C1F6DAF50A90352DF3E3D1-thumb.jpg">
-<source src="/assets/videos/B1938A3D31DC71C1F6DAF50A90352DF3E3D1.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/B1938A3D31DC71C1F6DAF50A90352DF3E3D1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>

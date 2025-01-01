@@ -2502,12 +2502,7 @@ flover도 어여 자잉
 <small>18:12</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/5DDB287411FF9EB84CBD675B389FA5C322ED-thumb.jpg">
-<source src="/assets/videos/5DDB287411FF9EB84CBD675B389FA5C322ED.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/5DDB287411FF9EB84CBD675B389FA5C322ED.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

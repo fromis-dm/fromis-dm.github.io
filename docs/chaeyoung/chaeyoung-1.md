@@ -286,12 +286,7 @@ flover모하냐아
 <small>23:23</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/E9B93E8F69C1E44C153B7EE4A9A3870314F8-thumb.jpg">
-<source src="/assets/videos/E9B93E8F69C1E44C153B7EE4A9A3870314F8.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/E9B93E8F69C1E44C153B7EE4A9A3870314F8.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -1849,12 +1844,7 @@ flover너를 위해 난 오늘도 연습한다…⭐️
 <small>03:15</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/D4C51D9D8EBD39CEA689094D0787416655BF-thumb.jpg">
-<source src="/assets/videos/D4C51D9D8EBD39CEA689094D0787416655BF.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/D4C51D9D8EBD39CEA689094D0787416655BF.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

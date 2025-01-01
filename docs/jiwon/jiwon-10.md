@@ -4018,12 +4018,7 @@ flover ㅠㅠ
 <small>01:50</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/E9F3822211FE2AE08A1C5BB96DF86AC83AE4-thumb.jpg">
-<source src="/assets/videos/E9F3822211FE2AE08A1C5BB96DF86AC83AE4.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/E9F3822211FE2AE08A1C5BB96DF86AC83AE4.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -4071,12 +4066,7 @@ Your browser does not support the video tag.
 <small>01:54</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/470DF6D74CECBC204FA15DB3A219E63DCBE8-thumb.jpg">
-<source src="/assets/videos/470DF6D74CECBC204FA15DB3A219E63DCBE8.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/470DF6D74CECBC204FA15DB3A219E63DCBE8.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -4092,12 +4082,7 @@ Your browser does not support the video tag.
 <small>01:55</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/5E286477910E6B3B6153DCB5E68118A1623B-thumb.jpg">
-<source src="/assets/videos/5E286477910E6B3B6153DCB5E68118A1623B.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/5E286477910E6B3B6153DCB5E68118A1623B.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -4105,12 +4090,7 @@ Your browser does not support the video tag.
 <small>01:55</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/68E644268ACED39423FC343B1734C0A7D68A-thumb.jpg">
-<source src="/assets/videos/68E644268ACED39423FC343B1734C0A7D68A.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/68E644268ACED39423FC343B1734C0A7D68A.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -4126,12 +4106,7 @@ Your browser does not support the video tag.
 <small>01:58</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/2D9DFFA0DA280B725641F93C907653B24FA1-thumb.jpg">
-<source src="/assets/videos/2D9DFFA0DA280B725641F93C907653B24FA1.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/2D9DFFA0DA280B725641F93C907653B24FA1.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -4171,12 +4146,7 @@ Your browser does not support the video tag.
 <small>02:01</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/E65A15EE5EB3D84ABC2ECEC111FDC2278F8B-thumb.jpg">
-<source src="/assets/videos/E65A15EE5EB3D84ABC2ECEC111FDC2278F8B.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/E65A15EE5EB3D84ABC2ECEC111FDC2278F8B.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -4208,12 +4178,7 @@ Your browser does not support the video tag.
 <small>02:05</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/F41EC2CCCFBD2A5C5F87BB9EAD3D6B3A7A4A-thumb.jpg">
-<source src="/assets/videos/F41EC2CCCFBD2A5C5F87BB9EAD3D6B3A7A4A.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/F41EC2CCCFBD2A5C5F87BB9EAD3D6B3A7A4A.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -4269,12 +4234,7 @@ Your browser does not support the video tag.
 <small>02:09</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/1CCBE446FF70A074FC122BB8E62B7C86043E-thumb.jpg">
-<source src="/assets/videos/1CCBE446FF70A074FC122BB8E62B7C86043E.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/1CCBE446FF70A074FC122BB8E62B7C86043E.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -4370,12 +4330,7 @@ Your browser does not support the video tag.
 <small>02:18</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/5709B596C7665A5C04FA7817A27AE3FBAE7A-thumb.jpg">
-<source src="/assets/videos/5709B596C7665A5C04FA7817A27AE3FBAE7A.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/5709B596C7665A5C04FA7817A27AE3FBAE7A.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -4391,12 +4346,7 @@ Your browser does not support the video tag.
 <small>02:19</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/205DDF196B15CFB1A07D463C2458197E492A-thumb.jpg">
-<source src="/assets/videos/205DDF196B15CFB1A07D463C2458197E492A.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/205DDF196B15CFB1A07D463C2458197E492A.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

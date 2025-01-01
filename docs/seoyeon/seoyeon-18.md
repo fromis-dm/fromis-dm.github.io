@@ -340,7 +340,7 @@ flover한테 인사 안 하고 잤던 것 같아서
 <div class="no-flex" markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/A29D00C69B38339BBBFC16CD6E0533F0DBDE-thumb.jpg">
-<source src="/assets/videos/A29D00C69B38339BBBFC16CD6E0533F0DBDE.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/A29D00C69B38339BBBFC16CD6E0533F0DBDE.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure><figure class="msg-media" markdown="1">

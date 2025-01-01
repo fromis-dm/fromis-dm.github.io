@@ -1102,7 +1102,7 @@ but 나는 젊어
 <div class="no-flex" markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/273CAA8D761B86735B936AC265F0176E6ECC-thumb.jpg">
-<source src="/assets/videos/273CAA8D761B86735B936AC265F0176E6ECC.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/273CAA8D761B86735B936AC265F0176E6ECC.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure><figure class="msg-media" markdown="1">

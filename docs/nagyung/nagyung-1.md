@@ -436,12 +436,7 @@ flover 뭐해여
 <small>19:09</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/0AD88E7D65E8DF08C64FD96732A009E527A9-thumb.jpg">
-<source src="/assets/videos/0AD88E7D65E8DF08C64FD96732A009E527A9.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/0AD88E7D65E8DF08C64FD96732A009E527A9.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -1509,7 +1504,7 @@ flover 머하세여
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/1BBF07E92996BC2004B059498E28E4722CA9-thumb.jpg">
-<source src="/assets/videos/1BBF07E92996BC2004B059498E28E4722CA9.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/1BBF07E92996BC2004B059498E28E4722CA9.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -1804,7 +1799,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/E57279407369D77AE3DDF341CC6B80871F16-thumb.jpg">
-<source src="/assets/videos/E57279407369D77AE3DDF341CC6B80871F16.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/E57279407369D77AE3DDF341CC6B80871F16.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -3711,12 +3706,7 @@ flover 저녁 맛있게 먹어 😊
 <small>00:19</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/BE386F893F4DC6F0109909A50CB4C302D8F9-thumb.jpg">
-<source src="/assets/videos/BE386F893F4DC6F0109909A50CB4C302D8F9.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/BE386F893F4DC6F0109909A50CB4C302D8F9.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

@@ -86,7 +86,7 @@ weight: 2
 <div class="no-flex" markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/101FF567F1AD61DC83791AEC7FC67DCED3E8-thumb.jpg">
-<source src="/assets/videos/101FF567F1AD61DC83791AEC7FC67DCED3E8.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/101FF567F1AD61DC83791AEC7FC67DCED3E8.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>내가 아까 보낸 거 이거야^^
@@ -2505,12 +2505,7 @@ flover
 <small>20:36</small>
 </div>
 <div class="no-flex" markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/0902C2E9A65C21A3204157AA820458275CD7-thumb.jpg">
-<source src="/assets/videos/0902C2E9A65C21A3204157AA820458275CD7.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>이러고
+<audio controls src="/assets/videos/0902C2E9A65C21A3204157AA820458275CD7.mp4" preload="none"></audio>이러고
 </div>
 </div>
 <div class="message" markdown="1">
@@ -2518,12 +2513,7 @@ Your browser does not support the video tag.
 <small>20:36</small>
 </div>
 <div class="no-flex" markdown="1">
-이나경은<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/558625938B4F849F0CA6E300A9B7110B6DD1-thumb.jpg">
-<source src="/assets/videos/558625938B4F849F0CA6E300A9B7110B6DD1.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+이나경은<audio controls src="/assets/videos/558625938B4F849F0CA6E300A9B7110B6DD1.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

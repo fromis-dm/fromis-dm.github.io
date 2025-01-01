@@ -776,12 +776,7 @@ flover 잘자!! 나도 자야겠당
 <small>20:15</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/324CE40458F2C71FD97E593CEF2B5AFD6BAF-thumb.jpg">
-<source src="/assets/videos/324CE40458F2C71FD97E593CEF2B5AFD6BAF.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/324CE40458F2C71FD97E593CEF2B5AFD6BAF.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">

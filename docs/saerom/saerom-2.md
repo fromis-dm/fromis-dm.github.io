@@ -376,7 +376,7 @@ weight: 2
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/959891623C47262E35E90A6DD4AD13278429-thumb.jpg">
-<source src="/assets/videos/959891623C47262E35E90A6DD4AD13278429.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/959891623C47262E35E90A6DD4AD13278429.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -703,12 +703,7 @@ Your browser does not support the video tag.
 <small>12:07</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/A161227DACD9AE182942B21FA7062EFA1C02-thumb.jpg">
-<source src="/assets/videos/A161227DACD9AE182942B21FA7062EFA1C02.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/A161227DACD9AE182942B21FA7062EFA1C02.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -732,12 +727,7 @@ Your browser does not support the video tag.
 <small>12:10</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/CAFD6ECD3C4324E634DBA138C997517B84EE-thumb.jpg">
-<source src="/assets/videos/CAFD6ECD3C4324E634DBA138C997517B84EE.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/CAFD6ECD3C4324E634DBA138C997517B84EE.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -1387,12 +1377,7 @@ flover멍듕이가져와마 7700
 <small>13:29</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/ECD578E361970FCC2E01F53C29030783E198-thumb.jpg">
-<source src="/assets/videos/ECD578E361970FCC2E01F53C29030783E198.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/ECD578E361970FCC2E01F53C29030783E198.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -1420,12 +1405,7 @@ Your browser does not support the video tag.
 <small>14:25</small>
 </div>
 <div markdown="1">
-<figure class="msg-media" markdown="1">
-<video controls="controls" preload="none" poster="/assets/videos/AA0361163E3539299A73BB9F177EBDE13140-thumb.jpg">
-<source src="/assets/videos/AA0361163E3539299A73BB9F177EBDE13140.mp4#t=1" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</figure>
+<audio controls src="/assets/videos/AA0361163E3539299A73BB9F177EBDE13140.mp4" preload="none"></audio>
 </div>
 </div>
 <div class="message" markdown="1">
@@ -2349,7 +2329,7 @@ flover 밥 묵어!!!
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/0F070EEB6D85D200135505CC77A33C4E562C-thumb.jpg">
-<source src="/assets/videos/0F070EEB6D85D200135505CC77A33C4E562C.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/0F070EEB6D85D200135505CC77A33C4E562C.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2418,7 +2398,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/0598472947C3E8DE47F20A6DD4AD13278429-thumb.jpg">
-<source src="/assets/videos/0598472947C3E8DE47F20A6DD4AD13278429.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/0598472947C3E8DE47F20A6DD4AD13278429.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
@@ -2439,7 +2419,7 @@ Your browser does not support the video tag.
 <div markdown="1">
 <figure class="msg-media" markdown="1">
 <video controls="controls" preload="none" poster="/assets/videos/EE1B8A231551C5523759704FE2BA65583256-thumb.jpg">
-<source src="/assets/videos/EE1B8A231551C5523759704FE2BA65583256.mp4#t=1" type="video/mp4">
+<source src="/assets/videos/EE1B8A231551C5523759704FE2BA65583256.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </figure>
